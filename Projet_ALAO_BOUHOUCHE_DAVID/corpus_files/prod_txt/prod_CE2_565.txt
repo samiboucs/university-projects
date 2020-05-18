@@ -1,0 +1,1 @@
+Chaque lundi Léon raconte leur week-end mais le seul problème c'est que chez son papi et sa mamy il ne se passe rien du tout <segmentation/> il mange et il remange mais un jour sa mère s'est coupée avec un couteau <segmentation/> <unsure> ça saigne </unsure> et il a raconté ça à l'école <segmentation/> il a eu une bonne note.

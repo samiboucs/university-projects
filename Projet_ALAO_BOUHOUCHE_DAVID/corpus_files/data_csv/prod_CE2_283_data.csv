@@ -1,0 +1,73 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_283
+
+Cette production contient : 
+
+	16 forme(s)/token(s)
+
+	13 mot(s)
+
+	13 hapax
+
+	56 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 6 mot(s) par phrase
+
+	13 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		déteste : 1
+		la : 1
+		rédaction : 1
+		les : 1
+		mardis : 1
+		Il : 1
+		n' : 1
+		avait : 1
+		que : 1
+		des : 1
+		le : 1
+		dimanche : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('DET:ART', 3)
+		('NOM', 3)
+		('SENT', 2)
+		('ADV', 2)
+		('NAM', 1)
+		('VER:pres', 1)
+		('PRO:PER', 1)
+		('VER:impf', 1)
+		('PRP:det', 1)
+		('NUM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 3)
+		(('SENT', '.'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'détester'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('NOM', 'mardi'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('ADV', 'que'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NUM', '@card@'), 1)
+		(('NOM', 'dimanche'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 1.5155129317666628e-11
+
+	Précision : 0.7333333333333333
+
+	Rappel : 0.057291666666666664
+
+	F-mesure : 0.10628019323671496
+

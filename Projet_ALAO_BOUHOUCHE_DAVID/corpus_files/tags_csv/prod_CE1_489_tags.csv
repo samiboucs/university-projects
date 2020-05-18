@@ -1,0 +1,73 @@
+C'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+histoire	NOM	histoire
+d'	PRP	de
+un	DET:ART	un
+garçon	NOM	garçon
+qui	PRO:REL	qui
+<suggestion>
+raconte	VER:pres	raconter
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+</suggestion>
+est	VER:pres	être
+arrivé	VER:pper	arriver
+à	PRP	à
+sa	DET:POS	son
+maman	NOM	maman
+<suggestion>
+qui	PRO:REL	qui
+</suggestion>
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+et	KON	et
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+raconte	VER:pres	raconter
+dans	PRP	dans
+la	DET:ART	le
+rédaction	NOM	rédaction
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+se	PRO:PER	se
+passe	VER:pres	passer
+mais	KON	mais
+un	DET:ART	un
+jour	NOM	jour
+le	DET:ART	le
+garçon	NOM	garçon
+a	VER:pres	avoir
+mis	VER:pper	mettre
+un	DET:ART	un
+vase	NOM	vase
+<omission type=""complément""/>
+<segmentation/>
+soudain	ADV	soudain
+le	DET:ART	le
+vase	NOM	vase
+tomba	VER:simp	tomber
+sur	PRP	sur
+la	DET:ART	le
+tête	NOM	tête
+de	PRP	de
+la	DET:ART	le
+maitresse	NOM	maitresse
+<segmentation/>
+elle	PRO:PER	elle
+s'	PRO:PER	se
+est	VER:pres	être
+fracturé	VER:pper	fracturer
+la	DET:ART	le
+tête	NOM	tête
+<segmentation/>
+heureusement	ADV	heureusement
+que	KON	que
+les	DET:ART	le
+pompiers	NOM	pompier
+arrivent	VER:pres	arriver
+.	SENT	.

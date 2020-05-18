@@ -1,0 +1,20 @@
+C'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+garçon	NOM	garçon
+<segmentation/>
+son	DET:POS	son
+prénom	NOM	prénom
+<suggestion>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</suggestion>
+Marcel	NAM	Marcel
+<segmentation/>
+<suggestion>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</suggestion>
+un	DET:ART	un
+jeune	ADJ	jeune
+<nonfini/>

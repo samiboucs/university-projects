@@ -1,0 +1,95 @@
+À	PRP	à
+l'	DET:ART	le
+école	NOM	école
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+est	VER:pres	être
+très	ADV	très
+fort	ADJ	fort
+en	PRP	en
+mathématique	ADJ	mathématique
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+fini	VER:pper	finir
+les	DET:ART	le
+cours	NOM	cour|cours
+<segmentation/>
+il	PRO:PER	il
+rentre	VER:pres	rentrer
+chez	PRP	chez
+lui	PRO:PER	lui
+<segmentation/>
+il	PRO:PER	il
+met	VER:pres	mettre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+sur	PRP	sur
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+et	KON	et
+une	DET:ART	un
+<unsure>
+vieille	ADJ	vieux
+</unsure>
+dame	NOM	dame
+passa	VER:simp	passer
+sous	PRP	sous
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+<unsure>
+et	KON	et
+d'	PRP	de
+un	DET:ART	un
+coup	NOM	coup
+</unsure>
+paf	ADJ	paf
+<segmentation/>
+le	DET:ART	le
+pot	NOM	pot
+tombe	VER:pres	tomber
+<segmentation/>
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+était	VER:impf	être
+aux	PRP:det	au
+<unsure>
+toilettes	NOM	toilette
+</unsure>
+il	PRO:PER	il
+n'	ADV	ne
+a	VER:pres	avoir
+pas	ADV	pas
+pu	VER:pper	pouvoir
+entendre	VER:infi	entendre
+cela	PRO:DEM	cela
+<segmentation/>
+<omission type=""déterminant""/>
+matin	NOM	matin
+la	DET:ART	le
+<unsure>
+maitresse	NOM	maitresse
+</unsure>
+<suggestion>
+est	VER:pres	être
+à	PRP	à
+</suggestion>
+<unsure>
+l'	DET:ART	le
+hôpital	NOM	hôpital
+</unsure>
+la	DET:ART	le
+remplaçante	NOM	remplaçant
+arrive	VER:pres	arriver
+<segmentation/>
+la	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+n'	ADV	ne
+a	VER:pres	avoir
+pas	ADV	pas
+<incomprehensible/>
+.	SENT	.

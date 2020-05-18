@@ -1,0 +1,130 @@
+Léo	NAM	Léo
+avait	VER:impf	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+zéro	NOM	zéro
+en	PRP	en
+rédaction	NOM	rédaction
+<segmentation/>
+un	NOM	un
+<omission type=""nom""/>
+sa	DET:POS	son
+maman	NOM	maman
+s'	PRO:PER	se
+était	VER:impf	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+et	KON	et
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+huit	NUM	huit
+<segmentation/>
+ensuite	ADV	ensuite
+il	PRO:PER	il
+avait	VER:impf	avoir
+poussé	VER:pper	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+et	KON	et
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+neuf	NOM	neuf
+<segmentation/>
+elle	PRO:PER	elle
+avait	VER:impf	avoir
+mis	VER:pper	mettre
+de	PRP	de
+la	DET:ART	le
+poudre	NOM	poudre
+dans	PRP	dans
+quelque	PRO:IND	quelque
+chose	NOM	chose
+et	KON	et
+il	PRO:PER	il
+avait	VER:impf	avoir
+eu	VER:pper	avoir
+9	NUM	@card@
+et	KON	et
+demi	ADV	demi
+<segmentation/>
+il	PRO:PER	il
+pense	VER:pres	penser
+à	PRP	à
+une	DET:ART	un
+chose	NOM	chose
+bien	ADV	bien
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+trouvé	VER:pper	trouver
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+faire	VER:infi	faire
+quelque	PRO:IND	quelque
+chose	NOM	chose
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+faire	VER:infi	faire
+tenir	VER:infi	tenir
+quelque	PRO:IND	quelque
+chose	NOM	chose
+en	PRP	en
+équilibre	NOM	équilibre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+<segmentation/>
+il	PRO:PER	il
+est	VER:pres	être
+comme	ADV	comme
+il	PRO:PER	il
+le	PRO:PER	le
+souhaitait	VER:impf	souhaiter
+mais	KON	mais
+malheureusement	ADV	malheureusement
+il	PRO:PER	il
+était	VER:impf	être
+aux	PRP:det	au
+toilettes	NOM	toilette
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+voir	VER:infi	voir
+par	PRP	par
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+vu	VER:pper	voir
+l'	DET:ART	le
+ambulance	NOM	ambulance
+<segmentation/>
+il	PRO:PER	il
+voit	VER:pres	voir
+que	KON	que
+la	DET:ART	le
+victime	NOM	victime
+était	VER:impf	être
+une	DET:ART	un
+femme	NOM	femme
+<segmentation/>
+demain	ADV	demain
+il	PRO:PER	il
+va	VER:pres	aller
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+et	KON	et
+il	PRO:PER	il
+rentre	VER:pres	rentrer
+c'	PRO:DEM	ce
+était	VER:impf	être
+<nonfini/>

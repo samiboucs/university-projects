@@ -1,0 +1,87 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_486
+
+Cette production contient : 
+
+	24 forme(s)/token(s)
+
+	23 mot(s)
+
+	16 hapax
+
+	100 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 23 mot(s) par phrase
+
+	19 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		ne : 2
+		pouvait : 1
+		pas : 1
+		raconter : 1
+		son : 1
+		dimanche : 3
+		parce : 1
+		qu' : 1
+		il : 1
+		faisait : 1
+		rien : 1
+		le : 2
+		sa : 1
+		maman : 1
+		s' : 1
+		est : 1
+		coupé : 1
+		doigt : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 5)
+		('ADV', 4)
+		('VER:impf', 2)
+		('DET:POS', 2)
+		('KON', 2)
+		('PRO:PER', 2)
+		('DET:ART', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+		('VER:pres', 1)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NOM', 'dimanche'), 3)
+		(('ADV', 'ne'), 2)
+		(('DET:POS', 'son'), 2)
+		(('DET:ART', 'le'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:impf', 'pouvoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('KON', 'parce'), 1)
+		(('KON', 'que'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8260869565217391
+
+	Score BLEU : 7.765301921234211e-08
+
+	Précision : 0.7
+
+	Rappel : 0.07291666666666667
+
+	F-mesure : 0.1320754716981132
+

@@ -1,0 +1,24 @@
+Le	DET:ART	le
+lundi	NOM	lundi
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+même	ADJ	même
+chose	NOM	chose
+<segmentation/>
+on	PRO:PER	on
+doit	VER:pres	devoir
+raconter	VER:infi	raconter
+le	DET:ART	le
+dimanche	NOM	dimanche
+de	PRP	de
+Léon	NAM	Léon
+<segmentation/>
+la	DET:ART	le
+première	NUM	premier
+fois	NOM	foi|fois
+<omission type=""sujet""/>
+expliqua	VER:simp	expliquer
+son	DET:POS	son
+dimanche	NOM	dimanche
+.	SENT	.

@@ -1,0 +1,209 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_104
+
+Cette production contient : 
+
+	159 forme(s)/token(s)
+
+	144 mot(s)
+
+	49 hapax
+
+	561 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 144 mot(s) par phrase
+
+	78 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Néon : 1
+		tous : 1
+		les : 2
+		dimanches : 1
+		va : 1
+		chez : 2
+		ses : 3
+		grands-parents : 1
+		et : 14
+		le : 2
+		lundi : 1
+		il : 13
+		avait : 1
+		rédaction : 2
+		devait : 1
+		raconter : 1
+		son : 1
+		dimanche : 2
+		ne : 1
+		faisait : 1
+		que : 2
+		manger : 1
+		dormir : 2
+		en : 2
+		moyenne : 2
+		ou : 1
+		un : 3
+		jour : 1
+		sa : 3
+		maman : 1
+		s' : 1
+		est : 3
+		coupé : 1
+		doigt : 1
+		a : 3
+		raconté : 1
+		ça : 2
+		à : 3
+		la : 6
+		eut : 1
+		continua : 2
+		poussa : 1
+		soeur : 1
+		dans : 1
+		escaliers : 2
+		eu : 2
+		demi : 1
+		sur : 4
+		fait : 1
+		déborder : 1
+		machine : 1
+		laver : 1
+		mais : 1
+		mit : 1
+		pot : 1
+		de : 4
+		fleurs : 1
+		au : 1
+		bord : 1
+		fenêtre : 1
+		pensait : 1
+		allait : 1
+		tomber : 1
+		tête : 1
+		quelqu'un : 1
+		arriva : 2
+		c' : 2
+		tombé : 1
+		une : 2
+		dame : 1
+		était : 1
+		maitresse : 2
+		remplaçante : 1
+		venue : 2
+		place : 1
+		ils : 1
+		ont : 1
+		conjugaison : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 28)
+		('KON', 17)
+		('PRP', 16)
+		('PRO:PER', 15)
+		('DET:ART', 14)
+		('NUM', 11)
+		('VER:pres', 9)
+		('DET:POS', 7)
+		('VER:infi', 7)
+		('VER:pper', 7)
+		('VER:simp', 7)
+		('VER:impf', 6)
+		('PUN', 4)
+		('PRO:DEM', 4)
+		('PRO:IND', 2)
+		('ADV', 2)
+		('ADJ', 1)
+		('PRP:det', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('KON', 'et'), 14)
+		(('PRO:PER', 'il'), 14)
+		(('DET:ART', 'le'), 10)
+		(('NUM', '@card@'), 10)
+		(('DET:POS', 'son'), 7)
+		(('PUN', '/'), 4)
+		(('DET:ART', 'un'), 4)
+		(('VER:pres', 'avoir'), 4)
+		(('PRP', 'sur'), 4)
+		(('PRP', 'de'), 4)
+		(('NOM', 'dimanche'), 3)
+		(('VER:pres', 'être'), 3)
+		(('PRP', 'à'), 3)
+		(('PRP', 'chez'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('VER:infi', 'dormir'), 2)
+		(('PRP', 'en'), 2)
+		(('NOM', 'moyenne'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:simp', 'continuer'), 2)
+		(('NOM', 'escalier'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('VER:simp', 'arriver'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('NOM', 'maitresse'), 2)
+		(('VER:pper', 'venir'), 2)
+		(('NOM', 'néon'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('ADV', 'que'), 1)
+		(('VER:infi', 'manger'), 1)
+		(('KON', 'ou'), 1)
+		(('NUM', 'un'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('ADJ', 'demi'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:infi', 'déborder'), 1)
+		(('NOM', 'machine'), 1)
+		(('VER:infi', 'laver'), 1)
+		(('KON', 'mais'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'bord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:impf', 'penser'), 1)
+		(('KON', 'que'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('VER:infi', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('PRO:IND', "quelqu'un"), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('NOM', 'dame'), 1)
+		(('VER:impf', 'être'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'place'), 1)
+		(('NOM', 'conjugaison'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5416666666666666
+
+	Score BLEU : 0.11934557802416593
+
+	Précision : 0.6
+
+	Rappel : 0.265625
+
+	F-mesure : 0.3682310469314079
+

@@ -1,0 +1,180 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_528
+
+Cette production contient : 
+
+	121 forme(s)/token(s)
+
+	119 mot(s)
+
+	32 hapax
+
+	465 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 60 mot(s) par phrase
+
+	62 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Lundi : 1
+		Léon : 2
+		avait : 2
+		rédaction : 5
+		mais : 3
+		il : 11
+		n' : 2
+		rien : 2
+		à : 2
+		raconter : 2
+		eut : 3
+		des : 1
+		zéros : 1
+		car : 1
+		le : 6
+		dimanche : 4
+		ne : 1
+		se : 2
+		passait : 1
+		un : 3
+		sa : 4
+		mère : 1
+		coupa : 1
+		doigt : 2
+		y : 1
+		plein : 1
+		de : 1
+		sang : 1
+		sur : 3
+		la : 2
+		nappe : 2
+		raconta : 1
+		dans : 3
+		dix : 2
+		poussa : 1
+		soeur : 1
+		l' : 4
+		escalier : 2
+		a : 2
+		raconté : 1
+		autre : 1
+		mit : 1
+		pot : 2
+		en : 2
+		équilibre : 2
+		pensant : 1
+		qu' : 1
+		tombera : 1
+		tête : 1
+		d' : 1
+		passant : 1
+		Et : 2
+		tomba : 1
+		pas : 1
+		pu : 1
+		voir : 1
+		qui : 2
+		était : 1
+		aux : 1
+		WC : 1
+		lendemain : 1
+		école : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 29)
+		('PRO:PER', 16)
+		('DET:ART', 13)
+		('PRP', 12)
+		('VER:simp', 8)
+		('KON', 7)
+		('ADV', 6)
+		('VER:impf', 4)
+		('DET:POS', 4)
+		('NAM', 3)
+		('VER:infi', 3)
+		('PRP:det', 2)
+		('ADJ', 2)
+		('NUM', 2)
+		('VER:pres', 2)
+		('VER:pper', 2)
+		('SENT', 2)
+		('PRO:REL', 2)
+		('VER:ppre', 1)
+		('VER:futu', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 11)
+		(('DET:ART', 'le'), 10)
+		(('NOM', 'rédaction'), 5)
+		(('NOM', 'dimanche'), 4)
+		(('DET:POS', 'son'), 4)
+		(('KON', 'mais'), 3)
+		(('ADV', 'ne'), 3)
+		(('VER:simp', 'avoir'), 3)
+		(('DET:ART', 'un'), 3)
+		(('PRP', 'sur'), 3)
+		(('PRP', 'dans'), 3)
+		(('NAM', 'Léon'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('ADV', 'rien'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:infi', 'raconter'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'doigt'), 2)
+		(('PRP', 'de'), 2)
+		(('NOM', 'nappe'), 2)
+		(('NUM', 'dix'), 2)
+		(('NOM', 'escalier'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('NOM', 'pot'), 2)
+		(('PRP', 'en'), 2)
+		(('NOM', 'équilibre'), 2)
+		(('SENT', '.'), 2)
+		(('KON', 'et'), 2)
+		(('PRO:REL', 'qui'), 2)
+		(('NOM', 'école'), 2)
+		(('NOM', 'lundi'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'zéro'), 1)
+		(('KON', 'car'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('ADJ', 'plein'), 1)
+		(('NOM', 'sang'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('VER:simp', 'raconter'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRO:PER', 'la|le'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('ADJ', 'autre'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('VER:ppre', 'penser'), 1)
+		(('KON', 'que'), 1)
+		(('VER:futu', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'passant'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:pper', 'pouvoir'), 1)
+		(('VER:infi', 'voir'), 1)
+		(('VER:impf', 'être'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NAM', 'WC'), 1)
+		(('NOM', 'lendemain'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5210084033613446
+
+	Score BLEU : 0.06750295340378312
+
+	Précision : 0.746031746031746
+
+	Rappel : 0.24479166666666666
+
+	F-mesure : 0.36862745098039207
+

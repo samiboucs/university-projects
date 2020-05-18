@@ -1,0 +1,85 @@
+<titre>
+La	DET:ART	le
+rédaction	NOM	rédaction
+</titre>
+C'	ADJ	C'
+était	VER:impf	être
+l'	DET:ART	le
+histoire	NOM	histoire
+d'	PRP	de
+un	DET:ART	un
+petit	ADJ	petit
+garçon	NOM	garçon
+qui	PRO:REL	qui
+n'	ADV	ne
+aimait	VER:impf	aimer
+pas	ADV	pas
+la	DET:ART	le
+rédaction	NOM	rédaction
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+avait	VER:impf	avoir
+trouvé	VER:pper	trouver
+une	DET:ART	un
+solution	NOM	solution
+<segmentation/>
+il	PRO:PER	il
+fallait	VER:impf	falloir
+qu'	KON	que
+il	PRO:PER	il
+se	PRO:PER	se
+passe	VER:pres	passer
+quelque	PRO:IND	quelque
+chose	NOM	chose
+pour	KON	pour
+qu'	PRO:REL	que
+il	PRO:PER	il
+ait	VER:subp	avoir
+10	NUM	@card@
+sur	PRP	sur
+10	NUM	@card@
+en	PRP	en
+rédaction	NOM	rédaction
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+l'	DET:ART	le
+idée	NOM	idée
+de	PRP	de
+mettre	VER:infi	mettre
+un	DET:ART	un
+pot	NOM	pot
+sur	PRP	sur
+le	DET:ART	le
+balcon	NOM	balcon
+en	PRP	en
+espérant	VER:ppre	espérer
+qu'	KON	que
+il	PRO:PER	il
+tombe	VER:pres	tomber
+<segmentation/>
+il	PRO:PER	il
+est	VER:pres	être
+tombé	VER:pper	tomber
+sur	PRP	sur
+une	DET:ART	un
+dame	NOM	dame
+et	KON	et
+il	PRO:PER	il
+va	VER:pres	aller
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+et	KON	et
+il	PRO:PER	il
+y	PRO:PER	y
+a	VER:pres	avoir
+une	NUM	un
+<nonfini/>

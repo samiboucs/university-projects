@@ -1,0 +1,34 @@
+<titre>
+Léon	NAM	Léon
+rédaction	NOM	rédaction
+</titre>
+Léon	NAM	Léon
+fait	VER:pres	faire
+des	PRP:det	du
+bêtises	NOM	bêtise
+<segmentation/>
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+il	PRO:PER	il
+a	VER:pres	avoir
+été	VER:pper	être
+puni	VER:pper	punir
+et	KON	et
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+zéro	NOM	zéro
+sur	PRP	sur
+dix	NUM	dix
+et	KON	et
+il	PRO:PER	il
+est	VER:pres	être
+allé	VER:pper	aller
+chez	PRP	chez
+ses	DET:POS	son
+grands-parents	NOM	grands-parents
+et	KON	et
+il	PRO:PER	il
+man	NOM	man
+<nonfini/>

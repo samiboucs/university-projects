@@ -1,0 +1,140 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_474
+
+Cette production contient : 
+
+	74 forme(s)/token(s)
+
+	61 mot(s)
+
+	33 hapax
+
+	253 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 12 mot(s) par phrase
+
+	44 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		c' : 1
+		était : 1
+		rédaction : 1
+		pour : 1
+		Léon : 1
+		Il : 2
+		doit : 1
+		raconter : 1
+		son : 1
+		dimanche : 3
+		il : 4
+		va : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		mange : 2
+		ne : 2
+		fait : 1
+		rien : 3
+		remange : 2
+		refait : 1
+		La : 2
+		maîtresse : 2
+		dit : 4
+		Tu : 2
+		peux : 1
+		faire : 1
+		mieux : 1
+		Le : 1
+		d' : 1
+		après : 1
+		sa : 1
+		mère : 1
+		s' : 1
+		est : 1
+		coupé : 1
+		le : 1
+		doigt : 1
+		lui : 1
+		as : 1
+		sur : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 15)
+		('NOM', 10)
+		('PRO:PER', 8)
+		('ADV', 6)
+		('PUN:cit', 6)
+		('DET:ART', 5)
+		('PRP', 5)
+		('SENT', 5)
+		('NAM', 4)
+		('DET:POS', 3)
+		('VER:infi', 2)
+		('PRO:IND', 1)
+		('PRO:DEM', 1)
+		('VER:impf', 1)
+		('VER:pper', 1)
+		('NUM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 6)
+		(('DET:ART', 'le'), 5)
+		(('SENT', '.'), 5)
+		(('VER:pres', 'dire'), 4)
+		(('PUN:cit', '»'), 4)
+		(('DET:POS', 'son'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('ADV', 'rien'), 3)
+		(('VER:pres', 'manger'), 2)
+		(('ADV', 'ne'), 2)
+		(('VER:pres', 'remanger'), 2)
+		(('NOM', 'maître|maîtresse'), 2)
+		(('PUN:cit', '«'), 2)
+		(('NAM', 'Tu'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:impf', 'être'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('PRP', 'pour'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'refaire'), 1)
+		(('VER:pres', 'pouvoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('ADV', 'mieux'), 1)
+		(('PRP', 'de'), 1)
+		(('PRP', 'après'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('NUM', '@card@'), 1)
+		(('PRP', 'sur'), 1)
+		(('NAM', '@ord@'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7213114754098361
+
+	Score BLEU : 0.00691954942935819
+
+	Précision : 0.6326530612244898
+
+	Rappel : 0.16145833333333334
+
+	F-mesure : 0.2572614107883818
+

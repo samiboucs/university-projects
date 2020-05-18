@@ -1,0 +1,106 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_250
+
+Cette production contient : 
+
+	51 forme(s)/token(s)
+
+	48 mot(s)
+
+	19 hapax
+
+	175 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 16 mot(s) par phrase
+
+	31 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		a : 1
+		une : 3
+		idée : 2
+		il : 3
+		prend : 1
+		un : 2
+		pot : 2
+		de : 3
+		fleurs : 2
+		et : 2
+		le : 3
+		met : 1
+		sur : 2
+		bord : 1
+		la : 3
+		fenêtre : 1
+		jour : 1
+		maîtresse : 1
+		prit : 1
+		tête : 1
+		Le : 1
+		lendemain : 1
+		y : 1
+		avait : 2
+		remplaçante : 1
+		La : 1
+		maitresse : 1
+		fracture : 1
+		du : 1
+		crâne : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 16)
+		('DET:ART', 12)
+		('PRO:PER', 6)
+		('PRP', 5)
+		('VER:pres', 3)
+		('SENT', 3)
+		('KON', 2)
+		('VER:impf', 2)
+		('VER:simp', 1)
+		('PRP:det', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 7)
+		(('DET:ART', 'un'), 5)
+		(('PRO:PER', 'il'), 4)
+		(('PRP', 'de'), 3)
+		(('SENT', '.'), 3)
+		(('NOM', 'idée'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'fleur'), 2)
+		(('KON', 'et'), 2)
+		(('PRP', 'sur'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pres', 'prendre'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('VER:pres', 'mettre'), 1)
+		(('NOM', 'bord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:simp', 'prendre'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('NOM', 'fracture'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'crâne'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6458333333333334
+
+	Score BLEU : 0.0007220821093215981
+
+	Précision : 0.78125
+
+	Rappel : 0.13020833333333334
+
+	F-mesure : 0.22321428571428573
+

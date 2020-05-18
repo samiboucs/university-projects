@@ -1,0 +1,1 @@
+Un garçon, une maman, un papa et une soeur <segmentation/> le garçon il embêtait sa famille <segmentation/> il criait pour dire que ce n'est pas lui <segmentation/> il dit que c'est sa soeur. Et le garçon va faire une bêtise et la ma <nonfini/>

@@ -1,0 +1,136 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_548
+
+Cette production contient : 
+
+	69 forme(s)/token(s)
+
+	59 mot(s)
+
+	24 hapax
+
+	256 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 59 mot(s) par phrase
+
+	38 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		est : 1
+		lundi : 2
+		matin : 2
+		Léon : 1
+		ne : 1
+		sait : 1
+		pas : 1
+		quoi : 1
+		écrire : 1
+		sur : 2
+		son : 2
+		cahier : 4
+		alors : 3
+		il : 5
+		invente : 1
+		une : 1
+		histoire : 2
+		a : 2
+		eu : 1
+		inacceptable : 1
+		et : 1
+		recommence : 2
+		cette : 1
+		fois : 1
+		eut : 1
+		ce : 2
+		week-end : 2
+		sa : 1
+		maman : 1
+		se : 1
+		coupe : 1
+		le : 3
+		doigt : 1
+		en : 1
+		coupant : 1
+		gigot : 2
+		raconté : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 17)
+		('VER:pres', 8)
+		('PRO:PER', 7)
+		('ADV', 5)
+		('DET:ART', 4)
+		('PUN:cit', 4)
+		('PRP', 3)
+		('DET:POS', 3)
+		('PRO:DEM', 3)
+		('NUM', 3)
+		('VER:pper', 2)
+		('KON', 2)
+		('SENT', 1)
+		('NAM', 1)
+		('PRO:REL', 1)
+		('VER:infi', 1)
+		('ADJ', 1)
+		('VER:simp', 1)
+		('PUN', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 6)
+		(('NOM', 'cahier'), 4)
+		(('PUN:cit', '"'), 4)
+		(('DET:POS', 'son'), 3)
+		(('PRO:DEM', 'ce'), 3)
+		(('NUM', '@card@'), 3)
+		(('DET:ART', 'le'), 3)
+		(('NOM', 'lundi'), 2)
+		(('NOM', 'matin'), 2)
+		(('PRP', 'sur'), 2)
+		(('ADV', 'alors'), 2)
+		(('NOM', 'histoire'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('VER:pres', 'recommencer'), 2)
+		(('NOM', 'week-end'), 2)
+		(('NOM', 'gigot'), 2)
+		(('VER:pres', 'être'), 1)
+		(('SENT', '.'), 1)
+		(('NAM', 'Léon'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'savoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRO:REL', 'quoi'), 1)
+		(('VER:infi', 'écrire'), 1)
+		(('VER:pres', 'inventer'), 1)
+		(('DET:ART', 'un'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('ADJ', 'inacceptable'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('PUN', '/'), 1)
+		(('KON', 'alors'), 1)
+		(('ADV', 'là'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('VER:pper', 'raconter'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6440677966101694
+
+	Score BLEU : 0.003000910128615755
+
+	Précision : 0.4772727272727273
+
+	Rappel : 0.109375
+
+	F-mesure : 0.17796610169491528
+

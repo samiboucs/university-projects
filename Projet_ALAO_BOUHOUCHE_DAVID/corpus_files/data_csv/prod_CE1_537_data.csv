@@ -1,0 +1,140 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_537
+
+Cette production contient : 
+
+	71 forme(s)/token(s)
+
+	64 mot(s)
+
+	27 hapax
+
+	257 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 16 mot(s) par phrase
+
+	44 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		est : 1
+		à : 2
+		l' : 2
+		école : 2
+		tous : 1
+		les : 1
+		lundis : 1
+		il : 3
+		raconte : 1
+		son : 1
+		dimanche : 2
+		Mais : 1
+		le : 2
+		rien : 2
+		ne : 2
+		se : 3
+		passait : 2
+		Il : 1
+		était : 2
+		chez : 1
+		ses : 1
+		grands-parents : 2
+		mangeait : 2
+		d' : 1
+		autre : 1
+		Et : 2
+		un : 1
+		jour : 1
+		sa : 1
+		mère : 1
+		coupa : 1
+		doigt : 2
+		plein : 1
+		de : 1
+		sang : 1
+		sur : 2
+		la : 3
+		nappe : 1
+		Le : 1
+		lendemain : 1
+		arrivé : 1
+		a : 1
+		eu : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 15)
+		('PRO:PER', 9)
+		('DET:ART', 8)
+		('PRP', 7)
+		('VER:impf', 6)
+		('DET:POS', 4)
+		('SENT', 4)
+		('ADV', 4)
+		('VER:pres', 3)
+		('KON', 2)
+		('ADJ', 2)
+		('VER:pper', 2)
+		('NAM', 1)
+		('PUN', 1)
+		('PRO:IND', 1)
+		('VER:simp', 1)
+		('NUM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 7)
+		(('PRO:PER', 'il'), 4)
+		(('SENT', '.'), 4)
+		(('DET:POS', 'son'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('PRP', 'à'), 2)
+		(('NOM', 'école'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('ADV', 'rien'), 2)
+		(('ADV', 'ne'), 2)
+		(('VER:impf', 'passer'), 2)
+		(('VER:impf', 'être'), 2)
+		(('NOM', 'grands-parents'), 2)
+		(('VER:impf', 'manger'), 2)
+		(('PRP', 'de'), 2)
+		(('NOM', 'doigt'), 2)
+		(('PRP', 'sur'), 2)
+		(('PRO:PER', 'la'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'être'), 1)
+		(('PUN', ','), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:pres', 'raconter'), 1)
+		(('KON', 'mais'), 1)
+		(('PRP', 'chez'), 1)
+		(('ADJ', 'autre'), 1)
+		(('KON', 'et'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('ADJ', 'plein'), 1)
+		(('NOM', 'sang'), 1)
+		(('NOM', 'nappe'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('VER:pper', 'arriver'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('NUM', '@card@'), 1)
+		(('DET:POS', '@ord@'), 1)
+		(('NOM', 'Et'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6875
+
+	Score BLEU : 0.006301069797881002
+
+	Précision : 0.7708333333333334
+
+	Rappel : 0.19270833333333334
+
+	F-mesure : 0.30833333333333335
+

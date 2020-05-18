@@ -1,0 +1,68 @@
+<titre>
+La	DET:ART	le
+rédaction	NOM	rédaction
+</titre>
+Tous	VER:pres	Tous
+les	DET:ART	le
+lundis	NOM	lundi
+Léon	NAM	Léon
+doit	VER:pres	devoir
+raconter	VER:infi	raconter
+sa	DET:POS	son
+rédaction	NOM	rédaction
+du	PRP:det	du
+dimanche	NOM	dimanche
+mais	KON	mais
+le	DET:ART	le
+premier	NUM	premier
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+0	NUM	@card@
+sur	PRP	sur
+10	NUM	@card@
+<segmentation/>
+le	DET:ART	le
+deuxième	NUM	deuxième
+jour	NOM	jour
+il	PRO:PER	il
+est	VER:pres	être
+allé	VER:pper	aller
+chez	PRP	chez
+ses	DET:POS	son
+grands-parents	NOM	grands-parents
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+mangé	VER:pper	manger
+<segmentation/>
+rien	NOM	rien
+fait	VER:pres	faire
+<segmentation/>
+mangé	VER:pper	manger
+<segmentation/>
+rien	ADV	rien
+fait	VER:pper	faire
+<segmentation/>
+sa	DET:POS	son
+maman	NOM	maman
+se	PRO:PER	se
+coupe	VER:pres	couper
+le	DET:ART	le
+doigt	NOM	doigt
+en	PRP	en
+coupant	VER:ppre	couper
+le	DET:ART	le
+gigot	NOM	gigot
+<segmentation/>
+le	DET:ART	le
+troisième	NUM	troisième
+jour	NOM	jour
+la	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+lui	PRO:PER	lui
+donna	VER:simp	donner
+10	NUM	@card@
+sur	PRP	sur
+<nonfini/>

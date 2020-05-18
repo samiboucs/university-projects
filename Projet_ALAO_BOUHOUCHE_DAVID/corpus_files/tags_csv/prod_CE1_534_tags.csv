@@ -1,0 +1,103 @@
+Il	PRO:PER	il
+devait	VER:impf	devoir
+faire	VER:infi	faire
+une	DET:ART	un
+rédaction	NOM	rédaction
+.	SENT	.
+Il	PRO:PER	il
+fallait	VER:impf	falloir
+parler	VER:infi	parler
+sur	PRP	sur
+une	DET:ART	un
+feuille	NOM	feuille
+de	PRP	de
+votre	DET:POS	votre
+dimanche	NOM	dimanche
+.	SENT	.
+Mais	KON	mais
+Léon	NAM	Léon
+ne	ADV	ne
+faisait	VER:impf	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+alla	VER:simp	aller
+chez	PRP	chez
+ses	DET:POS	son
+grands-parents	NOM	grands-parents
+<segmentation/>
+il	PRO:PER	il
+mangeait	VER:impf	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+faisait	VER:impf	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+ré-alla	VER:simp	ré-alla
+manger	VER:infi	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+faisait	VER:impf	faire
+rien	ADV	rien
+et	KON	et
+après	KON	après
+il	PRO:PER	il
+repart	VER:pres	repartir
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+sa	DET:POS	son
+maman	NOM	maman
+coupa	VER:simp	couper
+du	PRP:det	du
+gigot	NOM	gigot
+et	KON	et
+sa	DET:POS	son
+maman	NOM	maman
+se	PRO:PER	se
+coupa	VER:simp	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+elle	PRO:PER	elle
+alla	VER:simp	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+et	KON	et
+dans	PRP	dans
+sa	DET:POS	son
+rédaction	NOM	rédaction
+il	PRO:PER	il
+raconta	VER:simp	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+<segmentation/>
+un	DET:ART	un
+autre	ADJ	autre
+dimanche	NOM	dimanche
+il	PRO:PER	il
+poussa	VER:simp	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+l'	DET:ART	le
+escalier	NOM	escalier
+<segmentation/>
+elle	PRO:PER	elle
+alla	VER:simp	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+et	KON	et
+dans	PRP	dans
+sa	DET:POS	son
+rédaction	NOM	rédaction
+il	PRO:PER	il
+raconte	VER:pres	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+.	SENT	.

@@ -1,0 +1,1 @@
+Dimanche, Hugo a une rédaction, mais le dimanche il ne se passe rien. Dimanche dernier sa mère s'est coupé le doigt en coupant le gigot et Hugo se dit <dialogue> « il faut que le dimanche il se passe quelque chose » </dialogue>. Dimanche d'après, Hugo a fait tomber sa soeur dans l'escalier <segmentation/> on l'a emmenée à l'hôpital.

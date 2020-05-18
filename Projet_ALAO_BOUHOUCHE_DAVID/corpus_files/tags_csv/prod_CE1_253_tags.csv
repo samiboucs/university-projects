@@ -1,0 +1,92 @@
+Dimanche	NOM	dimanche
+il	PRO:PER	il
+<incomprehensible/>
+toujours	ADV	toujours
+pour	PRP	pour
+Léon	NAM	Léon
+<segmentation/>
+<omission type=""sujet""/>
+dois	VER:pres	devoir
+faire	VER:infi	faire
+des	PRP:det	du
+rédactions	NOM	rédaction
+pour	PRP	pour
+la	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+<segmentation/>
+même	ADJ	même
+un	DET:ART	un
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+zéro	NOM	zéro
+mais	KON	mais
+il	PRO:PER	il
+a	VER:pres	avoir
+compris	VER:pper	comprendre
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+doit	VER:pres	devoir
+faire	VER:infi	faire
+<segmentation/>
+la	DET:ART	le
+première	NUM	premier
+<omission type=""nom""/>
+il	PRO:PER	il
+a	VER:pres	avoir
+poussé	VER:pper	pousser
+sa	DET:POS	son
+mère	NOM	mère
+avec	PRP	avec
+un	DET:ART	un
+couteau	NOM	couteau
+dans	PRP	dans
+sa	DET:POS	son
+main	NOM	main
+et	KON	et
+du	PRP:det	du
+coup	NOM	coup
+ça	PRO:DEM	cela
+lui	PRO:PER	lui
+a	VER:pres	avoir
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+matin	NOM	matin
+neuf	ADJ	neuf
+sur	PRP	sur
+dix	NUM	dix
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+a	VER:pres	avoir
+poussé	VER:pper	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+neuf	ADJ	neuf
+sur	PRP	sur
+dix	NUM	dix
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+a	VER:pres	avoir
+mis	VER:pper	mettre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+.	SENT	.

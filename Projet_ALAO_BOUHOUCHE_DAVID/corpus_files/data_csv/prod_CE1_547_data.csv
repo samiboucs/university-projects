@@ -1,0 +1,140 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_547
+
+Cette production contient : 
+
+	78 forme(s)/token(s)
+
+	77 mot(s)
+
+	32 hapax
+
+	286 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 77 mot(s) par phrase
+
+	46 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 3
+		pousse : 1
+		sa : 1
+		soeur : 1
+		dans : 1
+		les : 2
+		escaliers : 1
+		et : 7
+		puis : 3
+		il : 3
+		met : 2
+		un : 1
+		pot : 2
+		de : 5
+		fleurs : 1
+		au : 1
+		bord : 1
+		la : 7
+		fenêtre : 1
+		le : 1
+		est : 3
+		tombé : 1
+		sur : 1
+		tête : 1
+		maîtresse : 2
+		allée : 1
+		à : 2
+		l' : 1
+		hôpital : 1
+		après : 1
+		a : 1
+		eu : 1
+		une : 2
+		remplaçante : 1
+		maman : 1
+		s' : 1
+		coupée : 1
+		fait : 1
+		bêtise : 1
+		avec : 1
+		machine : 1
+		laver : 2
+		poudre : 1
+		voilà : 1
+		toutes : 1
+		rédactions : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 17)
+		('DET:ART', 14)
+		('PRP', 10)
+		('VER:pres', 8)
+		('KON', 8)
+		('ADV', 4)
+		('PRO:PER', 4)
+		('VER:pper', 4)
+		('NAM', 3)
+		('VER:infi', 2)
+		('DET:POS', 1)
+		('PRP:det', 1)
+		('PRO:IND', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 11)
+		(('KON', 'et'), 7)
+		(('PRP', 'de'), 5)
+		(('NAM', 'Léon'), 3)
+		(('ADV', 'puis'), 3)
+		(('PRO:PER', 'il'), 3)
+		(('DET:ART', 'un'), 3)
+		(('VER:pres', 'être'), 3)
+		(('VER:pres', 'mettre'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'maître|maîtresse'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:infi', 'laver'), 2)
+		(('VER:pres', 'pousser'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'bord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('VER:pper', 'aller'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('KON', 'après'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('PRP', 'avec'), 1)
+		(('NOM', 'machine'), 1)
+		(('NOM', 'poudre'), 1)
+		(('ADV', 'voilà'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5974025974025974
+
+	Score BLEU : 0.008540194627040308
+
+	Précision : 0.5531914893617021
+
+	Rappel : 0.13541666666666666
+
+	F-mesure : 0.21757322175732216
+

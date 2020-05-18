@@ -1,0 +1,59 @@
+C'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+petit	ADJ	petit
+garçon	NOM	garçon
+qui	PRO:REL	qui
+fait	VER:pres	faire
+de	PRP	de
+la	DET:ART	le
+rédaction	NOM	rédaction
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+et	KON	et
+qui	PRO:REL	qui
+a	VER:pres	avoir
+toujours	ADV	toujours
+un	DET:ART	un
+0	NUM	@card@
+/	PUN	/
+0	NUM	@card@
+<segmentation/>
+puis	ADV	puis
+un	DET:ART	un
+dimanche	NOM	dimanche
+sa	DET:POS	son
+maman	NOM	maman
+se	PRO:PER	se
+coupe	VER:pres	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+puis	ADV	puis
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+a	VER:pres	avoir
+un	DET:ART	un
+9	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+puis	ADV	puis
+il	PRO:PER	il
+fait	VER:pres	faire
+plein	ADJ	plein
+de	PRP	de
+problèmes	NOM	problème
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+des	PRP:det	du
+bonnes	ADJ	bon
+notes	NOM	note
+<segmentation/>
+puis	ADV	puis
+il	PRO:PER	il
+fait	VER:pres	faire
+<nonfini/>

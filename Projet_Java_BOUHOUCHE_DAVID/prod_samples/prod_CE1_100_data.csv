@@ -1,0 +1,175 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_100
+
+Cette production contient : 
+
+	111 forme(s)/token(s)
+
+	104 mot(s)
+
+	42 hapax
+
+	411 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	64 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		lundis : 1
+		Léon : 2
+		avait : 4
+		une : 2
+		rédaction : 3
+		Mais : 2
+		le : 6
+		dimanche : 3
+		il : 7
+		ne : 1
+		se : 2
+		passait : 1
+		rien : 1
+		Donc : 1
+		lundi : 2
+		à : 2
+		sa : 4
+		n' : 1
+		que : 1
+		des : 2
+		zéros : 1
+		sur : 2
+		dix : 2
+		un : 2
+		mère : 1
+		était : 1
+		dans : 2
+		la : 1
+		cuisine : 1
+		en : 1
+		train : 1
+		de : 1
+		couper : 1
+		légumes : 2
+		sans : 1
+		faire : 1
+		exprès : 1
+		a : 3
+		pris : 1
+		couteau : 1
+		et : 3
+		coupé : 1
+		doigt : 1
+		Il : 1
+		y : 1
+		du : 1
+		sang : 1
+		partout : 1
+		Alors : 3
+		raconté : 1
+		eu : 1
+		neuf : 1
+		prochain : 1
+		pousse : 1
+		soeur : 1
+		escaliers : 1
+		elle : 1
+		retrouve : 1
+		l' : 1
+		hôpital : 1
+		encore : 1
+		fois : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 22)
+		('DET:ART', 14)
+		('PRO:PER', 12)
+		('ADV', 11)
+		('PRP', 9)
+		('SENT', 7)
+		('VER:impf', 6)
+		('KON', 5)
+		('VER:pres', 5)
+		('DET:POS', 4)
+		('VER:pper', 4)
+		('PRP:det', 3)
+		('NAM', 2)
+		('NUM', 2)
+		('VER:infi', 2)
+		('ADJ', 2)
+		('PRO:IND', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 10)
+		(('PRO:PER', 'il'), 8)
+		(('SENT', '.'), 7)
+		(('VER:impf', 'avoir'), 4)
+		(('DET:ART', 'un'), 4)
+		(('DET:POS', 'son'), 4)
+		(('NOM', 'lundi'), 3)
+		(('NOM', 'rédaction'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRP:det', 'du'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('KON', 'et'), 3)
+		(('ADV', 'alors'), 3)
+		(('NAM', 'Léon'), 2)
+		(('KON', 'mais'), 2)
+		(('ADV', 'ne'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('PRP', 'à'), 2)
+		(('PRP', 'sur'), 2)
+		(('NUM', 'dix'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'légume'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('ADV', 'rien'), 1)
+		(('ADV', 'donc'), 1)
+		(('ADV', 'que'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:impf', 'être'), 1)
+		(('NOM', 'cuisine'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'train'), 1)
+		(('PRP', 'de'), 1)
+		(('VER:infi', 'couper'), 1)
+		(('PRP', 'sans'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('ADV', 'exprès'), 1)
+		(('VER:pper', 'prendre'), 1)
+		(('NOM', 'couteau'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'sang'), 1)
+		(('ADV', 'partout'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('ADJ', 'neuf'), 1)
+		(('ADJ', 'prochain'), 1)
+		(('VER:pres', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pres', 'retrouver'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('ADV', 'encore'), 1)
+		(('NOM', 'foi|fois'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6153846153846154
+
+	Score BLEU : 0.04569639896416368
+
+	Précision : 0.6
+
+	Rappel : 0.203125
+
+	F-mesure : 0.3035019455252918
+

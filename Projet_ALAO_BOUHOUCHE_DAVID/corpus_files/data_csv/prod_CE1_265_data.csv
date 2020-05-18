@@ -1,0 +1,125 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_265
+
+Cette production contient : 
+
+	47 forme(s)/token(s)
+
+	43 mot(s)
+
+	28 hapax
+
+	176 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 14 mot(s) par phrase
+
+	35 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 3
+		ne : 1
+		fait : 1
+		rien : 1
+		le : 2
+		dimanche : 1
+		Puis : 1
+		un : 2
+		jour : 1
+		il : 2
+		arrive : 1
+		qu' : 1
+		faisait : 1
+		quelque : 1
+		chose : 2
+		Sa : 1
+		mère : 1
+		voulait : 1
+		couper : 1
+		gigot : 1
+		et : 1
+		elle : 1
+		se : 1
+		coupa : 1
+		son : 1
+		doigt : 1
+		Le : 1
+		lendemain : 1
+		eu : 1
+		dix : 2
+		sur : 1
+		Dimanche : 1
+		prochain : 1
+		pousse : 1
+		sa : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 9)
+		('DET:ART', 5)
+		('PRO:PER', 4)
+		('NAM', 3)
+		('ADV', 3)
+		('VER:pres', 3)
+		('SENT', 3)
+		('DET:POS', 3)
+		('KON', 2)
+		('VER:impf', 2)
+		('NUM', 2)
+		('PRO:IND', 1)
+		('VER:subi', 1)
+		('VER:infi', 1)
+		('VER:simp', 1)
+		('VER:pper', 1)
+		('PRP', 1)
+		('ADJ', 1)
+		('PUN', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NAM', 'Léon'), 3)
+		(('DET:ART', 'le'), 3)
+		(('SENT', '.'), 3)
+		(('DET:POS', 'son'), 3)
+		(('NOM', 'dimanche'), 2)
+		(('DET:ART', 'un'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('NOM', 'chose'), 2)
+		(('NUM', 'dix'), 2)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('ADV', 'puis'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pres', 'arriver'), 1)
+		(('KON', 'que'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('VER:subi', 'Sa'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:impf', 'vouloir'), 1)
+		(('VER:infi', 'couper'), 1)
+		(('NOM', 'gigot'), 1)
+		(('KON', 'et'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('PRP', 'sur'), 1)
+		(('ADJ', 'prochain'), 1)
+		(('PUN', ','), 1)
+		(('VER:pres', 'pousser'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.813953488372093
+
+	Score BLEU : 0.0003294111815676779
+
+	Précision : 0.7297297297297297
+
+	Rappel : 0.140625
+
+	F-mesure : 0.23580786026200876
+

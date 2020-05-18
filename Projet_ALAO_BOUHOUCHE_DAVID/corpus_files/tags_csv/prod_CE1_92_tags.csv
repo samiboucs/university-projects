@@ -1,0 +1,127 @@
+Le	DET:ART	le
+lundi	NOM	lundi
+Léon	NAM	Léon
+doit	VER:pres	devoir
+faire	VER:infi	faire
+une	DET:ART	un
+rédaction	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+cherche	VER:pres	chercher
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+cherche	VER:pres	chercher
+<segmentation/>
+le	DET:ART	le
+soir	NOM	soir
+maman	NOM	maman
+se	PRO:PER	se
+coupe	VER:pres	couper
+le	DET:ART	le
+doigt	NOM	doigt
+avec	PRP	avec
+un	DET:ART	un
+couteau	NOM	couteau
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+raconte	VER:pres	raconter
+sa	DET:POS	son
+rédaction	NOM	rédaction
+9	NUM	@card@
+/	PUN	/
+10.	VER:ppre	@ord@
+Le	DET:ART	le
+soir	NOM	soir
+il	PRO:PER	il
+poussa	VER:simp	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+elle	PRO:PER	elle
+va	VER:pres	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+raconta	VER:simp	raconter
+sa	DET:POS	son
+rédaction	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+un	DET:ART	un
+7	NUM	@card@
+/	PUN	/
+10.	VER:ppre	@ord@
+Le	DET:ART	le
+soir	NOM	soir
+il	PRO:PER	il
+met	VER:pres	mettre
+<omission type=""nom""/>
+vaisselle	NOM	vaisselle
+avec	PRP	avec
+du	PRP:det	du
+vinaigre	NOM	vinaigre
+<segmentation/>
+cela	PRO:DEM	cela
+marche	NOM	marche
+très	ADV	très
+bien	ADV	bien
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+raconta	VER:simp	raconter
+sa	DET:POS	son
+rédaction	NOM	rédaction
+9	NUM	@card@
+/	PUN	/
+10.	VER:ppre	@ord@
+Le	DET:ART	le
+soir	NOM	soir
+il	PRO:PER	il
+posa	VER:simp	poser
+un	DET:ART	un
+pot	NOM	pot
+<segmentation/>
+le	DET:ART	le
+matin	NOM	matin
+le	DET:ART	le
+pot	NOM	pot
+tombe	VER:pres	tomber
+sur	PRP	sur
+un	DET:ART	un
+passant	NOM	passant
+<segmentation/>
+il	PRO:PER	il
+y	PRO:PER	y
+avait	VER:impf	avoir
+une	DET:ART	un
+remplaçante	NOM	remplaçant
+<segmentation/>
+la	DET:ART	le
+remplaçante	NOM	remplaçant
+dit	VER:pres	dire
+aux	PRP:det	au
+enfants	NOM	enfant
+<dialogue>
+la	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+s'	PRO:PER	se
+est	VER:pres	être
+ouvert	VER:pper	ouvrir
+le	DET:ART	le
+crâne	NOM	crâne
+.	SENT	.
+</dialogue>

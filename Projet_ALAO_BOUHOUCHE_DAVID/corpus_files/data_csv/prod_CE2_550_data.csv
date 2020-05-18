@@ -1,0 +1,143 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_550
+
+Cette production contient : 
+
+	61 forme(s)/token(s)
+
+	60 mot(s)
+
+	37 hapax
+
+	267 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 60 mot(s) par phrase
+
+	46 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Ça : 1
+		parle : 1
+		d' : 1
+		un : 2
+		garçon : 1
+		qui : 1
+		ne : 1
+		connaît : 1
+		pas : 1
+		sa : 4
+		rédaction : 3
+		et : 1
+		cette : 1
+		semaine : 1
+		mère : 1
+		s' : 1
+		était : 1
+		coupé : 1
+		doigt : 2
+		du : 1
+		coup : 1
+		il : 4
+		écrit : 1
+		ça : 1
+		pour : 1
+		ensuite : 1
+		a : 1
+		trouvé : 1
+		la : 1
+		solution : 2
+		alors : 1
+		inventa : 1
+		ses : 1
+		propres : 1
+		actions : 2
+		commença : 1
+		à : 2
+		pousser : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 2
+		elle : 1
+		finit : 1
+		l' : 1
+		hôpital : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 17)
+		('PRO:PER', 6)
+		('VER:pres', 5)
+		('PRP', 5)
+		('DET:ART', 5)
+		('DET:POS', 5)
+		('ADV', 4)
+		('PRO:DEM', 3)
+		('VER:pper', 2)
+		('VER:simp', 2)
+		('PRO:REL', 1)
+		('KON', 1)
+		('VER:impf', 1)
+		('PRP:det', 1)
+		('ADJ', 1)
+		('VER:infi', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:POS', 'son'), 5)
+		(('PRO:PER', 'il'), 4)
+		(('NOM', 'rédaction'), 3)
+		(('DET:ART', 'le'), 3)
+		(('PRO:DEM', 'cela'), 2)
+		(('DET:ART', 'un'), 2)
+		(('NOM', 'doigt'), 2)
+		(('NOM', 'solution'), 2)
+		(('NOM', 'action'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'escalier'), 2)
+		(('VER:pres', 'parler'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'connaître'), 1)
+		(('ADV', 'pas'), 1)
+		(('KON', 'et'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('NOM', 'semaine'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'coup'), 1)
+		(('VER:pres', 'écrire'), 1)
+		(('PRP', 'pour'), 1)
+		(('ADV', 'ensuite'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'trouver'), 1)
+		(('ADV', 'alors'), 1)
+		(('VER:simp', 'inventer'), 1)
+		(('ADJ', 'propre'), 1)
+		(('VER:simp', 'commencer'), 1)
+		(('VER:infi', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pres', 'finir'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7666666666666667
+
+	Score BLEU : 0.0017182491600837605
+
+	Précision : 0.46808510638297873
+
+	Rappel : 0.11458333333333333
+
+	F-mesure : 0.18410041841004182
+

@@ -1,0 +1,164 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_264
+
+Cette production contient : 
+
+	102 forme(s)/token(s)
+
+	86 mot(s)
+
+	33 hapax
+
+	342 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 86 mot(s) par phrase
+
+	53 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 1
+		l' : 1
+		histoire : 1
+		d' : 1
+		un : 2
+		garçon : 4
+		qui : 1
+		faisait : 2
+		une : 3
+		rédaction : 2
+		tous : 1
+		les : 1
+		lundis : 1
+		mais : 2
+		le : 8
+		dimanche : 1
+		il : 3
+		ne : 2
+		rien : 1
+		donc : 1
+		avait : 3
+		jour : 1
+		sa : 1
+		maman : 1
+		se : 1
+		coupa : 1
+		doigt : 1
+		et : 2
+		eut : 1
+		tout : 1
+		continua : 1
+		comme : 1
+		ça : 2
+		fit : 2
+		tomber : 2
+		pot : 2
+		de : 3
+		fleurs : 2
+		sur : 2
+		dame : 2
+		lendemain : 1
+		omission : 1
+		sujet : 1
+		pas : 1
+		la : 3
+		y : 1
+		remplaçante : 1
+		parce : 1
+		que : 1
+		fait : 1
+		tête : 1
+		maîtresse : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 25)
+		('DET:ART', 18)
+		('PRP', 6)
+		('KON', 6)
+		('ADV', 6)
+		('VER:impf', 5)
+		('PRO:PER', 5)
+		('NUM', 5)
+		('VER:simp', 5)
+		('PUN:cit', 4)
+		('PRO:DEM', 3)
+		('PUN', 3)
+		('PRO:IND', 2)
+		('VER:infi', 2)
+		('ADJ', 2)
+		('VER:pres', 1)
+		('PRO:REL', 1)
+		('DET:POS', 1)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 13)
+		(('DET:ART', 'un'), 5)
+		(('NUM', '@card@'), 5)
+		(('PRP', 'de'), 4)
+		(('NOM', 'garçon'), 4)
+		(('PUN:cit', '"'), 4)
+		(('PRO:PER', 'il'), 3)
+		(('VER:impf', 'avoir'), 3)
+		(('PUN', '/'), 3)
+		(('VER:impf', 'faire'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('PRO:IND', 'tout'), 2)
+		(('KON', 'mais'), 2)
+		(('ADV', 'ne'), 2)
+		(('KON', 'et'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:simp', 'faire'), 2)
+		(('VER:infi', 'tomber'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'fleur'), 2)
+		(('PRP', 'sur'), 2)
+		(('NOM', 'dame'), 2)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('NOM', 'histoire'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('ADV', 'rien'), 1)
+		(('ADV', 'donc'), 1)
+		(('NOM', 'jour'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('VER:simp', 'continuer'), 1)
+		(('ADV', 'comme'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('ADJ', '<'), 1)
+		(('NOM', 'omission'), 1)
+		(('ADJ', '='), 1)
+		(('NOM', 'sujet'), 1)
+		(('NOM', '>'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('KON', 'parce'), 1)
+		(('KON', 'que'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6162790697674418
+
+	Score BLEU : 0.02967512069173382
+
+	Précision : 0.6451612903225806
+
+	Rappel : 0.20833333333333334
+
+	F-mesure : 0.31496062992125984
+

@@ -1,0 +1,132 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_283
+
+Cette production contient : 
+
+	65 forme(s)/token(s)
+
+	60 mot(s)
+
+	30 hapax
+
+	225 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	41 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		le : 5
+		lundi : 2
+		il : 5
+		a : 4
+		rédaction : 2
+		Le : 2
+		premier : 1
+		jour : 1
+		eu : 1
+		un : 2
+		parce : 1
+		qu' : 1
+		était : 2
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		d' : 2
+		après : 2
+		sa : 1
+		maman : 1
+		en : 1
+		coupant : 1
+		poulet : 1
+		s' : 1
+		coupé : 1
+		doigt : 1
+		En : 1
+		écrit : 1
+		ça : 1
+		et : 1
+		dimanche : 1
+		essayé : 1
+		de : 2
+		faire : 1
+		tenir : 1
+		vase : 1
+		sur : 1
+		rebord : 1
+		la : 1
+		fenêtre : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 13)
+		('DET:ART', 10)
+		('PRP', 9)
+		('PRO:PER', 6)
+		('VER:pres', 4)
+		('SENT', 4)
+		('VER:pper', 4)
+		('KON', 4)
+		('NUM', 2)
+		('VER:impf', 2)
+		('DET:POS', 2)
+		('VER:infi', 2)
+		('NAM', 1)
+		('VER:ppre', 1)
+		('PRO:DEM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 8)
+		(('PRO:PER', 'il'), 5)
+		(('VER:pres', 'avoir'), 4)
+		(('SENT', '.'), 4)
+		(('PRP', 'de'), 4)
+		(('NOM', 'lundi'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('DET:ART', 'un'), 2)
+		(('VER:impf', 'être'), 2)
+		(('DET:POS', 'son'), 2)
+		(('PRP', 'en'), 2)
+		(('NAM', 'Léon'), 1)
+		(('NUM', 'premier'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('NUM', '@card@'), 1)
+		(('KON', 'parce'), 1)
+		(('KON', 'que'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('PRP', 'après'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'poulet'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:pper', 'écrire'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('KON', 'après'), 1)
+		(('VER:pper', 'essayer|essayer'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('VER:infi', 'tenir'), 1)
+		(('NOM', 'vase'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6833333333333333
+
+	Score BLEU : 0.0031244171946968546
+
+	Précision : 0.5813953488372093
+
+	Rappel : 0.13020833333333334
+
+	F-mesure : 0.2127659574468085
+

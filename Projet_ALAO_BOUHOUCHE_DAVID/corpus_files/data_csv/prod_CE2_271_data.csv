@@ -1,0 +1,137 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_271
+
+Cette production contient : 
+
+	67 forme(s)/token(s)
+
+	62 mot(s)
+
+	36 hapax
+
+	258 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 16 mot(s) par phrase
+
+	46 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		doit : 1
+		faire : 1
+		une : 2
+		rédaction : 1
+		le : 4
+		lundi : 1
+		pour : 1
+		raconter : 1
+		son : 1
+		dimanche : 1
+		Une : 1
+		fois : 2
+		la : 3
+		machine : 1
+		à : 1
+		laver : 1
+		inonde : 2
+		il : 3
+		pousse : 1
+		sa : 1
+		petite : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 1
+		Et : 1
+		un : 2
+		jour : 1
+		met : 1
+		pot : 3
+		de : 1
+		fleurs : 1
+		en : 1
+		équilibre : 1
+		sur : 3
+		balcon : 1
+		et : 1
+		tombe : 1
+		maîtresse : 2
+		Le : 1
+		lendemain : 1
+		comprend : 1
+		que : 1
+		est : 1
+		tombé : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 18)
+		('DET:ART', 14)
+		('VER:pres', 8)
+		('PRP', 8)
+		('SENT', 4)
+		('VER:infi', 3)
+		('PRO:PER', 3)
+		('KON', 3)
+		('DET:POS', 2)
+		('NAM', 1)
+		('PUN', 1)
+		('ADJ', 1)
+		('VER:pper', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 9)
+		(('DET:ART', 'un'), 5)
+		(('SENT', '.'), 4)
+		(('PRO:PER', 'il'), 3)
+		(('NOM', 'pot'), 3)
+		(('PRP', 'sur'), 3)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('VER:pres', 'inonder'), 2)
+		(('KON', 'et'), 2)
+		(('NOM', 'maître|maîtresse'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRP', 'pour'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('NOM', 'machine'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:infi', 'laver'), 1)
+		(('PUN', ','), 1)
+		(('VER:pres', 'pousser'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pres', 'mettre'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'balcon'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('VER:pres', 'comprendre'), 1)
+		(('KON', 'que'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'tomber'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7419354838709677
+
+	Score BLEU : 0.0044623818918567365
+
+	Précision : 0.6875
+
+	Rappel : 0.171875
+
+	F-mesure : 0.27499999999999997
+

@@ -1,0 +1,290 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_98
+
+Cette production contient : 
+
+	270 forme(s)/token(s)
+
+	250 mot(s)
+
+	64 hapax
+
+	991 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	11 phrase(s)
+
+	Une moyenne de 23 mot(s) par phrase
+
+	119 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léo : 3
+		avait : 6
+		tout : 1
+		le : 9
+		temps : 1
+		des : 3
+		parce : 3
+		que : 6
+		dimanche : 3
+		il : 14
+		ne : 2
+		se : 2
+		passait : 2
+		rien : 1
+		Un : 1
+		jour : 1
+		n' : 4
+		a : 6
+		pas : 5
+		fait : 1
+		exprès : 1
+		mais : 2
+		poussa : 1
+		sa : 4
+		soeur : 1
+		dans : 2
+		l' : 3
+		escalier : 2
+		un : 2
+		Il : 3
+		compris : 1
+		qu' : 4
+		devait : 1
+		passer : 1
+		choses : 1
+		Le : 1
+		qui : 2
+		suit : 1
+		mit : 2
+		de : 8
+		engrais : 1
+		une : 3
+		brique : 1
+		lait : 1
+		son : 2
+		père : 2
+		bu : 2
+		failli : 1
+		s' : 1
+		empoisonner : 1
+		est : 2
+		à : 4
+		hôpital : 1
+		pot : 3
+		fleurs : 3
+		en : 2
+		équilibre : 1
+		sur : 4
+		rebord : 1
+		la : 6
+		fenêtre : 1
+		espérant : 1
+		quand : 1
+		quelqu'un : 3
+		ça : 1
+		tombe : 1
+		lendemain : 1
+		matin : 1
+		maitresse : 1
+		était : 5
+		là : 1
+		Du : 2
+		coup : 2
+		pensa : 1
+		tombé : 2
+		tête : 3
+		Et : 1
+		effectivement : 1
+		docteur : 1
+		dit : 2
+		fracture : 2
+		du : 2
+		crâne : 2
+		sortir : 1
+		pendant : 1
+		mois : 2
+		y : 6
+		remplaçante : 1
+		et : 1
+		place : 3
+		rédaction : 1
+		conjugaison : 4
+		c' : 2
+		beaucoup : 2
+		plus : 3
+		simple : 1
+		faire : 1
+		mal : 1
+		gens : 2
+		aimait : 1
+		nouvelle : 1
+		tard : 1
+		maîtresse : 1
+		lundi : 1
+		maths : 1
+		elle : 1
+		savait : 1
+		responsable : 1
+		Elle : 1
+		gentille : 1
+		avec : 2
+		les : 1
+		autres : 1
+		moi : 1
+		Tout : 1
+		finit : 1
+		bien : 1
+		fin : 1
+		Fin : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 56)
+		('PRO:PER', 28)
+		('DET:ART', 26)
+		('ADV', 25)
+		('PRP', 23)
+		('KON', 17)
+		('VER:impf', 16)
+		('SENT', 11)
+		('VER:pres', 11)
+		('VER:pper', 8)
+		('PRP:det', 7)
+		('DET:POS', 6)
+		('ADJ', 6)
+		('NUM', 5)
+		('VER:simp', 4)
+		('VER:infi', 4)
+		('NAM', 3)
+		('PRO:REL', 3)
+		('PRO:IND', 3)
+		('PRO:DEM', 3)
+		('PUN:cit', 3)
+		('PUN', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 20)
+		(('PRO:PER', 'il'), 16)
+		(('SENT', '.'), 11)
+		(('KON', 'que'), 9)
+		(('PRP', 'de'), 8)
+		(('PRP:det', 'du'), 7)
+		(('VER:impf', 'avoir'), 6)
+		(('ADV', 'ne'), 6)
+		(('DET:ART', 'un'), 6)
+		(('VER:pres', 'avoir'), 6)
+		(('DET:POS', 'son'), 6)
+		(('PRO:PER', 'y'), 6)
+		(('ADV', 'pas'), 5)
+		(('VER:impf', 'être'), 5)
+		(('NUM', '@card@'), 4)
+		(('PRP', 'à'), 4)
+		(('PRP', 'sur'), 4)
+		(('NOM', 'conjugaison'), 4)
+		(('NAM', 'Léo'), 3)
+		(('KON', 'parce'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('NOM', 'pot'), 3)
+		(('NOM', 'fleur'), 3)
+		(('PRO:IND', "quelqu'un"), 3)
+		(('NOM', 'tête'), 3)
+		(('NOM', 'place'), 3)
+		(('ADV', 'plus'), 3)
+		(('ADV', 'tout'), 2)
+		(('VER:impf', 'passer'), 2)
+		(('KON', 'mais'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'escalier'), 2)
+		(('PRO:REL', 'qui'), 2)
+		(('VER:simp', 'mettre'), 2)
+		(('NOM', 'père'), 2)
+		(('VER:pper', 'boire'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRP', 'en'), 2)
+		(('NOM', 'coup'), 2)
+		(('VER:pper', 'tomber'), 2)
+		(('KON', 'et'), 2)
+		(('VER:pper', 'dire'), 2)
+		(('NOM', 'fracture'), 2)
+		(('NOM', 'crâne'), 2)
+		(('NOM', 'moi|mois'), 2)
+		(('PUN:cit', '»'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('ADV', 'beaucoup'), 2)
+		(('NOM', 'gens'), 2)
+		(('PRO:PER', 'elle'), 2)
+		(('PRP', 'avec'), 2)
+		(('NOM', 'temps'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('ADV', 'exprès'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PUN', '/'), 1)
+		(('NUM', '@ord@'), 1)
+		(('NOM', 'Il'), 1)
+		(('VER:pper', 'comprendre'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'passer'), 1)
+		(('NOM', 'chose'), 1)
+		(('VER:pres', 'suivre'), 1)
+		(('NOM', 'engrais'), 1)
+		(('NOM', 'brique'), 1)
+		(('NOM', 'lait'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'empoisonner'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:ppre', 'espérer'), 1)
+		(('KON', 'quand'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('NOM', 'tombe'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('NOM', 'matin'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('ADV', 'là'), 1)
+		(('VER:simp', 'penser'), 1)
+		(('ADV', 'effectivement'), 1)
+		(('NOM', 'docteur'), 1)
+		(('PUN:cit', '«'), 1)
+		(('VER:infi', 'sortir'), 1)
+		(('PRP', 'pendant'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('ADJ', 'simple'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('ADV', 'mal'), 1)
+		(('VER:impf', 'aimer'), 1)
+		(('ADJ', 'nouveau'), 1)
+		(('ADV', 'tard'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NOM', 'maths'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:impf', 'savoir'), 1)
+		(('ADJ', 'responsable'), 1)
+		(('ADJ', 'gentil'), 1)
+		(('ADJ', 'autre'), 1)
+		(('PRO:PER', 'moi'), 1)
+		(('VER:pres', 'finir'), 1)
+		(('ADV', 'bien'), 1)
+		(('ADJ', 'fin'), 1)
+		(('NOM', 'fin'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.476
+
+	Score BLEU : 0.30872694839143827
+
+	Précision : 0.5118110236220472
+
+	Rappel : 0.3385416666666667
+
+	F-mesure : 0.4075235109717868
+

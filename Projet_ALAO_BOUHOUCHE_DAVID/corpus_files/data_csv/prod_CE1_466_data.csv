@@ -1,0 +1,165 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_466
+
+Cette production contient : 
+
+	86 forme(s)/token(s)
+
+	73 mot(s)
+
+	44 hapax
+
+	259 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	55 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		s' : 1
+		ennuie : 1
+		chez : 1
+		sa : 1
+		mamie : 1
+		et : 4
+		puis : 1
+		d' : 1
+		un : 1
+		geste : 1
+		brusque : 1
+		elle : 1
+		se : 2
+		coupe : 1
+		le : 4
+		doigt : 1
+		Alors : 1
+		en : 2
+		français : 1
+		il : 2
+		a : 2
+		tout : 1
+		juste : 2
+		la : 3
+		remplaçante : 1
+		arriva : 1
+		petit : 1
+		garçon : 1
+		dit : 4
+		Eh : 1
+		Mais : 1
+		c' : 1
+		est : 1
+		trop : 1
+		facile : 1
+		fait : 1
+		ne : 1
+		met : 1
+		pas : 1
+		dans : 1
+		texte : 2
+		maitresse : 1
+		chut : 1
+		ou : 1
+		sinon : 1
+		je : 1
+		te : 2
+		change : 1
+		de : 1
+		couleur : 1
+		Je : 1
+		mets : 1
+		sur : 1
+		bleu : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PRO:PER', 13)
+		('NOM', 10)
+		('VER:pres', 9)
+		('PRP', 7)
+		('KON', 7)
+		('ADJ', 7)
+		('ADV', 6)
+		('DET:ART', 6)
+		('SENT', 5)
+		('PUN:cit', 5)
+		('VER:pper', 4)
+		('NUM', 2)
+		('DET:POS', 1)
+		('PUN', 1)
+		('VER:simp', 1)
+		('NAM', 1)
+		('PRO:DEM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 5)
+		(('KON', 'et'), 4)
+		(('VER:pper', 'dire'), 4)
+		(('PRO:PER', 'il'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('PUN:cit', '»'), 3)
+		(('SENT', '.'), 3)
+		(('PRP', 'de'), 2)
+		(('SENT', '!'), 2)
+		(('PRP', 'en'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('ADJ', 'juste'), 2)
+		(('NUM', '@card@'), 2)
+		(('PUN:cit', '«'), 2)
+		(('PRO:PER', 'la'), 2)
+		(('VER:pres', 'mettre'), 2)
+		(('NOM', 'texte'), 2)
+		(('PRO:PER', 'je'), 2)
+		(('PRO:PER', 'te'), 2)
+		(('VER:pres', 'ennuyer'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'mamie'), 1)
+		(('ADV', 'puis'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'geste'), 1)
+		(('ADJ', 'brusque'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pres', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('ADV', 'alors'), 1)
+		(('ADJ', 'français'), 1)
+		(('ADV', 'tout'), 1)
+		(('PUN', '/'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('VER:simp', 'arriver'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('NAM', 'Eh'), 1)
+		(('KON', 'mais'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADV', 'trop'), 1)
+		(('ADJ', 'facile'), 1)
+		(('NOM', 'fait'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRP', 'dans'), 1)
+		(('VER:pres', 'maitresse'), 1)
+		(('NOM', 'chut'), 1)
+		(('KON', 'ou'), 1)
+		(('KON', 'sinon'), 1)
+		(('VER:pres', 'changer'), 1)
+		(('NOM', 'couleur'), 1)
+		(('PRP', 'sur'), 1)
+		(('ADJ', 'bleu'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7534246575342466
+
+	Score BLEU : 0.011824288414240863
+
+	Précision : 0.46774193548387094
+
+	Rappel : 0.15104166666666666
+
+	F-mesure : 0.22834645669291334
+

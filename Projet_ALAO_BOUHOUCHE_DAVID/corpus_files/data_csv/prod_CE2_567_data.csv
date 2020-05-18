@@ -1,0 +1,250 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_567
+
+Cette production contient : 
+
+	217 forme(s)/token(s)
+
+	194 mot(s)
+
+	59 hapax
+
+	702 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	10 phrase(s)
+
+	Une moyenne de 19 mot(s) par phrase
+
+	99 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		lundis : 1
+		c' : 1
+		est : 2
+		la : 7
+		rédaction : 5
+		il : 13
+		faut : 1
+		dire : 1
+		ce : 1
+		que : 1
+		tu : 1
+		as : 1
+		fait : 4
+		dimanches : 1
+		mais : 4
+		pour : 2
+		| : 1
+		chez : 3
+		Léon : 3
+		ne : 4
+		se : 2
+		passe : 1
+		rien : 3
+		Il : 3
+		va : 1
+		ses : 1
+		grands-parents : 2
+		et : 4
+		mange : 3
+		refait : 1
+		La : 1
+		première : 1
+		fois : 2
+		maitresse : 2
+		a : 12
+		mis : 2
+		encore : 1
+		plus : 1
+		une : 6
+		eu : 7
+		Et : 3
+		un : 2
+		dimanche : 2
+		sa : 2
+		mère : 1
+		coupa : 1
+		le : 4
+		doigt : 1
+		en : 2
+		coupant : 1
+		gigot : 1
+		bonne : 1
+		note : 1
+		à : 2
+		Un : 1
+		autre : 1
+		poussé : 1
+		soeur : 1
+		dans : 1
+		l' : 1
+		escalier : 1
+		savait : 1
+		pas : 1
+		quoi : 1
+		faire : 1
+		idée : 2
+		pot : 2
+		de : 3
+		fleurs : 2
+		équilibre : 1
+		au : 1
+		rebord : 1
+		fenêtre : 1
+		y : 2
+		dame : 2
+		qui : 1
+		crié : 2
+		elle : 2
+		s' : 1
+		pris : 1
+		était : 1
+		aux : 1
+		WC : 1
+		vu : 1
+		concierge : 1
+		avec : 1
+		Le : 1
+		lundi : 1
+		remplaçante : 2
+		dit : 1
+		Votre : 1
+		fracture : 1
+		du : 2
+		crâne : 1
+		coup : 1
+		ils : 1
+		ont : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 41)
+		('DET:ART', 25)
+		('VER:pres', 25)
+		('PRO:PER', 25)
+		('VER:pper', 17)
+		('PRP', 14)
+		('KON', 10)
+		('ADV', 10)
+		('SENT', 10)
+		('DET:POS', 5)
+		('PUN', 5)
+		('NAM', 4)
+		('NUM', 4)
+		('PUN:cit', 4)
+		('PRP:det', 4)
+		('PRO:REL', 3)
+		('PRO:DEM', 2)
+		('VER:infi', 2)
+		('ADJ', 2)
+		('VER:impf', 2)
+		('PRO:IND', 1)
+		('VER:simp', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 17)
+		(('DET:ART', 'le'), 16)
+		(('VER:pres', 'avoir'), 14)
+		(('SENT', '.'), 10)
+		(('DET:ART', 'un'), 9)
+		(('VER:pper', 'avoir'), 7)
+		(('KON', 'et'), 6)
+		(('NOM', 'rédaction'), 5)
+		(('KON', 'mais'), 4)
+		(('ADV', 'ne'), 4)
+		(('PUN:cit', '"'), 4)
+		(('VER:pper', 'faire'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRP', 'chez'), 3)
+		(('NAM', 'Léon'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('ADV', 'rien'), 3)
+		(('DET:POS', 'son'), 3)
+		(('VER:pres', 'manger'), 3)
+		(('NUM', '@card@'), 3)
+		(('PRP', 'de'), 3)
+		(('NOM', 'lundi'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRP', 'pour'), 2)
+		(('NOM', 'grands-parents'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('NOM', 'maitresse'), 2)
+		(('VER:pper', 'mettre'), 2)
+		(('PRP', 'en'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'idée'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'fleur'), 2)
+		(('PRP:det', 'au'), 2)
+		(('PRO:PER', 'y'), 2)
+		(('NOM', 'dame'), 2)
+		(('VER:pper', 'crier'), 2)
+		(('PRO:PER', 'elle'), 2)
+		(('NOM', 'remplaçant'), 2)
+		(('PUN', ':'), 2)
+		(('PRP:det', 'du'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:pres', 'falloir'), 1)
+		(('VER:infi', 'dire'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('PRO:PER', 'tu'), 1)
+		(('NOM', '|'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'refaire'), 1)
+		(('NUM', 'premier'), 1)
+		(('ADV', 'encore'), 1)
+		(('ADV', 'plus'), 1)
+		(('DET:POS', '@ord@'), 1)
+		(('NOM', 'Et'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'gigot'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'note'), 1)
+		(('ADJ', 'autre'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PUN', ','), 1)
+		(('PUN', '/'), 1)
+		(('VER:impf', 'savoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRO:REL', 'quoi'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pper', 'prendre'), 1)
+		(('VER:impf', 'être'), 1)
+		(('NAM', 'WC'), 1)
+		(('VER:pper', 'voir'), 1)
+		(('NOM', 'concierge'), 1)
+		(('PRP', 'avec'), 1)
+		(('VER:pres', 'dire'), 1)
+		(('PUN', '-'), 1)
+		(('DET:POS', 'votre'), 1)
+		(('NOM', 'fracture'), 1)
+		(('NOM', 'crâne'), 1)
+		(('NOM', 'coup'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5103092783505154
+
+	Score BLEU : 0.23858816598886592
+
+	Précision : 0.5963302752293578
+
+	Rappel : 0.3385416666666667
+
+	F-mesure : 0.43189368770764125
+

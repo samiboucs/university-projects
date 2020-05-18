@@ -1,0 +1,166 @@
+Léon	NAM	Léon
+faisait	VER:impf	faire
+toujours	ADV	toujours
+<omission type=""déterminant""/>
+rédactions	NOM	rédaction
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+mais	KON	mais
+il	PRO:PER	il
+n'	ADV	ne
+y	PRO:PER	y
+arrivait	VER:impf	arriver
+pas	ADV	pas
+<segmentation/>
+il	PRO:PER	il
+avait	VER:impf	avoir
+des	PRP:det	du
+mauvaises	ADJ	mauvais
+notes	NOM	note
+comme	KON	comme
+0	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+c'	PRO:DEM	ce
+était	VER:impf	être
+tous	PRO:IND	tout
+les	DET:ART	le
+dimanches	NOM	dimanche
+mais	KON	mais
+un	DET:ART	un
+jour	NOM	jour
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+était	VER:impf	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+alors	ADV	alors
+le	DET:ART	le
+lendemain	NOM	lendemain
+matin	NOM	matin
+il	PRO:PER	il
+l'	PRO:PER	la|le
+écrivait	VER:impf	écrire
+sur	PRP	sur
+sa	DET:POS	son
+feuille	NOM	feuille
+de	PRP	de
+rédaction	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+10	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+ça	PRO:DEM	cela
+y	PRO:PER	y
+est	VER:pres	être
+<segmentation/>
+il	PRO:PER	il
+avait	VER:impf	avoir
+compris	VER:pper	comprendre
+<segmentation/>
+l'	DET:ART	le
+autre	ADJ	autre
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+poussé	VER:pper	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+9	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+et	KON	et
+l'	DET:ART	le
+autre	ADJ	autre
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+inondé	VER:pper	inonder
+l'	DET:ART	le
+appartement	NOM	appartement
+des	PRP:det	du
+voisins	NOM	voisin
+d'	PRP	de
+en	PRP	en
+dessous	ADV	dessous
+mais	KON	mais
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+7	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+fait	VER:pper	faire
+tomber	VER:infi	tomber
+un	DET:ART	un
+pot	NOM	pot
+sur	PRP	sur
+la	DET:ART	le
+tête	NOM	tête
+d'	PRP	de
+un	DET:ART	un
+passant	NOM	passant
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+juste	ADJ	juste
+eu	VER:pper	avoir
+le	DET:ART	le
+temps	NOM	temps
+de	PRP	de
+l'	PRO:PER	la|le
+emmener	VER:infi	emmener
+dans	PRP	dans
+l'	DET:ART	le
+ambulance	NOM	ambulance
+et	KON	et
+ce	PRO:DEM	ce
+jour	NOM	jour
+-là	ADV	là
+il	PRO:PER	il
+avait	VER:impf	avoir
+<suggestion>
+fait	VER:pper	faire
+</suggestion>
+ça	PRO:DEM	cela
+pour	PRP	pour
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+y	PRO:PER	y
+avait	VER:impf	avoir
+une	DET:ART	un
+remplaçante	NOM	remplaçant
+et	KON	et
+<omission type=""sujet""/>
+leur	PRO:PER	lui
+expliqua	VER:simp	expliquer
+qu'	KON	que
+elle	PRO:PER	elle
+était	VER:impf	être
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+.	SENT	.

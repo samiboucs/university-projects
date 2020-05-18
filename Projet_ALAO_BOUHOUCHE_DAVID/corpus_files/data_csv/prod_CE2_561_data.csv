@@ -1,0 +1,217 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_561
+
+Cette production contient : 
+
+	165 forme(s)/token(s)
+
+	147 mot(s)
+
+	56 hapax
+
+	557 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	10 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	84 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		Léon : 3
+		a : 2
+		rédaction : 1
+		Il : 1
+		doit : 1
+		raconter : 1
+		son : 1
+		dimanche : 4
+		Le : 3
+		va : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		et : 6
+		il : 13
+		ne : 4
+		fait : 4
+		rien : 4
+		arrive : 1
+		mange : 1
+		remange : 1
+		À : 1
+		l' : 3
+		école : 1
+		la : 5
+		maîtresse : 3
+		lui : 3
+		dit : 2
+		que : 2
+		c' : 3
+		est : 1
+		insuffisant : 1
+		La : 1
+		deuxième : 1
+		fois : 1
+		met : 1
+		un : 2
+		zéro : 1
+		Ce : 2
+		se : 2
+		passa : 1
+		quelque : 1
+		chose : 1
+		sa : 2
+		mère : 1
+		coupa : 1
+		le : 4
+		doigt : 1
+		sur : 3
+		table : 1
+		en : 1
+		coupant : 1
+		gigot : 1
+		y : 1
+		avait : 1
+		du : 1
+		sang : 1
+		de : 1
+		partout : 1
+		nappe : 2
+		était : 2
+		dégoutant : 1
+		lundi : 2
+		raconta : 2
+		très : 2
+		bien : 1
+		eut : 2
+		une : 1
+		bonne : 1
+		idée : 1
+		poussa : 1
+		soeur : 1
+		dans : 1
+		escalier : 1
+		Elle : 1
+		dû : 1
+		aller : 1
+		à : 1
+		hôpital : 1
+		neuf : 1
+		dix : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 27)
+		('PRO:PER', 23)
+		('DET:ART', 18)
+		('VER:pres', 15)
+		('ADV', 12)
+		('SENT', 10)
+		('PRP', 9)
+		('PUN', 8)
+		('KON', 8)
+		('VER:simp', 7)
+		('PRO:DEM', 5)
+		('DET:POS', 4)
+		('ADJ', 4)
+		('NAM', 3)
+		('VER:impf', 3)
+		('PRO:IND', 2)
+		('VER:infi', 2)
+		('NUM', 2)
+		('VER:ppre', 1)
+		('PRP:det', 1)
+		('VER:pper', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 15)
+		(('PRO:PER', 'il'), 14)
+		(('SENT', '.'), 10)
+		(('PUN', ','), 8)
+		(('KON', 'et'), 6)
+		(('PRO:DEM', 'ce'), 5)
+		(('DET:POS', 'son'), 4)
+		(('NOM', 'dimanche'), 4)
+		(('ADV', 'ne'), 4)
+		(('VER:pres', 'faire'), 4)
+		(('ADV', 'rien'), 4)
+		(('NOM', 'lundi'), 3)
+		(('NAM', 'Léon'), 3)
+		(('NOM', 'maître|maîtresse'), 3)
+		(('PRO:PER', 'lui'), 3)
+		(('DET:ART', 'un'), 3)
+		(('PRP', 'sur'), 3)
+		(('VER:pres', 'avoir'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:pres', 'dire'), 2)
+		(('KON', 'que'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'nappe'), 2)
+		(('VER:impf', 'être'), 2)
+		(('PRO:PER', 'le'), 2)
+		(('VER:simp', 'raconter'), 2)
+		(('ADV', 'très'), 2)
+		(('VER:simp', 'avoir'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('VER:pres', 'arriver'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'remanger'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADJ', 'insuffisant'), 1)
+		(('NUM', 'deuxième'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('VER:pres', 'mettre'), 1)
+		(('NOM', 'zéro'), 1)
+		(('VER:simp', 'passer'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('NOM', 'table'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'gigot'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'sang'), 1)
+		(('PRP', 'de'), 1)
+		(('ADV', 'partout'), 1)
+		(('ADJ', 'dégoutant'), 1)
+		(('ADV', 'bien'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'idée'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pper', 'devoir'), 1)
+		(('VER:infi', 'aller'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('ADJ', 'neuf'), 1)
+		(('NUM', 'dix'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5714285714285714
+
+	Score BLEU : 0.16338098639843446
+
+	Précision : 0.7093023255813954
+
+	Rappel : 0.3177083333333333
+
+	F-mesure : 0.43884892086330934
+

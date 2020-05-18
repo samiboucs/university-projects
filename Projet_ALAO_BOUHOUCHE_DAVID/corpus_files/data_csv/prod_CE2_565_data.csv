@@ -1,0 +1,141 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_565
+
+Cette production contient : 
+
+	64 forme(s)/token(s)
+
+	63 mot(s)
+
+	34 hapax
+
+	234 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 63 mot(s) par phrase
+
+	46 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Chaque : 1
+		lundi : 1
+		Léon : 1
+		raconte : 1
+		leur : 1
+		week-end : 1
+		mais : 2
+		le : 1
+		seul : 1
+		problème : 1
+		c' : 1
+		est : 2
+		que : 1
+		chez : 1
+		son : 1
+		papi : 1
+		et : 3
+		sa : 2
+		mamy : 1
+		il : 5
+		ne : 1
+		se : 1
+		passe : 1
+		rien : 1
+		du : 1
+		tout : 2
+		mange : 1
+		remange : 1
+		un : 2
+		jour : 1
+		mère : 1
+		s' : 1
+		coupée : 1
+		avec : 1
+		couteau : 3
+		ça : 2
+		saigne : 2
+		a : 2
+		raconté : 1
+		à : 1
+		l' : 1
+		école : 2
+		eu : 1
+		une : 1
+		bonne : 1
+		note : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 15)
+		('VER:pres', 10)
+		('PRO:PER', 7)
+		('KON', 6)
+		('DET:ART', 5)
+		('DET:POS', 4)
+		('PRO:DEM', 3)
+		('PRP', 3)
+		('VER:pper', 3)
+		('ADJ', 2)
+		('ADV', 2)
+		('PRO:IND', 1)
+		('NAM', 1)
+		('PRP:det', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 5)
+		(('DET:POS', 'son'), 3)
+		(('KON', 'et'), 3)
+		(('DET:ART', 'un'), 3)
+		(('NOM', 'couteau'), 3)
+		(('KON', 'mais'), 2)
+		(('DET:ART', 'le'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'tout'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:pres', 'saigner'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('NOM', 'école'), 2)
+		(('PRO:IND', 'chaque'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'raconter'), 1)
+		(('DET:POS', 'leur'), 1)
+		(('NOM', 'week-end'), 1)
+		(('ADJ', 'seul'), 1)
+		(('NOM', 'problème'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('KON', 'que'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'papi'), 1)
+		(('NOM', 'mamy'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('ADV', 'rien'), 1)
+		(('PRP:det', 'du'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'remanger'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('PRP', 'avec'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'note'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7301587301587301
+
+	Score BLEU : 0.002454615812413802
+
+	Précision : 0.574468085106383
+
+	Rappel : 0.140625
+
+	F-mesure : 0.22594142259414227
+

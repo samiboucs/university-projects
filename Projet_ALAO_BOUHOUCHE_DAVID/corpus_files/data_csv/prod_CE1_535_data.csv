@@ -1,0 +1,171 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_535
+
+Cette production contient : 
+
+	102 forme(s)/token(s)
+
+	89 mot(s)
+
+	41 hapax
+
+	371 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 13 mot(s) par phrase
+
+	60 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 3
+		lundis : 1
+		mêmes : 1
+		jours : 1
+		sont : 1
+		pareils : 1
+		Sa : 1
+		maîtresse : 3
+		écrivait : 2
+		rédaction : 3
+		au : 1
+		tableau : 1
+		Léon : 1
+		avait : 3
+		zéro : 1
+		à : 4
+		la : 3
+		Mais : 1
+		un : 3
+		jour : 2
+		il : 3
+		inondé : 1
+		ses : 1
+		voisins : 1
+		d' : 1
+		en : 2
+		dessous : 1
+		Il : 2
+		a : 2
+		eu : 2
+		L' : 1
+		autre : 1
+		tenait : 1
+		pot : 2
+		de : 3
+		fleurs : 2
+		équilibre : 1
+		et : 1
+		moment : 1
+		le : 2
+		tomba : 1
+		sur : 1
+		tête : 1
+		est : 1
+		revenu : 1
+		l' : 1
+		école : 1
+		sans : 1
+		mais : 1
+		y : 1
+		une : 1
+		remplaçante : 1
+		Elle : 1
+		annonça : 1
+		tous : 1
+		enfants : 2
+		Votre : 1
+		crâne : 1
+		ouvert : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 25)
+		('DET:ART', 14)
+		('PRP', 12)
+		('SENT', 7)
+		('PRO:PER', 7)
+		('VER:impf', 6)
+		('ADJ', 4)
+		('VER:pres', 4)
+		('VER:pper', 4)
+		('KON', 3)
+		('PUN:cit', 3)
+		('PRO:IND', 2)
+		('DET:POS', 2)
+		('NAM', 2)
+		('VER:simp', 2)
+		('PRP:det', 1)
+		('ADV', 1)
+		('NUM', 1)
+		('PUN', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 10)
+		(('SENT', '.'), 7)
+		(('PRO:PER', 'il'), 5)
+		(('PRP', 'à'), 4)
+		(('DET:ART', 'un'), 4)
+		(('PRP', 'de'), 4)
+		(('NOM', 'jour'), 3)
+		(('NOM', 'maître|maîtresse'), 3)
+		(('NOM', 'rédaction'), 3)
+		(('VER:impf', 'avoir'), 3)
+		(('PRO:IND', 'tout'), 2)
+		(('VER:pres', 'être'), 2)
+		(('DET:POS', 'son'), 2)
+		(('VER:impf', 'écrire'), 2)
+		(('KON', 'mais'), 2)
+		(('PRP', 'en'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'fleur'), 2)
+		(('NOM', 'enfant'), 2)
+		(('PUN:cit', '»'), 2)
+		(('NOM', 'lundi'), 1)
+		(('ADJ', 'même'), 1)
+		(('ADJ', 'pareil'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'tableau'), 1)
+		(('NAM', 'Léon'), 1)
+		(('NOM', 'zéro'), 1)
+		(('VER:pper', 'inonder'), 1)
+		(('NOM', 'voisin'), 1)
+		(('ADV', 'dessous'), 1)
+		(('NUM', '@card@'), 1)
+		(('PUN', '/'), 1)
+		(('VER:ppre', '@ord@'), 1)
+		(('ADJ', 'autre'), 1)
+		(('VER:impf', 'tenir'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'moment'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('VER:pper', 'revenir'), 1)
+		(('NOM', 'école'), 1)
+		(('PRP', 'sans'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:simp', 'annoncer'), 1)
+		(('PUN:cit', '«'), 1)
+		(('NAM', 'Votre'), 1)
+		(('NOM', 'crâne'), 1)
+		(('ADJ', 'ouvert'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6741573033707865
+
+	Score BLEU : 0.03206827558622848
+
+	Précision : 0.5909090909090909
+
+	Rappel : 0.203125
+
+	F-mesure : 0.3023255813953488
+

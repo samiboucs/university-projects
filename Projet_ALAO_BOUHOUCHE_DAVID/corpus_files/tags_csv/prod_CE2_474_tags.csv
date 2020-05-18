@@ -1,0 +1,74 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+c'	PRO:DEM	ce
+était	VER:impf	être
+rédaction	NOM	rédaction
+pour	PRP	pour
+Léon	NAM	Léon
+.	SENT	.
+Il	PRO:PER	il
+doit	VER:pres	devoir
+raconter	VER:infi	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+chez	PRP	chez
+ses	DET:POS	son
+grands-parents	NOM	grands-parents
+.	SENT	.
+Il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+remange	VER:pres	remanger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+refait	VER:pres	refaire
+rien	ADV	rien
+.	SENT	.
+La	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+dit	VER:pres	dire
+<dialogue>
+«	PUN:cit	«
+Tu	NAM	Tu
+peux	VER:pres	pouvoir
+faire	VER:infi	faire
+mieux	ADV	mieux
+.	SENT	.
+»	PUN:cit	»
+</dialogue>
+Le	DET:ART	le
+dimanche	NOM	dimanche
+d'	PRP	de
+après	PRP	après
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+.	SENT	.
+La	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+lui	PRO:PER	lui
+dit	VER:pres	dire
+<dialogue>
+«	PUN:cit	«
+Tu	NAM	Tu
+as	VER:pres	avoir
+7	NUM	@card@
+sur	PRP	sur
+10.	NAM	@ord@
+»	PUN:cit	»
+</dialogue>

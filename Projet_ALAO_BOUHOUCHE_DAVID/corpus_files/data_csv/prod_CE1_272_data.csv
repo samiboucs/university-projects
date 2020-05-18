@@ -1,0 +1,153 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_272
+
+Cette production contient : 
+
+	98 forme(s)/token(s)
+
+	88 mot(s)
+
+	37 hapax
+
+	337 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 22 mot(s) par phrase
+
+	54 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		jours : 1
+		Léon : 1
+		fait : 4
+		la : 5
+		rédaction : 1
+		à : 1
+		l' : 1
+		école : 1
+		Mais : 2
+		il : 6
+		ne : 3
+		se : 3
+		passe : 2
+		pendant : 1
+		le : 5
+		dimanche : 2
+		parce : 3
+		qu' : 2
+		ses : 1
+		devoirs : 1
+		Il : 1
+		gronder : 2
+		toutes : 1
+		semaines : 1
+		une : 1
+		semaine : 2
+		pas : 2
+		que : 1
+		dernier : 1
+		jour : 1
+		de : 4
+		mit : 1
+		un : 1
+		pot : 1
+		en : 1
+		équilibre : 1
+		et : 2
+		tomba : 1
+		sur : 1
+		tête : 1
+		maîtresse : 1
+		vit : 1
+		rien : 1
+		n' : 1
+		avait : 1
+		temps : 1
+		descendre : 1
+		mais : 1
+		d' : 1
+		écouter : 1
+		bruit : 1
+		dame : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 17)
+		('DET:ART', 15)
+		('KON', 10)
+		('PRO:PER', 10)
+		('PRP', 9)
+		('VER:pres', 7)
+		('ADV', 7)
+		('PUN', 6)
+		('SENT', 4)
+		('VER:infi', 4)
+		('PRO:IND', 2)
+		('VER:simp', 2)
+		('NAM', 1)
+		('PRO:REL', 1)
+		('DET:POS', 1)
+		('ADJ', 1)
+		('VER:impf', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 13)
+		(('PRO:PER', 'il'), 7)
+		(('PUN', ','), 6)
+		(('PRP', 'de'), 5)
+		(('VER:pres', 'faire'), 4)
+		(('SENT', '.'), 4)
+		(('ADV', 'ne'), 4)
+		(('KON', 'mais'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('KON', 'parce'), 3)
+		(('NOM', 'semaine'), 3)
+		(('PRO:IND', 'tout'), 2)
+		(('NOM', 'jour'), 2)
+		(('VER:pres', 'passer'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:infi', 'gronder'), 2)
+		(('DET:ART', 'un'), 2)
+		(('ADV', 'pas'), 2)
+		(('KON', 'que'), 2)
+		(('KON', 'et'), 2)
+		(('NAM', 'Léon'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'école'), 1)
+		(('PRP', 'pendant'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'devoir'), 1)
+		(('ADJ', 'dernier'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pres', 'vivre'), 1)
+		(('ADV', 'rien'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('NOM', 'temps'), 1)
+		(('VER:infi', 'descendre'), 1)
+		(('VER:infi', 'écouter'), 1)
+		(('NOM', 'bruit'), 1)
+		(('NOM', 'dame'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6136363636363636
+
+	Score BLEU : 0.030440697599841218
+
+	Précision : 0.7321428571428571
+
+	Rappel : 0.21354166666666666
+
+	F-mesure : 0.3306451612903225
+

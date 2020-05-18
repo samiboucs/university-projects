@@ -1,0 +1,86 @@
+Il	PRO:PER	il
+s'	PRO:PER	se
+ennuie	VER:pres	ennuyer
+chez	PRP	chez
+sa	DET:POS	son
+mamie	NOM	mamie
+et	KON	et
+puis	ADV	puis
+d'	PRP	de
+un	DET:ART	un
+geste	NOM	geste
+brusque	ADJ	brusque
+elle	PRO:PER	elle
+se	PRO:PER	se
+coupe	VER:pres	couper
+le	DET:ART	le
+doigt	NOM	doigt
+!	SENT	!
+Alors	ADV	alors
+en	PRP	en
+français	ADJ	français
+il	PRO:PER	il
+a	VER:pres	avoir
+tout	ADV	tout
+juste	ADJ	juste
+<incomprehensible/>
+il	PRO:PER	il
+a	VER:pres	avoir
+9	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+et	KON	et
+la	DET:ART	le
+remplaçante	NOM	remplaçant
+arriva	VER:simp	arriver
+et	KON	et
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+dit	VER:pper	dire
+<dialogue>
+«	PUN:cit	«
+Eh	NAM	Eh
+!	SENT	!
+Mais	KON	mais
+c'	PRO:DEM	ce
+est	VER:pres	être
+trop	ADV	trop
+facile	ADJ	facile
+en	PRP	en
+fait	NOM	fait
+»	PUN:cit	»
+</dialogue>
+et	KON	et
+la	PRO:PER	la
+<unsure>
+ne	ADV	ne
+se	PRO:PER	se
+met	VER:pres	mettre
+pas	ADV	pas
+dans	PRP	dans
+le	DET:ART	le
+texte	NOM	texte
+</unsure>
+maitresse	VER:pres	maitresse
+dit	VER:pper	dire
+<dialogue>
+«	PUN:cit	«
+chut	NOM	chut
+ou	KON	ou
+sinon	KON	sinon
+je	PRO:PER	je
+te	PRO:PER	te
+change	VER:pres	changer
+de	PRP	de
+couleur	NOM	couleur
+.	SENT	.
+Je	PRO:PER	je
+te	PRO:PER	te
+mets	VER:pres	mettre
+sur	PRP	sur
+le	DET:ART	le
+bleu	ADJ	bleu
+»	PUN:cit	»
+.	SENT	.
+</dialogue>

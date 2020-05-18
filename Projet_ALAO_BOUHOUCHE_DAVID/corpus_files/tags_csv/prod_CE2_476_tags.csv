@@ -1,0 +1,66 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+Léo	NAM	Léo
+a	VER:pres	avoir
+des	PRP:det	du
+rédactions	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+des	PRP:det	du
+zéros	NOM	zéro
+tout	ADV	tout
+le	DET:ART	le
+temps	NOM	temps
+<segmentation/>
+sa	DET:POS	son
+maman	NOM	maman
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+Léo	NAM	Léo
+a	VER:pres	avoir
+écrit	VER:pper	écrire
+ça	PRO:DEM	cela
+<segmentation/>
+sa	DET:POS	son
+maman	NOM	maman
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+il	PRO:PER	il
+avait	VER:impf	avoir
+une	DET:ART	un
+note	NOM	note
+dix	NUM	dix
+sur	PRP	sur
+dix	NUM	dix
+<segmentation/>
+une	DET:ART	un
+fois	NOM	foi|fois
+<incomprehensible/>
+et	KON	et
+sur	PRP	sur
+une	DET:ART	un
+dame	NOM	dame
+<unsure>
+la	DET:ART	le
+remplaçante	NOM	remplaçant
+parce	KON	parce
+que	KON	que
+sa	DET:POS	son
+maîtresse	NOM	maître|maîtresse
+s'	PRO:PER	se
+est	VER:pres	être
+fait	VER:pper	faire
+mal	ADV	mal
+au	PRP:det	au
+crâne	NOM	crâne
+</unsure>

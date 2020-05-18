@@ -1,0 +1,126 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_532
+
+Cette production contient : 
+
+	85 forme(s)/token(s)
+
+	84 mot(s)
+
+	16 hapax
+
+	320 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 84 mot(s) par phrase
+
+	37 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 4
+		met : 1
+		un : 3
+		pot : 3
+		de : 4
+		fleurs : 3
+		et : 8
+		le : 3
+		fait : 3
+		tomber : 3
+		a : 4
+		atterri : 1
+		sur : 2
+		la : 3
+		maitresse : 6
+		une : 1
+		nouvelle : 1
+		était : 1
+		aux : 1
+		toilettes : 1
+		est : 3
+		tombé : 1
+		à : 2
+		l' : 4
+		hôpital : 1
+		dans : 1
+		escalier : 2
+		peu : 1
+		lait : 2
+		son : 2
+		père : 2
+		bu : 2
+		failli : 1
+		mourir : 1
+		sa : 1
+		mère : 1
+		hosto : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 22)
+		('DET:ART', 12)
+		('VER:pres', 10)
+		('PRP', 9)
+		('KON', 8)
+		('VER:pper', 6)
+		('NAM', 4)
+		('VER:infi', 4)
+		('DET:POS', 3)
+		('PRO:PER', 2)
+		('ADJ', 1)
+		('VER:impf', 1)
+		('PRP:det', 1)
+		('ADV', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('KON', 'et'), 8)
+		(('DET:ART', 'le'), 8)
+		(('NOM', 'maitresse'), 6)
+		(('NAM', 'Léon'), 4)
+		(('DET:ART', 'un'), 4)
+		(('PRP', 'de'), 4)
+		(('VER:pres', 'avoir'), 4)
+		(('NOM', 'pot'), 3)
+		(('NOM', 'fleur'), 3)
+		(('VER:infi', 'tomber'), 3)
+		(('VER:pres', 'être'), 3)
+		(('DET:POS', 'son'), 3)
+		(('VER:pres', 'faire'), 2)
+		(('PRP', 'sur'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'escalier'), 2)
+		(('NOM', 'lait'), 2)
+		(('NOM', 'père'), 2)
+		(('VER:pper', 'boire'), 2)
+		(('VER:pres', 'mettre'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('VER:pper', 'atterrir'), 1)
+		(('ADJ', 'nouveau'), 1)
+		(('VER:impf', 'être'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'toilette'), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('PRP', 'dans'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('ADV', 'peu'), 1)
+		(('PRO:PER', 'la|le'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'mourir'), 1)
+		(('NOM', 'mère'), 1)
+		(('NOM', 'hosto'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.44047619047619047
+
+	Score BLEU : 0.010539674680734523
+
+	Précision : 0.631578947368421
+
+	Rappel : 0.125
+
+	F-mesure : 0.20869565217391303
+

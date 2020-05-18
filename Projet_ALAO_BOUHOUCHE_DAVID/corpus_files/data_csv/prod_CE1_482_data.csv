@@ -1,0 +1,177 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_482
+
+Cette production contient : 
+
+	118 forme(s)/token(s)
+
+	109 mot(s)
+
+	44 hapax
+
+	484 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 54 mot(s) par phrase
+
+	61 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 2
+		l' : 2
+		histoire : 1
+		d' : 2
+		un : 1
+		petit : 5
+		garçon : 5
+		qui : 1
+		fait : 1
+		sa : 3
+		rédaction : 6
+		dring : 6
+		la : 7
+		cloche : 3
+		sonne : 9
+		tous : 1
+		les : 1
+		enfants : 1
+		partent : 1
+		dans : 1
+		cour : 2
+		autre : 1
+		oh : 1
+		non : 2
+		de : 1
+		cantine : 1
+		ils : 1
+		leur : 2
+		aller : 1
+		manger : 2
+		le : 5
+		rentre : 1
+		à : 1
+		maison : 1
+		et : 2
+		voit : 1
+		mère : 1
+		avec : 1
+		son : 1
+		doigt : 1
+		enlevé : 1
+		mais : 1
+		c' : 1
+		parfait : 1
+		pour : 1
+		ma : 1
+		lendemain : 1
+		matin : 1
+		s' : 1
+		assoit : 1
+		sur : 1
+		chaise : 1
+		maitresse : 1
+		distribue : 1
+		nouvelle : 1
+		a : 1
+		Dit : 1
+		en : 1
+		souriant : 1
+		FIN : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 32)
+		('VER:pres', 19)
+		('DET:ART', 16)
+		('PRP', 9)
+		('ADJ', 8)
+		('DET:POS', 5)
+		('NUM', 5)
+		('PRO:PER', 4)
+		('VER:infi', 3)
+		('KON', 3)
+		('PRO:DEM', 2)
+		('INT', 2)
+		('PUN', 2)
+		('ADV', 2)
+		('SENT', 2)
+		('PRO:REL', 1)
+		('PRO:IND', 1)
+		('VER:pper', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 15)
+		(('VER:pres', 'sonner'), 9)
+		(('NOM', 'rédaction'), 6)
+		(('ADJ', 'petit'), 5)
+		(('NOM', 'garçon'), 5)
+		(('NOM', 'dring'), 5)
+		(('NUM', '@card@'), 5)
+		(('DET:POS', 'son'), 4)
+		(('PRP', 'de'), 3)
+		(('NOM', 'cloche'), 3)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('NOM', 'cour'), 2)
+		(('PUN', '/'), 2)
+		(('ADV', 'non'), 2)
+		(('PRO:PER', 'lui'), 2)
+		(('VER:infi', 'manger'), 2)
+		(('KON', 'et'), 2)
+		(('NOM', 'histoire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'enfant'), 1)
+		(('VER:pres', 'partir'), 1)
+		(('PRP', 'dans'), 1)
+		(('INT', 'dring'), 1)
+		(('ADJ', 'autre'), 1)
+		(('INT', 'oh'), 1)
+		(('NOM', 'cantine'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('VER:infi', 'aller'), 1)
+		(('VER:pres', 'rentrer'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'maison'), 1)
+		(('VER:pres', 'voir'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRP', 'avec'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:pper', 'enlever'), 1)
+		(('KON', 'mais'), 1)
+		(('ADJ', 'parfait'), 1)
+		(('PRP', 'pour'), 1)
+		(('DET:POS', 'mon'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('NOM', 'matin'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'asseoir'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'chaise'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('VER:pres', 'distribuer'), 1)
+		(('ADJ', 'nouveau'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('SENT', '!'), 1)
+		(('VER:pres', 'dire'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'sourire'), 1)
+		(('SENT', '.'), 1)
+		(('NOM', 'fin'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5596330275229358
+
+	Score BLEU : 0.031396110544999654
+
+	Précision : 0.36363636363636365
+
+	Rappel : 0.125
+
+	F-mesure : 0.18604651162790697
+

@@ -1,0 +1,75 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_1016
+
+Cette production contient : 
+
+	19 forme(s)/token(s)
+
+	14 mot(s)
+
+	12 hapax
+
+	57 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 14 mot(s) par phrase
+
+	13 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 1
+		petit : 1
+		garçon : 1
+		qui : 1
+		s' : 1
+		appelait : 1
+		Léon : 2
+		un : 1
+		lundi : 1
+		il : 1
+		a : 1
+		eu : 1
+		insuffisant : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PUN:cit', 4)
+		('DET:ART', 2)
+		('ADJ', 2)
+		('NOM', 2)
+		('PRO:PER', 2)
+		('NAM', 2)
+		('PRO:REL', 1)
+		('VER:impf', 1)
+		('VER:pres', 1)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PUN:cit', '"'), 4)
+		(('DET:ART', 'un'), 2)
+		(('NAM', 'Léon'), 2)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'appeler'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('ADJ', 'insuffisant'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.9285714285714286
+
+	Score BLEU : 4.2561914364995014e-10
+
+	Précision : 0.4
+
+	Rappel : 0.03125
+
+	F-mesure : 0.057971014492753624
+

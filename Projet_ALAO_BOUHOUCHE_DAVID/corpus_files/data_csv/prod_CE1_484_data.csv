@@ -1,0 +1,104 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_484
+
+Cette production contient : 
+
+	36 forme(s)/token(s)
+
+	33 mot(s)
+
+	27 hapax
+
+	141 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 11 mot(s) par phrase
+
+	30 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 1
+		l' : 1
+		histoire : 1
+		d' : 1
+		un : 1
+		petit : 1
+		garçon : 2
+		qui : 1
+		fait : 2
+		de : 1
+		la : 1
+		rédaction : 1
+		tous : 1
+		les : 2
+		lundis : 1
+		Tous : 1
+		dimanches : 1
+		le : 1
+		va : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		Le : 1
+		dimanche : 1
+		il : 1
+		ne : 1
+		que : 1
+		des : 1
+		bêtises : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 9)
+		('DET:ART', 7)
+		('VER:pres', 4)
+		('PRP', 3)
+		('SENT', 3)
+		('PRO:IND', 2)
+		('ADV', 2)
+		('PRO:DEM', 1)
+		('ADJ', 1)
+		('PRO:REL', 1)
+		('DET:POS', 1)
+		('PRO:PER', 1)
+		('PRP:det', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 6)
+		(('SENT', '.'), 3)
+		(('PRP', 'de'), 2)
+		(('NOM', 'garçon'), 2)
+		(('VER:pres', 'faire'), 2)
+		(('PRO:IND', 'tout'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('NOM', 'histoire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('ADJ', 'petit'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'que'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'bêtise'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.9090909090909091
+
+	Score BLEU : 1.880542108731424e-05
+
+	Précision : 0.6451612903225806
+
+	Rappel : 0.10416666666666667
+
+	F-mesure : 0.17937219730941703
+

@@ -1,0 +1,175 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_546
+
+Cette production contient : 
+
+	105 forme(s)/token(s)
+
+	103 mot(s)
+
+	43 hapax
+
+	398 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 52 mot(s) par phrase
+
+	64 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Chez : 1
+		Léon : 3
+		le : 4
+		dimanche : 3
+		il : 8
+		ne : 3
+		s' : 1
+		y : 1
+		passe : 2
+		rien : 5
+		lundi : 1
+		à : 2
+		l' : 1
+		école : 1
+		faut : 1
+		écrire : 2
+		sur : 3
+		une : 1
+		feuille : 1
+		ce : 1
+		qu' : 2
+		on : 1
+		a : 3
+		fait : 1
+		Mais : 1
+		sait : 1
+		pas : 1
+		quoi : 1
+		marquer : 1
+		parce : 1
+		que : 2
+		lui : 1
+		se : 1
+		est : 2
+		obligé : 1
+		d' : 1
+		inventer : 1
+		des : 2
+		farces : 1
+		pour : 2
+		sa : 3
+		rédaction : 3
+		sinon : 1
+		n' : 1
+		aurait : 1
+		écrit : 1
+		bêtises : 1
+		faites : 1
+		mais : 1
+		un : 2
+		jour : 1
+		mis : 1
+		pot : 1
+		de : 2
+		fleurs : 1
+		en : 1
+		équilibre : 1
+		rebord : 1
+		la : 1
+		fenêtre : 2
+		tombé : 1
+		maitresse : 1
+		qui : 1
+		passait : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 19)
+		('PRO:PER', 13)
+		('PRP', 12)
+		('ADV', 10)
+		('VER:pres', 10)
+		('DET:ART', 9)
+		('KON', 6)
+		('VER:pper', 5)
+		('VER:infi', 4)
+		('PRO:REL', 4)
+		('NAM', 3)
+		('DET:POS', 3)
+		('SENT', 2)
+		('PRP:det', 2)
+		('PRO:DEM', 1)
+		('VER:cond', 1)
+		('VER:impf', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 8)
+		(('DET:ART', 'le'), 6)
+		(('ADV', 'rien'), 5)
+		(('ADV', 'ne'), 4)
+		(('NAM', 'Léon'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRP', 'sur'), 3)
+		(('DET:ART', 'un'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('PRP', 'de'), 3)
+		(('DET:POS', 'son'), 3)
+		(('NOM', 'rédaction'), 3)
+		(('PRO:PER', 'se'), 2)
+		(('VER:pres', 'passer'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:infi', 'écrire'), 2)
+		(('PRO:REL', 'que'), 2)
+		(('VER:pper', 'faire'), 2)
+		(('SENT', '.'), 2)
+		(('KON', 'mais'), 2)
+		(('KON', 'que'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRP:det', 'du'), 2)
+		(('PRP', 'pour'), 2)
+		(('NOM', 'fenêtre'), 2)
+		(('PRP', 'chez'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'falloir'), 1)
+		(('NOM', 'feuille'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:PER', 'on'), 1)
+		(('VER:pres', 'savoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRO:REL', 'quoi'), 1)
+		(('VER:infi', 'marquer'), 1)
+		(('KON', 'parce'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('VER:pper', 'obliger'), 1)
+		(('VER:infi', 'inventer'), 1)
+		(('NOM', 'farce'), 1)
+		(('KON', 'sinon'), 1)
+		(('VER:cond', 'avoir'), 1)
+		(('VER:pres', 'écrire'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'rebord'), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:impf', 'passer'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6213592233009708
+
+	Score BLEU : 0.034943261408052394
+
+	Précision : 0.5846153846153846
+
+	Rappel : 0.19791666666666666
+
+	F-mesure : 0.29571984435797666
+

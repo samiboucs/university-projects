@@ -1,0 +1,34 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+même	ADJ	même
+chose	NOM	chose
+.	SENT	.
+Léon	NAM	Léon
+a	VER:pres	avoir
+rédaction	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+doit	VER:pres	devoir
+dire	VER:infi	dire
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+a	VER:pres	avoir
+fait	VER:pper	faire
+le	DET:ART	le
+dimanche	NOM	dimanche
+.	SENT	.
+Mais	KON	mais
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+remange	VER:pres	remanger
+et	KON	et
+<nonfini/>

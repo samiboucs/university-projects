@@ -1,0 +1,143 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_543
+
+Cette production contient : 
+
+	85 forme(s)/token(s)
+
+	77 mot(s)
+
+	31 hapax
+
+	274 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 11 mot(s) par phrase
+
+	44 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		devait : 1
+		raconter : 1
+		ce : 3
+		qu' : 3
+		il : 9
+		faisait : 1
+		le : 6
+		dimanche : 4
+		Et : 5
+		avait : 1
+		zéro : 1
+		sa : 2
+		mère : 1
+		se : 1
+		coupa : 1
+		doigt : 1
+		Alors : 1
+		lundi : 2
+		a : 4
+		raconté : 1
+		s' : 1
+		est : 1
+		passé : 1
+		eu : 2
+		vingt : 2
+		sur : 2
+		suivant : 1
+		poussa : 1
+		soeur : 1
+		dans : 1
+		l' : 2
+		escalier : 1
+		et : 1
+		elle : 1
+		doit : 1
+		aller : 1
+		à : 1
+		hôpital : 1
+		Le : 1
+		raconta : 1
+		fait : 1
+		neuf : 1
+		dix : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PRO:PER', 12)
+		('NOM', 12)
+		('DET:ART', 9)
+		('SENT', 7)
+		('KON', 6)
+		('VER:pres', 6)
+		('VER:pper', 5)
+		('PRP', 4)
+		('VER:impf', 3)
+		('PRO:DEM', 3)
+		('PRO:REL', 3)
+		('VER:simp', 3)
+		('NUM', 3)
+		('VER:infi', 2)
+		('DET:POS', 2)
+		('NAM', 1)
+		('ADV', 1)
+		('VER:ppre', 1)
+		('ADJ', 1)
+		('PUN', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 9)
+		(('DET:ART', 'le'), 9)
+		(('SENT', '.'), 7)
+		(('KON', 'et'), 6)
+		(('NOM', 'dimanche'), 4)
+		(('VER:pres', 'avoir'), 4)
+		(('PRO:DEM', 'ce'), 3)
+		(('PRO:REL', 'que'), 3)
+		(('DET:POS', 'son'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'lundi'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('NUM', 'vingt'), 2)
+		(('PRP', 'sur'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('ADV', 'alors'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'passer'), 1)
+		(('VER:ppre', 'suivre'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('VER:simp', 'raconter'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('ADJ', 'neuf'), 1)
+		(('NUM', 'dix'), 1)
+		(('PUN', '...'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5714285714285714
+
+	Score BLEU : 0.013367392278004762
+
+	Précision : 0.5869565217391305
+
+	Rappel : 0.140625
+
+	F-mesure : 0.226890756302521
+

@@ -1,0 +1,235 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_84
+
+Cette production contient : 
+
+	165 forme(s)/token(s)
+
+	150 mot(s)
+
+	54 hapax
+
+	602 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 21 mot(s) par phrase
+
+	88 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 2
+		garçon : 1
+		n' : 3
+		avait : 1
+		jamais : 1
+		de : 6
+		bonne : 1
+		note : 1
+		en : 2
+		racontant : 2
+		tous : 2
+		les : 3
+		lundis : 1
+		il : 10
+		devait : 1
+		présenter : 1
+		son : 3
+		dimanche : 4
+		jour : 1
+		sa : 3
+		mère : 1
+		se : 2
+		coupa : 1
+		le : 6
+		doigt : 1
+		coupant : 1
+		gibier : 1
+		lendemain : 2
+		Léo : 1
+		présenta : 1
+		et : 2
+		a : 4
+		un : 3
+		très : 1
+		bien : 2
+		Il : 2
+		dit : 1
+		qu' : 1
+		fera : 1
+		ça : 1
+		dimanches : 1
+		Le : 2
+		d' : 1
+		après : 1
+		poussa : 1
+		soeur : 1
+		dans : 2
+		escaliers : 2
+		l' : 4
+		ambulance : 1
+		amena : 1
+		à : 2
+		hôpital : 3
+		eut : 1
+		Après : 1
+		ce : 1
+		mit : 2
+		la : 2
+		poudre : 1
+		lessive : 1
+		lait : 2
+		père : 1
+		failli : 1
+		mourir : 1
+		intoxiqué : 1
+		Une : 1
+		autre : 1
+		fois : 1
+		pot : 1
+		fleurs : 1
+		sur : 2
+		rebord : 1
+		fenêtre : 1
+		tomba : 1
+		une : 1
+		personne : 2
+		pas : 2
+		pu : 1
+		voir : 2
+		était : 2
+		aux : 1
+		WC : 1
+		fait : 1
+		rédaction : 2
+		maitresse : 1
+		fracture : 1
+		du : 1
+		crâne : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 37)
+		('DET:ART', 21)
+		('PRO:PER', 16)
+		('PRP', 15)
+		('ADV', 9)
+		('VER:simp', 8)
+		('SENT', 7)
+		('DET:POS', 6)
+		('VER:pres', 6)
+		('VER:impf', 4)
+		('VER:infi', 4)
+		('KON', 4)
+		('PUN:cit', 4)
+		('VER:pper', 4)
+		('VER:ppre', 3)
+		('NAM', 3)
+		('ADJ', 2)
+		('PRO:IND', 2)
+		('PUN', 2)
+		('NUM', 2)
+		('PRO:DEM', 2)
+		('PRP:det', 2)
+		('VER:futu', 1)
+		('INT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 15)
+		(('PRO:PER', 'il'), 12)
+		(('PRP', 'de'), 7)
+		(('SENT', '.'), 7)
+		(('DET:ART', 'un'), 6)
+		(('DET:POS', 'son'), 6)
+		(('NOM', 'dimanche'), 5)
+		(('VER:pres', 'avoir'), 4)
+		(('PUN:cit', '"'), 4)
+		(('ADV', 'ne'), 3)
+		(('NOM', 'hôpital'), 3)
+		(('PRP', 'en'), 2)
+		(('VER:ppre', 'raconter'), 2)
+		(('PRO:IND', 'tout'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'lendemain'), 2)
+		(('KON', 'et'), 2)
+		(('ADV', 'bien'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'escalier'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:simp', 'mettre'), 2)
+		(('NOM', 'lait'), 2)
+		(('PRP', 'sur'), 2)
+		(('NOM', 'personne'), 2)
+		(('ADV', 'pas'), 2)
+		(('VER:infi', 'voir'), 2)
+		(('VER:impf', 'être'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('NOM', 'garçon'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('ADV', 'jamais'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'note'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'présenter'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'gibier'), 1)
+		(('PUN', ','), 1)
+		(('NAM', 'Léo'), 1)
+		(('VER:simp', 'présenter'), 1)
+		(('NUM', 'un'), 1)
+		(('ADV', 'très'), 1)
+		(('VER:pres', 'dire'), 1)
+		(('KON', 'que'), 1)
+		(('VER:futu', 'faire'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('KON', 'après'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'ambulance'), 1)
+		(('PRO:PER', 'la|le'), 1)
+		(('VER:simp', 'amener'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('NUM', '@card@'), 1)
+		(('PUN', '/'), 1)
+		(('INT', '@ord@'), 1)
+		(('NAM', 'Après'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('NOM', 'poudre'), 1)
+		(('NOM', 'lessive'), 1)
+		(('NOM', 'père'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'mourir'), 1)
+		(('VER:pper', 'intoxiquer'), 1)
+		(('ADJ', 'autre'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('VER:pper', 'pouvoir'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NAM', 'WC'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('VER:pres', 'fracturer'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'crâne'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5866666666666667
+
+	Score BLEU : 0.14553264334650465
+
+	Précision : 0.6170212765957447
+
+	Rappel : 0.3020833333333333
+
+	F-mesure : 0.40559440559440557
+

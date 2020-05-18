@@ -1,0 +1,59 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_569
+
+Cette production contient : 
+
+	20 forme(s)/token(s)
+
+	20 mot(s)
+
+	2 hapax
+
+	80 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	0 phrase(s)
+
+	9 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 5
+		un : 2
+		garçon : 2
+		son : 1
+		prénom : 2
+		c' : 2
+		Marcel : 3
+		jeune : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 5)
+		('NOM', 4)
+		('PRO:DEM', 3)
+		('NAM', 3)
+		('DET:ART', 2)
+		('ADJ', 2)
+		('DET:POS', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('VER:pres', 'être'), 5)
+		(('PRO:DEM', 'ce'), 3)
+		(('NAM', 'Marcel'), 3)
+		(('DET:ART', 'un'), 2)
+		(('NOM', 'garçon'), 2)
+		(('NOM', 'prénom'), 2)
+		(('ADJ', 'jeune'), 2)
+		(('DET:POS', 'son'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.45
+
+	Score BLEU : 5.097401729242607e-10
+
+	Précision : 0.2222222222222222
+
+	Rappel : 0.010416666666666666
+
+	F-mesure : 0.01990049751243781
+

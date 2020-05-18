@@ -1,0 +1,193 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_1061
+
+Cette production contient : 
+
+	123 forme(s)/token(s)
+
+	120 mot(s)
+
+	51 hapax
+
+	465 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 120 mot(s) par phrase
+
+	72 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		était : 2
+		une : 2
+		fois : 1
+		un : 6
+		petit : 1
+		garçon : 1
+		et : 8
+		tous : 1
+		les : 1
+		lundis : 1
+		il : 13
+		racontait : 1
+		ce : 3
+		qu' : 2
+		avait : 2
+		fait : 2
+		le : 5
+		dimanche : 2
+		jour : 1
+		comprit : 1
+		fallait : 1
+		faire : 2
+		poussa : 1
+		sa : 1
+		soeur : 1
+		dans : 1
+		l' : 1
+		escalier : 1
+		lundi : 1
+		a : 2
+		raconté : 1
+		son : 1
+		histoire : 1
+		eu : 1
+		sur : 3
+		lendemain : 2
+		mit : 1
+		pot : 1
+		de : 3
+		fleurs : 1
+		en : 2
+		équilibre : 1
+		rebord : 1
+		la : 2
+		fenêtre : 1
+		espérant : 1
+		que : 1
+		ça : 2
+		tombe : 1
+		passant : 1
+		c' : 1
+		est : 1
+		qui : 1
+		arriva : 2
+		entend : 1
+		cri : 1
+		mais : 1
+		comme : 1
+		aux : 1
+		toilettes : 2
+		ne : 1
+		pouvait : 1
+		pas : 1
+		aller : 1
+		voir : 1
+		y : 1
+		remplaçante : 1
+		ils : 1
+		ont : 1
+		conjugaison : 1
+		adorait : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 22)
+		('DET:ART', 17)
+		('PRO:PER', 16)
+		('KON', 11)
+		('PRP', 9)
+		('VER:impf', 8)
+		('PRO:DEM', 6)
+		('VER:pres', 6)
+		('VER:simp', 5)
+		('VER:pper', 4)
+		('VER:infi', 4)
+		('PRO:REL', 3)
+		('DET:POS', 2)
+		('NUM', 2)
+		('VER:ppre', 2)
+		('ADV', 2)
+		('ADJ', 1)
+		('PRO:IND', 1)
+		('PRP:det', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 15)
+		(('DET:ART', 'le'), 9)
+		(('DET:ART', 'un'), 8)
+		(('KON', 'et'), 8)
+		(('PRO:DEM', 'ce'), 4)
+		(('VER:pres', 'avoir'), 3)
+		(('PRP', 'sur'), 3)
+		(('PRP', 'de'), 3)
+		(('VER:impf', 'être'), 2)
+		(('NOM', 'lundi'), 2)
+		(('PRO:REL', 'que'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('VER:pper', 'faire'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:infi', 'faire'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NUM', '@card@'), 2)
+		(('NOM', 'lendemain'), 2)
+		(('PRP', 'en'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:simp', 'arriver'), 2)
+		(('NOM', 'toilette'), 2)
+		(('NOM', 'foi|fois'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:impf', 'raconter'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:simp', 'comprendre'), 1)
+		(('VER:impf', 'falloir'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('NOM', 'histoire'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:ppre', 'espérer'), 1)
+		(('KON', 'que'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('VER:ppre', 'passer'), 1)
+		(('VER:pres', 'être'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pres', 'entendre'), 1)
+		(('NOM', 'cri'), 1)
+		(('KON', 'mais'), 1)
+		(('KON', 'comme'), 1)
+		(('PRP:det', 'au'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'pouvoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:infi', 'aller'), 1)
+		(('VER:infi', 'voir'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'conjugaison'), 1)
+		(('VER:impf', 'adorer'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6
+
+	Score BLEU : 0.06701314852418236
+
+	Précision : 0.6756756756756757
+
+	Rappel : 0.2604166666666667
+
+	F-mesure : 0.37593984962406013
+

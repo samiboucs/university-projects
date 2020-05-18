@@ -1,0 +1,200 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_272
+
+Cette production contient : 
+
+	145 forme(s)/token(s)
+
+	127 mot(s)
+
+	45 hapax
+
+	489 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 32 mot(s) par phrase
+
+	70 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		dans : 3
+		son : 2
+		école : 1
+		fait : 1
+		la : 5
+		rédaction : 2
+		Il : 1
+		a : 1
+		toujours : 1
+		des : 2
+		sur : 6
+		parce : 1
+		qu' : 1
+		il : 10
+		ne : 1
+		se : 2
+		passe : 1
+		jamais : 1
+		rien : 1
+		le : 4
+		dimanche : 2
+		Mais : 1
+		un : 4
+		jour : 1
+		sa : 3
+		maman : 1
+		coupa : 1
+		moitié : 1
+		du : 2
+		doigt : 2
+		eut : 2
+		en : 1
+		La : 3
+		semaine : 4
+		d' : 1
+		après : 3
+		poussa : 1
+		soeur : 1
+		les : 2
+		escaliers : 1
+		et : 7
+		encore : 2
+		fracassa : 2
+		machine : 1
+		à : 1
+		laver : 1
+		inonda : 1
+		voisins : 1
+		dessous : 1
+		avait : 2
+		eu : 2
+		demi : 1
+		Une : 1
+		mis : 1
+		choses : 1
+		verre : 1
+		de : 4
+		père : 1
+		l' : 1
+		empoisonna : 1
+		dernière : 1
+		mit : 1
+		pot : 1
+		fleurs : 1
+		rebord : 1
+		fenêtre : 1
+		tomba : 1
+		tête : 1
+		maîtresse : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 27)
+		('DET:ART', 18)
+		('PRP', 16)
+		('PRO:PER', 14)
+		('KON', 12)
+		('VER:simp', 10)
+		('ADV', 8)
+		('NUM', 7)
+		('DET:POS', 5)
+		('PUN', 4)
+		('SENT', 4)
+		('PRP:det', 4)
+		('VER:pres', 3)
+		('VER:pper', 3)
+		('VER:impf', 2)
+		('ADJ', 2)
+		('NAM', 1)
+		('VER:ppre', 1)
+		('VER:infi', 1)
+		('PUN:cit', 1)
+		('ABR', 1)
+		('PRO:IND', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 14)
+		(('PRO:PER', 'il'), 11)
+		(('NUM', '@card@'), 7)
+		(('KON', 'et'), 7)
+		(('PRP', 'sur'), 6)
+		(('DET:POS', 'son'), 5)
+		(('PRP', 'de'), 5)
+		(('SENT', '.'), 4)
+		(('PRP:det', 'du'), 4)
+		(('DET:ART', 'un'), 4)
+		(('NOM', 'semaine'), 4)
+		(('PUN', ','), 3)
+		(('PRP', 'dans'), 3)
+		(('NOM', 'rédaction'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('NOM', 'doigt'), 2)
+		(('VER:simp', 'avoir'), 2)
+		(('ADV', 'encore'), 2)
+		(('KON', 'après'), 2)
+		(('VER:simp', 'fracasser'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('NAM', 'Léon'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('ADV', 'toujours'), 1)
+		(('KON', 'parce'), 1)
+		(('KON', 'que'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('ADV', 'jamais'), 1)
+		(('ADV', 'rien'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'moitié'), 1)
+		(('PRP', 'en'), 1)
+		(('ADV', 'après'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PUN', '/'), 1)
+		(('VER:ppre', '@ord@'), 1)
+		(('NOM', 'machine'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:infi', 'laver'), 1)
+		(('VER:simp', 'inonder'), 1)
+		(('NOM', 'voisin'), 1)
+		(('ADV', 'dessous'), 1)
+		(('ADJ', 'demi'), 1)
+		(('PUN:cit', '@ord@'), 1)
+		(('ABR', 'Une'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'chose'), 1)
+		(('NOM', 'verre'), 1)
+		(('NOM', 'père'), 1)
+		(('PRO:PER', 'la|le'), 1)
+		(('VER:simp', 'empoisonner'), 1)
+		(('PRO:IND', '@ord@'), 1)
+		(('ADJ', 'dernier'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5511811023622047
+
+	Score BLEU : 0.10978843325879856
+
+	Précision : 0.6666666666666666
+
+	Rappel : 0.2708333333333333
+
+	F-mesure : 0.3851851851851852
+

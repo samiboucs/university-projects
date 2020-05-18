@@ -1,0 +1,132 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_489
+
+Cette production contient : 
+
+	73 forme(s)/token(s)
+
+	72 mot(s)
+
+	30 hapax
+
+	286 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 72 mot(s) par phrase
+
+	43 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 4
+		l' : 1
+		histoire : 1
+		d' : 1
+		un : 3
+		garçon : 3
+		qui : 7
+		raconte : 2
+		ce : 2
+		arrivé : 1
+		à : 1
+		sa : 1
+		maman : 2
+		s' : 2
+		coupé : 1
+		le : 4
+		doigt : 1
+		et : 1
+		petit : 1
+		dans : 1
+		la : 4
+		rédaction : 1
+		se : 1
+		passe : 1
+		mais : 1
+		jour : 1
+		a : 1
+		mis : 1
+		vase : 4
+		soudain : 1
+		tomba : 1
+		sur : 1
+		tête : 3
+		de : 1
+		maitresse : 2
+		elle : 1
+		fracturé : 1
+		heureusement : 1
+		que : 1
+		les : 1
+		pompiers : 1
+		arrivent : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 19)
+		('DET:ART', 13)
+		('VER:pres', 9)
+		('PRO:REL', 7)
+		('PRP', 5)
+		('VER:pper', 4)
+		('PRO:PER', 4)
+		('PRO:DEM', 3)
+		('KON', 3)
+		('ADV', 2)
+		('DET:POS', 1)
+		('ADJ', 1)
+		('VER:simp', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 10)
+		(('PRO:REL', 'qui'), 7)
+		(('VER:pres', 'être'), 4)
+		(('NOM', 'vase'), 4)
+		(('PRO:DEM', 'ce'), 3)
+		(('DET:ART', 'un'), 3)
+		(('NOM', 'garçon'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('NOM', 'tête'), 3)
+		(('PRP', 'de'), 2)
+		(('VER:pres', 'raconter'), 2)
+		(('NOM', 'maman'), 2)
+		(('NOM', 'maitresse'), 2)
+		(('NOM', 'histoire'), 1)
+		(('VER:pper', 'arriver'), 1)
+		(('PRP', 'à'), 1)
+		(('DET:POS', 'son'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('KON', 'et'), 1)
+		(('ADJ', 'petit'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('ADV', 'soudain'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pper', 'fracturer'), 1)
+		(('ADV', 'heureusement'), 1)
+		(('KON', 'que'), 1)
+		(('NOM', 'pompier'), 1)
+		(('VER:pres', 'arriver'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5972222222222222
+
+	Score BLEU : 0.004198992796422025
+
+	Précision : 0.5227272727272727
+
+	Rappel : 0.11979166666666667
+
+	F-mesure : 0.19491525423728814
+

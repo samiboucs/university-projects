@@ -1,0 +1,1 @@
+Léon a poussé la petite soeur dans les escaliers <segmentation/> Léon a ramassé un pot de fleurs <segmentation/> il l'a mis à côté de la fenêtre <segmentation/> le pot de fleurs est tombé de la fenêtre <segmentation/> il est tombé sur la maitresse.

@@ -1,0 +1,76 @@
+C'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+histoire	NOM	histoire
+de	PRP	de
+Léon	NAM	Léon
+<segmentation/>
+tous	PRO:IND	tout
+les	DET:ART	le
+jours	NOM	jour
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+même	ADJ	même
+chose	NOM	chose
+puis	ADV	puis
+un	DET:ART	un
+dimanche	NOM	dimanche
+sa	DET:POS	son
+maman	NOM	maman
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+avec	PRP	avec
+le	DET:ART	le
+couteau	NOM	couteau
+avec	PRP	avec
+le	DET:ART	le
+gigot	NOM	gigot
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+en	PRP	en
+rédaction	NOM	rédaction
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+10	NUM	@card@
+sur	PRP	sur
+10	NUM	@card@
+<segmentation/>
+dimanche	NOM	dimanche
+prochain	ADJ	prochain
+il	PRO:PER	il
+poussa	VER:simp	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+elle	PRO:PER	elle
+est	VER:pres	être
+allée	VER:pper	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+10	NUM	@card@
+sur	PRP	sur
+9	NUM	@card@
+<segmentation/>
+dimanche	NOM	dimanche
+dernier	ADJ	dernier
+<omission type=""sujet""/>
+mit	VER:simp	mettre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+.	SENT	.

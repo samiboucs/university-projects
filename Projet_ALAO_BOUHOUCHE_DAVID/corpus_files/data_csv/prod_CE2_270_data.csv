@@ -1,0 +1,242 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_270
+
+Cette production contient : 
+
+	206 forme(s)/token(s)
+
+	176 mot(s)
+
+	58 hapax
+
+	684 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	13 phrase(s)
+
+	Une moyenne de 14 mot(s) par phrase
+
+	94 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 2
+		est : 2
+		l' : 2
+		histoire : 1
+		d' : 3
+		un : 4
+		garçon : 1
+		qui : 3
+		avait : 8
+		toujours : 2
+		des : 1
+		rédactions : 1
+		le : 10
+		lundi : 3
+		Et : 4
+		il : 10
+		de : 6
+		mauvaises : 1
+		notes : 1
+		Il : 2
+		fallait : 2
+		raconter : 1
+		ce : 1
+		qu' : 5
+		on : 1
+		a : 4
+		fait : 1
+		dimanche : 4
+		Un : 1
+		sa : 2
+		mère : 1
+		se : 2
+		coupa : 1
+		doigt : 1
+		et : 3
+		eu : 3
+		compris : 1
+		passe : 1
+		quelque : 1
+		chose : 1
+		pas : 3
+		ordinaire : 1
+		donc : 1
+		suivant : 1
+		poussé : 1
+		soeur : 1
+		dans : 1
+		escalier : 1
+		elle : 2
+		allée : 1
+		aux : 2
+		urgences : 1
+		Cette : 1
+		fois : 1
+		dernier : 1
+		mis : 1
+		pot : 2
+		fleurs : 2
+		en : 2
+		équilibre : 1
+		sur : 3
+		rebord : 1
+		la : 4
+		fenêtre : 1
+		espérant : 1
+		tombe : 1
+		tête : 2
+		passant : 2
+		cela : 1
+		arriva : 1
+		BAM : 1
+		En : 1
+		plein : 1
+		Mais : 1
+		Léon : 1
+		était : 2
+		toilettes : 1
+		n' : 2
+		eut : 1
+		temps : 1
+		voir : 1
+		ça : 1
+		y : 2
+		rédaction : 1
+		une : 2
+		remplaçante : 1
+		Elle : 1
+		expliqua : 1
+		fracture : 1
+		du : 1
+		crâne : 1
+		maitresse : 1
+		reçu : 1
+		Fin : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 40)
+		('DET:ART', 23)
+		('PRO:PER', 19)
+		('PRP', 16)
+		('SENT', 13)
+		('PUN', 13)
+		('VER:impf', 12)
+		('KON', 11)
+		('VER:pper', 9)
+		('VER:pres', 8)
+		('ADV', 8)
+		('PRO:DEM', 6)
+		('PRO:REL', 4)
+		('PRP:det', 4)
+		('ADJ', 4)
+		('VER:simp', 4)
+		('NUM', 4)
+		('VER:infi', 2)
+		('DET:POS', 2)
+		('VER:ppre', 2)
+		('PRO:IND', 1)
+		('NAM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 16)
+		(('PRO:PER', 'il'), 11)
+		(('PUN', ','), 11)
+		(('PRP', 'de'), 9)
+		(('SENT', '.'), 9)
+		(('VER:impf', 'avoir'), 8)
+		(('DET:ART', 'un'), 7)
+		(('KON', 'et'), 6)
+		(('PRO:DEM', 'ce'), 4)
+		(('VER:pres', 'avoir'), 4)
+		(('NOM', 'dimanche'), 4)
+		(('KON', 'que'), 4)
+		(('SENT', '!'), 4)
+		(('PRO:REL', 'qui'), 3)
+		(('NOM', 'lundi'), 3)
+		(('VER:pper', 'avoir'), 3)
+		(('ADV', 'pas'), 3)
+		(('PRO:PER', 'elle'), 3)
+		(('PRP', 'en'), 3)
+		(('PRP', 'sur'), 3)
+		(('VER:pres', 'être'), 2)
+		(('ADV', 'toujours'), 2)
+		(('PRP:det', 'du'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('VER:impf', 'falloir'), 2)
+		(('DET:POS', 'son'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NUM', '@card@'), 2)
+		(('PUN', '/'), 2)
+		(('NUM', '@ord@'), 2)
+		(('PRP:det', 'au'), 2)
+		(('NOM', 'pot'), 2)
+		(('NOM', 'fleur'), 2)
+		(('NOM', 'tête'), 2)
+		(('NOM', 'passant'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:impf', 'être'), 2)
+		(('ADV', 'ne'), 2)
+		(('PRO:PER', 'y'), 2)
+		(('NOM', 'histoire'), 1)
+		(('NOM', 'garçon'), 1)
+		(('ADJ', 'mauvais'), 1)
+		(('NOM', 'note'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('PRO:PER', 'on'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('NOM', 'Il'), 1)
+		(('VER:pper', 'comprendre'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('ADJ', 'ordinaire'), 1)
+		(('ADV', 'donc'), 1)
+		(('VER:ppre', 'suivre'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('VER:pper', 'aller'), 1)
+		(('NOM', 'urgence'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('NOM', 'Et'), 1)
+		(('ADJ', 'dernier'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'rebord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:ppre', 'espérer'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('VER:simp', 'arriver'), 1)
+		(('NOM', 'BAM'), 1)
+		(('ADJ', 'plein'), 1)
+		(('KON', 'mais'), 1)
+		(('NAM', 'Léon'), 1)
+		(('NOM', 'toilette'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('NOM', 'temps'), 1)
+		(('VER:infi', 'voir'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('VER:simp', 'expliquer'), 1)
+		(('NOM', 'fracture'), 1)
+		(('NOM', 'crâne'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('VER:pper', 'recevoir'), 1)
+		(('NOM', 'fin'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5340909090909091
+
+	Score BLEU : 0.2290121215108644
+
+	Précision : 0.5742574257425742
+
+	Rappel : 0.3020833333333333
+
+	F-mesure : 0.39590443686006827
+

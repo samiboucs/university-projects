@@ -1,0 +1,146 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_95
+
+Cette production contient : 
+
+	78 forme(s)/token(s)
+
+	76 mot(s)
+
+	32 hapax
+
+	285 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 38 mot(s) par phrase
+
+	49 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		faisait : 1
+		des : 2
+		bêtises : 1
+		pour : 1
+		avoir : 1
+		bonnes : 1
+		notes : 1
+		Un : 1
+		jour : 3
+		ça : 1
+		commence : 1
+		par : 1
+		sa : 2
+		mère : 2
+		elle : 1
+		s' : 1
+		est : 1
+		coupé : 1
+		le : 2
+		doigt : 2
+		l' : 4
+		autre : 3
+		lundi : 3
+		il : 4
+		a : 3
+		poussé : 1
+		soeur : 1
+		dans : 2
+		escalier : 2
+		mis : 2
+		de : 4
+		la : 2
+		poudre : 1
+		vaisselle : 1
+		lait : 2
+		un : 1
+		pot : 1
+		fleur : 1
+		en : 1
+		équilibre : 1
+		au : 1
+		bord : 1
+		fenêtre : 1
+		et : 1
+		tomba : 1
+		sur : 1
+		une : 1
+		dame : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 25)
+		('DET:ART', 11)
+		('PRP', 10)
+		('PRO:PER', 7)
+		('VER:pres', 5)
+		('ADJ', 4)
+		('VER:pper', 4)
+		('PRP:det', 3)
+		('SENT', 2)
+		('DET:POS', 2)
+		('VER:impf', 1)
+		('VER:infi', 1)
+		('PRO:DEM', 1)
+		('KON', 1)
+		('VER:simp', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 8)
+		(('PRO:PER', 'il'), 5)
+		(('PRP', 'de'), 4)
+		(('DET:ART', 'un'), 3)
+		(('NOM', 'jour'), 3)
+		(('ADJ', 'autre'), 3)
+		(('NOM', 'lundi'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('PRP:det', 'du'), 2)
+		(('SENT', '.'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'mère'), 2)
+		(('NOM', 'doigt'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'escalier'), 2)
+		(('VER:pper', 'mettre'), 2)
+		(('NOM', 'lait'), 2)
+		(('VER:impf', 'faire'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('PRP', 'pour'), 1)
+		(('VER:infi', 'avoir'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'note'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('VER:pres', 'commencer'), 1)
+		(('PRP', 'par'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'poudre'), 1)
+		(('NOM', 'vaisselle'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'bord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('KON', 'et'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'dame'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6447368421052632
+
+	Score BLEU : 0.007086544477756852
+
+	Précision : 0.56
+
+	Rappel : 0.14583333333333334
+
+	F-mesure : 0.23140495867768596
+

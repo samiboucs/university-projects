@@ -1,0 +1,65 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_545
+
+Cette production contient : 
+
+	14 forme(s)/token(s)
+
+	14 mot(s)
+
+	8 hapax
+
+	63 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	0 phrase(s)
+
+	11 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		c' : 1
+		est : 1
+		pareil : 2
+		Léon : 1
+		a : 1
+		rédaction : 2
+		il : 1
+		doit : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 4)
+		('NOM', 3)
+		('ADJ', 2)
+		('PRO:IND', 1)
+		('DET:ART', 1)
+		('PRO:DEM', 1)
+		('NAM', 1)
+		('PRO:PER', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('ADJ', 'pareil'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('VER:pres', 'devoir'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('PRO:PER', 'il'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7857142857142857
+
+	Score BLEU : 2.969151243201655e-13
+
+	Précision : 0.6363636363636364
+
+	Rappel : 0.036458333333333336
+
+	F-mesure : 0.06896551724137931
+

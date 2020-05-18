@@ -1,0 +1,100 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_540
+
+Cette production contient : 
+
+	36 forme(s)/token(s)
+
+	34 mot(s)
+
+	18 hapax
+
+	156 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 34 mot(s) par phrase
+
+	26 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		lundis : 1
+		c' : 1
+		était : 1
+		pareil : 1
+		à : 2
+		l' : 1
+		école : 2
+		Léon : 2
+		devait : 1
+		raconter : 1
+		son : 1
+		dimanche : 1
+		la : 1
+		maitresse : 2
+		ne : 2
+		faisait : 2
+		rien : 2
+		dimanches : 1
+		il : 1
+		chez : 1
+		sa : 1
+		grand-mère : 1
+		non : 1
+		plus : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 8)
+		('ADV', 7)
+		('DET:ART', 4)
+		('VER:impf', 4)
+		('PRP', 3)
+		('NAM', 2)
+		('DET:POS', 2)
+		('PRO:IND', 1)
+		('PRO:DEM', 1)
+		('VER:infi', 1)
+		('PUN', 1)
+		('PRO:PER', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 4)
+		(('PRP', 'à'), 2)
+		(('NOM', 'école'), 2)
+		(('NAM', 'Léon'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('NOM', 'maitresse'), 2)
+		(('ADV', 'ne'), 2)
+		(('VER:impf', 'faire'), 2)
+		(('ADV', 'rien'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:impf', 'être'), 1)
+		(('ADV', 'pareil'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PUN', ','), 1)
+		(('PRO:PER', 'il'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grand-mère'), 1)
+		(('ADV', 'non'), 1)
+		(('ADV', 'plus'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7647058823529411
+
+	Score BLEU : 2.051500482252462e-05
+
+	Précision : 0.7142857142857143
+
+	Rappel : 0.10416666666666667
+
+	F-mesure : 0.18181818181818182
+

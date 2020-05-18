@@ -1,0 +1,121 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_575
+
+Cette production contient : 
+
+	70 forme(s)/token(s)
+
+	53 mot(s)
+
+	20 hapax
+
+	186 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 53 mot(s) par phrase
+
+	31 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		La : 1
+		maîtresse : 1
+		de : 2
+		Léon : 2
+		a : 4
+		dit : 1
+		faire : 1
+		une : 1
+		rédaction : 2
+		et : 5
+		eu : 4
+		pour : 1
+		sa : 2
+		Il : 3
+		avait : 4
+		compris : 1
+		il : 3
+		poussa : 1
+		soeur : 1
+		dans : 1
+		l' : 1
+		escalier : 1
+		rempli : 1
+		la : 1
+		machine : 1
+		à : 1
+		laver : 1
+		son : 2
+		failli : 1
+		se : 1
+		noyer : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 10)
+		('VER:pper', 8)
+		('NUM', 8)
+		('PUN', 6)
+		('PRP', 5)
+		('KON', 5)
+		('PRO:PER', 5)
+		('DET:ART', 4)
+		('VER:pres', 4)
+		('VER:impf', 4)
+		('VER:infi', 3)
+		('NAM', 2)
+		('DET:POS', 2)
+		('SENT', 1)
+		('PRO:DEM', 1)
+		('VER:simp', 1)
+		('INT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NUM', '@card@'), 7)
+		(('KON', 'et'), 5)
+		(('VER:pres', 'avoir'), 4)
+		(('VER:pper', 'avoir'), 4)
+		(('PUN', '/'), 4)
+		(('PRO:PER', 'il'), 4)
+		(('VER:impf', 'avoir'), 4)
+		(('DET:ART', 'le'), 3)
+		(('PRP', 'de'), 2)
+		(('NAM', 'Léon'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'Il'), 2)
+		(('PUN', ','), 2)
+		(('NOM', 'son'), 2)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pper', 'dire'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('PRP', 'pour'), 1)
+		(('SENT', '.'), 1)
+		(('VER:pper', 'comprendre'), 1)
+		(('PRO:DEM', '@ord@'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('NUM', '@ord@'), 1)
+		(('VER:pper', 'remplir'), 1)
+		(('NOM', 'machine'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:infi', 'laver'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:infi', 'noyer'), 1)
+		(('INT', '@ord@'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5849056603773585
+
+	Score BLEU : 0.004996709868602274
+
+	Précision : 0.7
+
+	Rappel : 0.14583333333333334
+
+	F-mesure : 0.24137931034482762
+

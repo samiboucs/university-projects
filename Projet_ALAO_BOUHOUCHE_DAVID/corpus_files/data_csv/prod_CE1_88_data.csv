@@ -1,0 +1,115 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_88
+
+Cette production contient : 
+
+	60 forme(s)/token(s)
+
+	56 mot(s)
+
+	20 hapax
+
+	231 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 28 mot(s) par phrase
+
+	34 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 2
+		doit : 1
+		raconter : 1
+		à : 1
+		l' : 2
+		école : 1
+		sa : 3
+		journée : 1
+		du : 1
+		dimanche : 1
+		et : 2
+		pour : 1
+		ça : 1
+		il : 5
+		fait : 5
+		des : 2
+		bêtises : 2
+		tomber : 3
+		un : 2
+		pot : 2
+		de : 2
+		fleurs : 2
+		inonde : 1
+		appartement : 1
+		voisins : 1
+		une : 1
+		grosse : 1
+		bêtise : 2
+		sur : 1
+		maîtresse : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 16)
+		('PRO:PER', 7)
+		('VER:pres', 7)
+		('PRP', 6)
+		('DET:ART', 6)
+		('VER:infi', 4)
+		('DET:POS', 3)
+		('PRP:det', 3)
+		('KON', 2)
+		('PUN', 2)
+		('SENT', 2)
+		('PRO:DEM', 1)
+		('ADJ', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 7)
+		(('VER:pres', 'faire'), 5)
+		(('NOM', 'bêtise'), 4)
+		(('DET:ART', 'le'), 3)
+		(('DET:POS', 'son'), 3)
+		(('PRP:det', 'du'), 3)
+		(('VER:infi', 'tomber'), 3)
+		(('DET:ART', 'un'), 3)
+		(('KON', 'et'), 2)
+		(('NOM', 'pot'), 2)
+		(('PRP', 'de'), 2)
+		(('NOM', 'fleur'), 2)
+		(('PUN', ','), 2)
+		(('SENT', '.'), 2)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'école'), 1)
+		(('NOM', 'journée'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('PRP', 'pour'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('VER:pres', 'inonder'), 1)
+		(('NOM', 'appartement'), 1)
+		(('NOM', 'voisin'), 1)
+		(('ADJ', 'gros'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6071428571428571
+
+	Score BLEU : 0.0018545898067181862
+
+	Précision : 0.6944444444444444
+
+	Rappel : 0.13020833333333334
+
+	F-mesure : 0.2192982456140351
+

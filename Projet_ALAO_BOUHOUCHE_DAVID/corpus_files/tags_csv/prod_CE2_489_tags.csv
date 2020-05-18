@@ -1,0 +1,89 @@
+<titre>
+«	PUN:cit	«
+Rédaction	NOM	rédaction
+»	PUN:cit	»
+</titre>
+Léon	NAM	Léon
+faisait	VER:impf	faire
+une	DET:ART	un
+rédaction	NOM	rédaction
+et	KON	et
+il	PRO:PER	il
+avait	VER:impf	avoir
+0	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+et	KON	et
+le	DET:ART	le
+prochain	ADJ	prochain
+dimanche	NOM	dimanche
+la	DET:ART	le
+mère	NOM	mère
+de	PRP	de
+Léon	NAM	Léon
+se	PRO:PER	se
+coupe	VER:pres	couper
+<omission type=""déterminant""/>
+doigt	NOM	doigt
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+9	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+prochain	ADJ	prochain
+elle	PRO:PER	elle
+tomba	VER:simp	tomber
+des	PRP:det	du
+escaliers	NOM	escalier
+et	KON	et
+lundi	NOM	lundi
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+7	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+et	KON	et
+un	NUM	un
+lundi	NOM	lundi
+la	DET:ART	le
+maitresse	NOM	maitresse
+est	VER:pres	être
+remplacée	VER:pper	remplacer
+et	KON	et
+au	PRP:det	au
+lieu	NOM	lieu
+de	PRP	de
+faire	VER:infi	faire
+de	PRP	de
+la	DET:ART	le
+rédaction	NOM	rédaction
+<suggestion>
+ils	PRO:PER	il
+ont	VER:pres	avoir
+fait	VER:pper	faire
+</suggestion>
+de	PRP	de
+la	DET:ART	le
+conjugaison	NOM	conjugaison
+<segmentation/>
+Léon	NAM	Léon
+dit	VER:pres	dire
+<dialogue>
+«	PUN:cit	«
+C'	NAM	C'
+est	VER:pres	être
+plus	ADV	plus
+facile	ADJ	facile
+que	KON	que
+la	DET:ART	le
+rédaction	NOM	rédaction
+.	SENT	.
+»	PUN:cit	»
+</dialogue>

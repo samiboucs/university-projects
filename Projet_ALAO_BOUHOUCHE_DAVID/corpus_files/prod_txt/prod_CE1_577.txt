@@ -1,0 +1,1 @@
+C'est un petit garçon qui fait de la rédaction à l'école et qui a toujours un 0/0 <segmentation/> puis un dimanche sa maman se coupe le doigt <segmentation/> puis le lendemain il a un 9/10 <segmentation/> puis il fait plein de problèmes <segmentation/> il a des bonnes notes <segmentation/> puis il fait <nonfini/>

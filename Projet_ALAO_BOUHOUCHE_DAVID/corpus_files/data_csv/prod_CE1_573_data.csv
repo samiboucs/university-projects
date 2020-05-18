@@ -1,0 +1,156 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_573
+
+Cette production contient : 
+
+	87 forme(s)/token(s)
+
+	83 mot(s)
+
+	39 hapax
+
+	339 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 21 mot(s) par phrase
+
+	56 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 2
+		se : 2
+		passe : 2
+		que : 2
+		Léon : 2
+		n' : 1
+		aimait : 1
+		pas : 1
+		la : 6
+		rédaction : 1
+		parce : 1
+		qu' : 1
+		il : 3
+		ne : 1
+		faisait : 1
+		absolument : 1
+		rien : 1
+		le : 3
+		dimanche : 5
+		mais : 1
+		un : 1
+		jour : 1
+		maman : 1
+		s' : 1
+		était : 1
+		coupé : 1
+		doigt : 1
+		et : 1
+		avait : 1
+		une : 2
+		idée : 1
+		derrière : 1
+		tête : 1
+		devait : 1
+		passer : 1
+		chose : 1
+		ce : 1
+		poussa : 1
+		sa : 1
+		soeur : 1
+		dans : 2
+		les : 1
+		escaliers : 1
+		Le : 2
+		d' : 2
+		après : 3
+		détruisit : 1
+		machine : 1
+		à : 2
+		laver : 2
+		mit : 1
+		de : 2
+		poudre : 1
+		linge : 1
+		brique : 1
+		lait : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 19)
+		('DET:ART', 15)
+		('KON', 9)
+		('PRP', 9)
+		('PRO:PER', 8)
+		('ADV', 5)
+		('VER:impf', 5)
+		('SENT', 4)
+		('VER:infi', 3)
+		('VER:simp', 3)
+		('VER:pres', 2)
+		('NAM', 2)
+		('VER:pper', 1)
+		('PRO:DEM', 1)
+		('DET:POS', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 12)
+		(('PRO:PER', 'il'), 5)
+		(('NOM', 'dimanche'), 5)
+		(('SENT', '.'), 4)
+		(('PRP', 'de'), 4)
+		(('PRO:PER', 'se'), 3)
+		(('KON', 'que'), 3)
+		(('DET:ART', 'un'), 3)
+		(('KON', 'après'), 3)
+		(('VER:pres', 'passer'), 2)
+		(('NAM', 'Léon'), 2)
+		(('ADV', 'ne'), 2)
+		(('PRP', 'dans'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:infi', 'laver'), 2)
+		(('VER:impf', 'aimer'), 1)
+		(('ADV', 'pas'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('KON', 'parce'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('ADV', 'absolument'), 1)
+		(('ADV', 'rien'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:impf', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('KON', 'et'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('NOM', 'idée'), 1)
+		(('PRP', 'derrière'), 1)
+		(('NOM', 'tête'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'passer'), 1)
+		(('NOM', 'chose'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'escalier'), 1)
+		(('VER:simp', 'détruire'), 1)
+		(('NOM', 'machine'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'poudre'), 1)
+		(('NOM', 'linge'), 1)
+		(('NOM', 'brique'), 1)
+		(('NOM', 'lait'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6746987951807228
+
+	Score BLEU : 0.018520129547390574
+
+	Précision : 0.7192982456140351
+
+	Rappel : 0.21354166666666666
+
+	F-mesure : 0.32931726907630515
+

@@ -1,0 +1,45 @@
+Léon	NAM	Léon
+a	VER:pres	avoir
+poussé	VER:pper	pousser
+la	DET:ART	le
+petite	ADJ	petit
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+Léon	NAM	Léon
+a	VER:pres	avoir
+ramassé	VER:pper	ramasser
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+<segmentation/>
+il	PRO:PER	il
+l'	PRO:PER	la|le
+a	VER:pres	avoir
+mis	VER:pper	mettre
+à	PRP	à
+côté	NOM	côté
+de	PRP	de
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+<segmentation/>
+le	DET:ART	le
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+est	VER:pres	être
+tombé	VER:pper	tomber
+de	PRP	de
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+<segmentation/>
+il	PRO:PER	il
+est	VER:pres	être
+tombé	VER:pper	tomber
+sur	PRP	sur
+la	DET:ART	le
+maitresse	NOM	maitresse
+.	SENT	.

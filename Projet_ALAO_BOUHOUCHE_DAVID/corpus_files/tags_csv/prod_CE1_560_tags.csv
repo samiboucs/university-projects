@@ -1,0 +1,63 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+matins	NOM	matin
+Léon	NAM	Léon
+fait	VER:pres	faire
+une	DET:ART	un
+rédaction	NOM	rédaction
+de	PRP	de
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+a	VER:pres	avoir
+fait	VER:pper	faire
+le	DET:ART	le
+dimanche	NOM	dimanche
+.	SENT	.
+Mais	KON	mais
+Léon	NAM	Léon
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+le	DET:ART	le
+dimanche	NOM	dimanche
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+chez	PRP	chez
+ses	DET:POS	son
+grands-parents	NOM	grands-parents
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+.	SENT	.
+Et	KON	et
+la	DET:ART	le
+maitresse	NOM	maitresse
+lui	PRO:PER	lui
+dit	VER:pres	dire
+<dialogue>
+«	PUN:cit	«
+Léon	NAM	Léon
+tu	PRO:PER	tu
+dois	VER:pres	devoir
+faire	VER:infi	faire
+quelque	PRO:IND	quelque
+chose	NOM	chose
+le	DET:ART	le
+week-end	NOM	week-end
+.	SENT	.
+»	PUN:cit	»
+</dialogue>
+Léon	NAM	Léon
+<nonfini/>

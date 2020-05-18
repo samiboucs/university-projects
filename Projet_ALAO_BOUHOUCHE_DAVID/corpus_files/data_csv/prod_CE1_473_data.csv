@@ -1,0 +1,111 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_473
+
+Cette production contient : 
+
+	44 forme(s)/token(s)
+
+	43 mot(s)
+
+	19 hapax
+
+	186 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 43 mot(s) par phrase
+
+	30 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		dimanches : 2
+		le : 3
+		petit : 2
+		garçon : 2
+		avait : 2
+		cours : 1
+		de : 1
+		rédaction : 2
+		il : 3
+		devait : 1
+		écrire : 1
+		ce : 1
+		qu' : 1
+		faisait : 2
+		tous : 1
+		mais : 2
+		ne : 1
+		rien : 1
+		un : 2
+		jour : 1
+		vu : 1
+		sa : 1
+		mère : 1
+		se : 1
+		couper : 1
+		doigt : 1
+		avec : 1
+		couteau : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 11)
+		('DET:ART', 7)
+		('VER:impf', 5)
+		('PRO:PER', 4)
+		('PRO:IND', 2)
+		('ADJ', 2)
+		('PRP', 2)
+		('VER:infi', 2)
+		('KON', 2)
+		('ADV', 2)
+		('PRO:DEM', 1)
+		('PRO:REL', 1)
+		('VER:pper', 1)
+		('DET:POS', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 5)
+		(('PRO:PER', 'il'), 3)
+		(('PRO:IND', 'tout'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('ADJ', 'petit'), 2)
+		(('NOM', 'garçon'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('VER:impf', 'faire'), 2)
+		(('KON', 'mais'), 2)
+		(('DET:ART', 'un'), 2)
+		(('NOM', 'cour|cours'), 1)
+		(('PRP', 'de'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'écrire'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'jour'), 1)
+		(('VER:pper', 'voir'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:infi', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRP', 'avec'), 1)
+		(('NOM', 'couteau'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6976744186046512
+
+	Score BLEU : 0.00014420496331023788
+
+	Précision : 0.6129032258064516
+
+	Rappel : 0.09895833333333333
+
+	F-mesure : 0.17040358744394618
+

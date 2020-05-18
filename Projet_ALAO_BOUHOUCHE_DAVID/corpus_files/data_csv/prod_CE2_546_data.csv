@@ -1,0 +1,121 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_546
+
+Cette production contient : 
+
+	49 forme(s)/token(s)
+
+	47 mot(s)
+
+	27 hapax
+
+	191 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 24 mot(s) par phrase
+
+	36 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 2
+		une : 2
+		histoire : 1
+		d' : 1
+		un : 1
+		garçon : 1
+		qui : 2
+		doit : 1
+		écrire : 2
+		rédaction : 1
+		tous : 1
+		les : 1
+		lundis : 1
+		matin : 2
+		pour : 1
+		ce : 1
+		s' : 1
+		passé : 1
+		le : 4
+		dimanche : 2
+		Mais : 1
+		il : 2
+		ne : 1
+		se : 1
+		passe : 1
+		rien : 2
+		va : 1
+		manger : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		deux : 1
+		fois : 1
+		et : 1
+		soir : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 11)
+		('DET:ART', 8)
+		('VER:pres', 5)
+		('PRO:PER', 4)
+		('PRP', 3)
+		('VER:infi', 3)
+		('ADV', 3)
+		('PRO:DEM', 2)
+		('PRO:REL', 2)
+		('SENT', 2)
+		('KON', 2)
+		('PRO:IND', 1)
+		('VER:pper', 1)
+		('DET:POS', 1)
+		('NUM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 5)
+		(('DET:ART', 'un'), 3)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRO:REL', 'qui'), 2)
+		(('VER:infi', 'écrire'), 2)
+		(('NOM', 'matin'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('SENT', '.'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('ADV', 'rien'), 2)
+		(('NOM', 'histoire'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'garçon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRP', 'pour'), 1)
+		(('VER:pper', 'passer'), 1)
+		(('KON', 'mais'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('VER:infi', 'manger'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('NUM', 'deux'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'soir'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7659574468085106
+
+	Score BLEU : 0.00038665804692183595
+
+	Précision : 0.5945945945945946
+
+	Rappel : 0.11458333333333333
+
+	F-mesure : 0.19213973799126635
+

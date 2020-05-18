@@ -1,0 +1,125 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_307
+
+Cette production contient : 
+
+	52 forme(s)/token(s)
+
+	46 mot(s)
+
+	38 hapax
+
+	180 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 9 mot(s) par phrase
+
+	42 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Le : 1
+		pot : 1
+		de : 2
+		fleurs : 1
+		est : 2
+		tombé : 1
+		sur : 1
+		la : 1
+		tête : 1
+		l' : 1
+		enseignante : 1
+		Léon : 1
+		a : 2
+		failli : 1
+		empoisonner : 1
+		son : 1
+		papa : 1
+		Il : 1
+		poussé : 1
+		sa : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 1
+		La : 1
+		maman : 1
+		s' : 1
+		coupé : 1
+		le : 1
+		doigt : 1
+		Les : 1
+		dimanches : 1
+		d' : 1
+		avant : 1
+		il : 2
+		ne : 1
+		faisait : 1
+		rien : 1
+		Avant : 1
+		avait : 1
+		eu : 1
+		un : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 11)
+		('DET:ART', 8)
+		('PRP', 7)
+		('VER:pper', 5)
+		('SENT', 5)
+		('VER:pres', 4)
+		('PRO:PER', 4)
+		('DET:POS', 2)
+		('ADV', 2)
+		('VER:impf', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 7)
+		(('SENT', '.'), 5)
+		(('PRP', 'de'), 3)
+		(('PRO:PER', 'il'), 3)
+		(('VER:pres', 'être'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('DET:POS', 'son'), 2)
+		(('PRP', 'avant'), 2)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'enseignant'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'empoisonner'), 1)
+		(('NOM', 'papa'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', '@ord@'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.9130434782608695
+
+	Score BLEU : 0.0006297905838677772
+
+	Précision : 0.5909090909090909
+
+	Rappel : 0.13541666666666666
+
+	F-mesure : 0.22033898305084745
+

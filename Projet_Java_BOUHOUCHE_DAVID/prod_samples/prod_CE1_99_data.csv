@@ -1,0 +1,262 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_99
+
+Cette production contient : 
+
+	254 forme(s)/token(s)
+
+	214 mot(s)
+
+	64 hapax
+
+	879 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	23 phrase(s)
+
+	Une moyenne de 9 mot(s) par phrase
+
+	106 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 2
+		dimanches : 1
+		il : 12
+		ne : 2
+		se : 3
+		passait : 1
+		rien : 2
+		Les : 1
+		lundis : 1
+		Léon : 5
+		raconte : 5
+		sa : 8
+		rédaction : 6
+		La : 4
+		maîtresse : 5
+		lui : 5
+		met : 5
+		pas : 1
+		intéressant : 1
+		L' : 3
+		autre : 4
+		dimanche : 2
+		allait : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		Et : 6
+		mangeait : 1
+		et : 2
+		faisait : 1
+		d' : 2
+		lundi : 4
+		la : 7
+		Un : 3
+		jour : 3
+		mère : 1
+		coupe : 1
+		le : 4
+		doigt : 1
+		avec : 1
+		un : 2
+		couteau : 1
+		de : 7
+		viande : 1
+		dit : 2
+		j' : 1
+		ai : 1
+		compris : 2
+		suffit : 1
+		que : 3
+		je : 1
+		fasse : 1
+		quelque : 1
+		chose : 1
+		Le : 3
+		est : 3
+		très : 1
+		content : 1
+		a : 4
+		mis : 2
+		poudre : 1
+		escampette : 1
+		dans : 2
+		verre : 1
+		son : 2
+		papa : 2
+		failli : 1
+		mourir : 1
+		poussé : 1
+		soeur : 2
+		escaliers : 1
+		allée : 1
+		à : 1
+		l' : 1
+		hôpital : 1
+		pot : 1
+		fleurs : 1
+		en : 1
+		équilibre : 1
+		sur : 2
+		bord : 1
+		fenêtre : 1
+		pour : 1
+		ça : 2
+		tombe : 1
+		tête : 1
+		quelqu'un : 1
+		avait : 2
+		marché : 1
+		Sur : 1
+		une : 2
+		dame : 1
+		accompagnée : 1
+		lendemain : 1
+		y : 1
+		remplaçante : 2
+		Fracture : 1
+		au : 1
+		crâne : 1
+		Une : 1
+		qui : 1
+		fait : 1
+		conjugaison : 1
+		c' : 1
+		mieux : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 50)
+		('DET:ART', 30)
+		('VER:pres', 24)
+		('PRO:PER', 23)
+		('SENT', 23)
+		('PRP', 18)
+		('KON', 12)
+		('DET:POS', 11)
+		('VER:pper', 9)
+		('ADV', 7)
+		('NUM', 7)
+		('VER:impf', 6)
+		('ADJ', 6)
+		('NAM', 5)
+		('PUN', 5)
+		('PUN:cit', 4)
+		('PRO:IND', 3)
+		('ABR', 3)
+		('PRO:DEM', 3)
+		('VER:subp', 1)
+		('INT', 1)
+		('VER:infi', 1)
+		('PRP:det', 1)
+		('PRO:REL', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 25)
+		(('SENT', '.'), 23)
+		(('PRO:PER', 'il'), 12)
+		(('DET:POS', 'son'), 11)
+		(('PRP', 'de'), 9)
+		(('KON', 'et'), 8)
+		(('NOM', 'rédaction'), 6)
+		(('NOM', 'lundi'), 5)
+		(('NAM', 'Léon'), 5)
+		(('VER:pres', 'raconter'), 5)
+		(('NOM', 'maître|maîtresse'), 5)
+		(('PRO:PER', 'lui'), 5)
+		(('VER:pres', 'mettre'), 5)
+		(('DET:ART', 'un'), 5)
+		(('VER:pres', 'avoir'), 5)
+		(('PUN:cit', '"'), 4)
+		(('ADJ', 'autre'), 4)
+		(('NUM', '@card@'), 4)
+		(('PUN', '/'), 4)
+		(('NOM', 'dimanche'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('NUM', '@ord@'), 3)
+		(('ABR', 'Un'), 3)
+		(('NOM', 'jour'), 3)
+		(('KON', 'que'), 3)
+		(('VER:pres', 'être'), 3)
+		(('PRP', 'sur'), 3)
+		(('ADV', 'ne'), 2)
+		(('ADV', 'rien'), 2)
+		(('VER:pres', 'dire'), 2)
+		(('PRO:PER', 'je'), 2)
+		(('VER:pper', 'comprendre'), 2)
+		(('VER:pper', 'mettre'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'papa'), 2)
+		(('NOM', 'sœur'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('NOM', 'remplaçant'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('ADV', 'pas'), 1)
+		(('ADJ', 'intéressant'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('VER:impf', 'manger'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:pres', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRP', 'avec'), 1)
+		(('NOM', 'couteau'), 1)
+		(('NOM', 'viande'), 1)
+		(('VER:pres', 'suffire'), 1)
+		(('VER:subp', 'faire'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('INT', '@ord@'), 1)
+		(('ADV', 'très'), 1)
+		(('ADJ', 'content'), 1)
+		(('NOM', 'poudre'), 1)
+		(('NOM', 'escampette'), 1)
+		(('NOM', 'verre'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'mourir'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'escalier'), 1)
+		(('VER:pper', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'bord'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('KON', 'pour'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('PRO:IND', "quelqu'un"), 1)
+		(('VER:pper', 'marcher'), 1)
+		(('NOM', 'dame'), 1)
+		(('VER:pper', 'accompagner'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('NOM', 'fracture'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'crâne'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('NOM', 'conjugaison'), 1)
+		(('PUN', ':'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('ADV', 'mieux'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.4953271028037383
+
+	Score BLEU : 0.30888885697734925
+
+	Précision : 0.5948275862068966
+
+	Rappel : 0.359375
+
+	F-mesure : 0.44805194805194803
+

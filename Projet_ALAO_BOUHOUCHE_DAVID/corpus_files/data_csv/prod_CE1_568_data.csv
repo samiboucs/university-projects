@@ -1,0 +1,57 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_568
+
+Cette production contient : 
+
+	7 forme(s)/token(s)
+
+	6 mot(s)
+
+	6 hapax
+
+	24 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 6 mot(s) par phrase
+
+	6 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		c' : 1
+		est : 1
+		pareil : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PRO:IND', 1)
+		('DET:ART', 1)
+		('NOM', 1)
+		('PRO:DEM', 1)
+		('VER:pres', 1)
+		('ADJ', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:IND', 'tout'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADJ', 'pareil'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 7.094441639678214e-26
+
+	Précision : 0.7142857142857143
+
+	Rappel : 0.026041666666666668
+
+	F-mesure : 0.05025125628140704
+

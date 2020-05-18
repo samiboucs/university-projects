@@ -1,0 +1,120 @@
+Léon	NAM	Léon
+était	VER:impf	être
+un	DET:ART	un
+petit	ADJ	petit
+garçon	NOM	garçon
+.	SENT	.
+Le	DET:ART	le
+dimanche	NOM	dimanche
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passait	VER:impf	passer
+rien	ADV	rien
+quand	KON	quand
+il	PRO:PER	il
+va	VER:pres	aller
+chez	PRP	chez
+sa	DET:POS	son
+tante	NOM	tante
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passait	VER:impf	passer
+rien	ADV	rien
+quand	KON	quand
+il	PRO:PER	il
+mangeait	VER:impf	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passait	VER:impf	passer
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+remangeait	VER:impf	remanger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passait	VER:impf	passer
+<suggestion>
+rien	ADV	rien
+</suggestion>
+<segmentation/>
+quand	KON	quand
+il	PRO:PER	il
+va	VER:pres	aller
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+<segmentation/>
+à	PRP	à
+ses	DET:POS	son
+travaux	NOM	travail
+ses	DET:POS	son
+notes	NOM	note
+étaient	VER:impf	être
+de	PRP	de
+0	NUM	@card@
+/	PUN	/
+20	NUM	@card@
+<segmentation/>
+alors	KON	alors
+il	PRO:PER	il
+a	VER:pres	avoir
+pensé	VER:pper	penser
+à	PRP	à
+quelque	PRO:IND	quelque
+chose	NOM	chose
+<segmentation/>
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+était	VER:impf	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+alors	ADV	alors
+dans	PRP	dans
+la	DET:ART	le
+rédaction	NOM	rédaction
+il	PRO:PER	il
+écrit	VER:pres	écrire
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+s'	PRO:PER	se
+est	VER:pres	être
+passé	VER:pper	passer
+.	SENT	.
+L'	DET:ART	le
+autre	ADJ	autre
+semaine	NOM	semaine
+il	PRO:PER	il
+poussa	VER:simp	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+<omission type=""segment"">
+aller	VER:infi	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+<segmentation/>
+il	PRO:PER	il
+écrit	VER:pres	écrire
+dans	PRP	dans
+la	DET:ART	le
+rédaction	NOM	rédaction
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+s'	PRO:PER	se
+est	VER:pres	être
+passé	VER:pper	passer
+.	SENT	.

@@ -1,0 +1,76 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_495
+
+Cette production contient : 
+
+	20 forme(s)/token(s)
+
+	17 mot(s)
+
+	13 hapax
+
+	75 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 6 mot(s) par phrase
+
+	15 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		Léo : 1
+		fait : 2
+		des : 1
+		rédactions : 1
+		Il : 1
+		raconte : 1
+		son : 1
+		dimanche : 2
+		Le : 1
+		il : 1
+		ne : 1
+		rien : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 4)
+		('VER:pres', 3)
+		('SENT', 3)
+		('DET:ART', 2)
+		('PRO:PER', 2)
+		('ADV', 2)
+		('PRO:IND', 1)
+		('NAM', 1)
+		('PRP:det', 1)
+		('DET:POS', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('SENT', '.'), 3)
+		(('DET:ART', 'le'), 2)
+		(('VER:pres', 'faire'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Léo'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:pres', 'raconter'), 1)
+		(('DET:POS', 'son'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'rien'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8823529411764706
+
+	Score BLEU : 2.8885276465708105e-09
+
+	Précision : 0.875
+
+	Rappel : 0.07291666666666667
+
+	F-mesure : 0.13461538461538464
+

@@ -1,0 +1,59 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_486
+
+Cette production contient : 
+
+	8 forme(s)/token(s)
+
+	7 mot(s)
+
+	7 hapax
+
+	25 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 7 mot(s) par phrase
+
+	7 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Je : 1
+		n' : 1
+		ai : 1
+		pas : 1
+		écouté : 1
+		l' : 1
+		histoire : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('ADV', 2)
+		('PRO:PER', 1)
+		('VER:pres', 1)
+		('VER:pper', 1)
+		('DET:ART', 1)
+		('NOM', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'je'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:pper', 'écouter'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'histoire'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 3.7552797298578806e-23
+
+	Précision : 0.25
+
+	Rappel : 0.010416666666666666
+
+	F-mesure : 0.02
+

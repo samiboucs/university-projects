@@ -1,0 +1,121 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_560
+
+Cette production contient : 
+
+	63 forme(s)/token(s)
+
+	57 mot(s)
+
+	23 hapax
+
+	239 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 19 mot(s) par phrase
+
+	33 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		matins : 1
+		Léon : 5
+		fait : 5
+		une : 1
+		rédaction : 1
+		de : 1
+		ce : 1
+		qu' : 1
+		il : 5
+		a : 1
+		le : 3
+		dimanche : 3
+		Mais : 1
+		ne : 3
+		rien : 4
+		va : 1
+		chez : 1
+		ses : 1
+		grands-parents : 2
+		mange : 2
+		Et : 1
+		la : 1
+		maitresse : 1
+		lui : 1
+		dit : 2
+		tu : 1
+		dois : 1
+		faire : 1
+		quelque : 1
+		chose : 1
+		week-end : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 11)
+		('NOM', 10)
+		('PRO:PER', 7)
+		('ADV', 7)
+		('DET:ART', 6)
+		('NAM', 5)
+		('SENT', 3)
+		('PUN:cit', 3)
+		('PRO:IND', 2)
+		('PRP', 2)
+		('KON', 2)
+		('PRO:DEM', 1)
+		('PRO:REL', 1)
+		('VER:pper', 1)
+		('DET:POS', 1)
+		('VER:infi', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 5)
+		(('NAM', 'Léon'), 5)
+		(('PRO:PER', 'il'), 5)
+		(('VER:pres', 'faire'), 4)
+		(('ADV', 'rien'), 4)
+		(('NOM', 'dimanche'), 3)
+		(('SENT', '.'), 3)
+		(('ADV', 'ne'), 3)
+		(('NOM', 'grands-parents'), 2)
+		(('VER:pres', 'manger'), 2)
+		(('VER:pres', 'dire'), 2)
+		(('PUN:cit', '»'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'matin'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('PRP', 'de'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('KON', 'mais'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('PUN:cit', '«'), 1)
+		(('PRO:PER', 'tu'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('NOM', 'week-end'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5789473684210527
+
+	Score BLEU : 0.002702976742523504
+
+	Précision : 0.6944444444444444
+
+	Rappel : 0.13020833333333334
+
+	F-mesure : 0.2192982456140351
+

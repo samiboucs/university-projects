@@ -1,0 +1,96 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+Léon	NAM	Léon
+fait	VER:pres	faire
+de	PRP	de
+la	DET:ART	le
+rédaction	NOM	rédaction
+<segmentation/>
+Léon	NAM	Léon
+trouve	VER:pres	trouver
+ça	PRO:DEM	cela
+embêtant	VER:ppre	embêter
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+Léon	NAM	Léon
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+s'	PRO:PER	se
+ennuie	VER:pres	ennuyer
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+le	DET:ART	le
+lundi	NOM	lundi
+Léon	NAM	Léon
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+zéro	NOM	zéro
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+la	DET:ART	le
+maman	NOM	maman
+de	PRP	de
+Léon	NAM	Léon
+se	PRO:PER	se
+coupe	VER:pres	couper
+un	DET:ART	un
+doigt	NOM	doigt
+<segmentation/>
+Léon	NAM	Léon
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+dix	NUM	dix
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+Léon	NAM	Léon
+pousse	VER:pres	pousser
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+les	DET:ART	le
+escaliers	NOM	escalier
+<segmentation/>
+sa	DET:POS	son
+soeur	NOM	sœur
+va	VER:pres	aller
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+<segmentation/>
+Léon	NAM	Léon
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+neuf	ADJ	neuf
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+,	PUN	,
+Léon	NAM	Léon
+met	VER:pres	mettre
+de	PRP	de
+la	DET:ART	le
+farine	NOM	farine
+dans	PRP	dans
+la	DET:ART	le
+machine	NOM	machine
+à	PRP	à
+laver	VER:infi	laver
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+neuf	ADJ	neuf
+et	KON	et
+demi	ADJ	demi
+.	SENT	.

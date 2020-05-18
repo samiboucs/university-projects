@@ -1,0 +1,136 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_1067
+
+Cette production contient : 
+
+	69 forme(s)/token(s)
+
+	65 mot(s)
+
+	24 hapax
+
+	268 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 22 mot(s) par phrase
+
+	42 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		était : 2
+		une : 2
+		fois : 1
+		un : 3
+		enfant : 1
+		qui : 1
+		tous : 2
+		les : 2
+		lundis : 1
+		devait : 1
+		raconter : 2
+		son : 1
+		dimanche : 2
+		mais : 1
+		dimanches : 1
+		il : 3
+		ne : 1
+		faisait : 1
+		rien : 1
+		Mais : 2
+		sa : 1
+		mère : 1
+		s' : 2
+		coupé : 1
+		doigt : 2
+		du : 1
+		coup : 1
+		se : 2
+		disait : 2
+		passe : 1
+		tout : 2
+		le : 3
+		temps : 4
+		chose : 2
+		de : 1
+		grave : 1
+		je : 1
+		pourrai : 1
+		avoir : 2
+		quelque : 1
+		à : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 17)
+		('DET:ART', 10)
+		('PRO:PER', 8)
+		('VER:impf', 6)
+		('VER:infi', 4)
+		('ADV', 4)
+		('PRO:IND', 3)
+		('KON', 3)
+		('SENT', 3)
+		('DET:POS', 2)
+		('PRP', 2)
+		('PRO:REL', 1)
+		('VER:pper', 1)
+		('PRP:det', 1)
+		('PUN', 1)
+		('NAM', 1)
+		('VER:pres', 1)
+		('VER:futu', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'un'), 5)
+		(('DET:ART', 'le'), 5)
+		(('PRO:PER', 'il'), 4)
+		(('NOM', 'temps'), 4)
+		(('NOM', 'dimanche'), 3)
+		(('SENT', '.'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('VER:impf', 'être'), 2)
+		(('PRO:IND', 'tout'), 2)
+		(('VER:infi', 'raconter'), 2)
+		(('DET:POS', 'son'), 2)
+		(('KON', 'mais'), 2)
+		(('NOM', 'doigt'), 2)
+		(('VER:impf', 'dire'), 2)
+		(('ADV', 'tout'), 2)
+		(('NOM', 'chose'), 2)
+		(('VER:infi', 'avoir'), 2)
+		(('NOM', 'foi|fois'), 1)
+		(('NOM', 'enfant'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'coup'), 1)
+		(('PUN', '-'), 1)
+		(('NAM', 'Mais'), 1)
+		(('KON', 'si'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'grave'), 1)
+		(('PRO:PER', 'je'), 1)
+		(('VER:futu', 'pouvoir'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('PRP', 'à'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6461538461538462
+
+	Score BLEU : 0.004553105022727352
+
+	Précision : 0.7045454545454546
+
+	Rappel : 0.16145833333333334
+
+	F-mesure : 0.2627118644067797
+

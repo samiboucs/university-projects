@@ -1,0 +1,224 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_535
+
+Cette production contient : 
+
+	165 forme(s)/token(s)
+
+	149 mot(s)
+
+	48 hapax
+
+	596 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 21 mot(s) par phrase
+
+	84 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		Léon : 5
+		a : 7
+		rédaction : 3
+		pour : 1
+		raconter : 1
+		son : 1
+		dimanche : 4
+		Mais : 2
+		le : 5
+		il : 9
+		ne : 1
+		se : 1
+		passait : 1
+		rien : 2
+		s' : 3
+		ennuyait : 2
+		mangeait : 2
+		et : 2
+		c' : 2
+		était : 2
+		fini : 1
+		eu : 2
+		un : 3
+		la : 3
+		maman : 1
+		de : 3
+		est : 3
+		coupé : 1
+		doigt : 1
+		avec : 1
+		couteau : 1
+		en : 1
+		coupant : 1
+		l' : 3
+		os : 1
+		du : 1
+		gigot : 1
+		Donc : 2
+		raconté : 1
+		ça : 2
+		dans : 2
+		même : 1
+		commencé : 1
+		à : 2
+		faire : 3
+		des : 1
+		catastrophes : 2
+		poussé : 1
+		sa : 1
+		soeur : 1
+		escalier : 1
+		Un : 1
+		sur : 2
+		balcon : 1
+		y : 2
+		avait : 1
+		mis : 1
+		une : 2
+		planche : 1
+		pot : 2
+		fleurs : 3
+		pensait : 1
+		que : 1
+		allait : 1
+		ce : 1
+		qui : 1
+		arriva : 2
+		tombé : 1
+		dame : 2
+		n' : 1
+		pas : 1
+		pu : 1
+		aller : 2
+		aux : 1
+		toilettes : 1
+		Les : 1
+		ambulances : 1
+		arrivent : 2
+		emmène : 1
+		hôpital : 1
+		Et : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 29)
+		('DET:ART', 18)
+		('PRO:PER', 17)
+		('VER:pres', 13)
+		('PRP', 12)
+		('VER:impf', 11)
+		('VER:pper', 10)
+		('SENT', 7)
+		('ADV', 7)
+		('NAM', 6)
+		('VER:infi', 6)
+		('KON', 6)
+		('PUN', 5)
+		('PRO:DEM', 5)
+		('PRP:det', 3)
+		('DET:POS', 2)
+		('NUM', 2)
+		('VER:simp', 2)
+		('PRO:IND', 1)
+		('VER:ppre', 1)
+		('INT', 1)
+		('PRO:REL', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 12)
+		(('PRO:PER', 'il'), 9)
+		(('VER:pres', 'avoir'), 7)
+		(('SENT', '.'), 7)
+		(('DET:ART', 'un'), 6)
+		(('NAM', 'Léon'), 5)
+		(('NOM', 'dimanche'), 4)
+		(('PRO:PER', 'se'), 4)
+		(('KON', 'et'), 4)
+		(('NOM', 'rédaction'), 3)
+		(('PUN', ','), 3)
+		(('PRO:DEM', 'ce'), 3)
+		(('PRP', 'de'), 3)
+		(('VER:pres', 'être'), 3)
+		(('VER:infi', 'faire'), 3)
+		(('NOM', 'fleur'), 3)
+		(('DET:POS', 'son'), 2)
+		(('ADV', 'ne'), 2)
+		(('ADV', 'rien'), 2)
+		(('VER:impf', 'ennuyer'), 2)
+		(('VER:impf', 'manger'), 2)
+		(('VER:impf', 'être'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('NUM', '@card@'), 2)
+		(('PUN', '/'), 2)
+		(('PRP:det', 'du'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('PRP', 'dans'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'catastrophe'), 2)
+		(('PRP', 'sur'), 2)
+		(('PRO:PER', 'y'), 2)
+		(('NOM', 'pot'), 2)
+		(('VER:simp', 'arriver'), 2)
+		(('NOM', 'dame'), 2)
+		(('VER:infi', 'aller'), 2)
+		(('VER:pres', 'arriver'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('PRP', 'pour'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('KON', 'mais'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('VER:pper', 'finir'), 1)
+		(('PRO:PER', '@ord@'), 1)
+		(('VER:impf', 'Mais'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRP', 'avec'), 1)
+		(('NOM', 'couteau'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'os'), 1)
+		(('NOM', 'gigot'), 1)
+		(('ADV', 'donc'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('ADV', 'même'), 1)
+		(('INT', '@ord@'), 1)
+		(('NAM', 'Donc'), 1)
+		(('VER:pper', 'commencer'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('NOM', 'escalier'), 1)
+		(('NOM', 'balcon'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'planche'), 1)
+		(('VER:impf', 'penser'), 1)
+		(('KON', 'que'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pper', 'tomber'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:pper', 'pouvoir'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'toilette'), 1)
+		(('NOM', 'ambulance'), 1)
+		(('VER:pres', 'emmener'), 1)
+		(('NOM', 'hôpital'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5637583892617449
+
+	Score BLEU : 0.13180314869117402
+
+	Précision : 0.6
+
+	Rappel : 0.28125
+
+	F-mesure : 0.3829787234042553
+

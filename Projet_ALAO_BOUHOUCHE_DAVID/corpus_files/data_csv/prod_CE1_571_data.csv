@@ -1,0 +1,98 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_571
+
+Cette production contient : 
+
+	34 forme(s)/token(s)
+
+	32 mot(s)
+
+	18 hapax
+
+	117 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 16 mot(s) par phrase
+
+	24 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		c' : 1
+		est : 1
+		la : 1
+		même : 1
+		chose : 1
+		Léon : 1
+		a : 2
+		rédaction : 2
+		il : 4
+		doit : 1
+		dire : 1
+		ce : 1
+		qu' : 1
+		fait : 2
+		le : 1
+		dimanche : 1
+		Mais : 1
+		ne : 1
+		rien : 2
+		remange : 1
+		et : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 6)
+		('NOM', 5)
+		('PRO:PER', 4)
+		('DET:ART', 3)
+		('KON', 3)
+		('ADV', 3)
+		('PRO:DEM', 2)
+		('SENT', 2)
+		('PRO:IND', 1)
+		('ADJ', 1)
+		('NAM', 1)
+		('VER:infi', 1)
+		('PRO:REL', 1)
+		('VER:pper', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 4)
+		(('DET:ART', 'le'), 3)
+		(('PRO:DEM', 'ce'), 2)
+		(('SENT', '.'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('ADV', 'rien'), 2)
+		(('KON', 'et'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADJ', 'même'), 1)
+		(('NOM', 'chose'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'dire'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('KON', 'mais'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'remanger'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.75
+
+	Score BLEU : 1.1579106714575277e-05
+
+	Précision : 0.72
+
+	Rappel : 0.09375
+
+	F-mesure : 0.16589861751152074
+

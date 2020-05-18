@@ -1,0 +1,235 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_98
+
+Cette production contient : 
+
+	164 forme(s)/token(s)
+
+	146 mot(s)
+
+	58 hapax
+
+	559 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	11 phrase(s)
+
+	Une moyenne de 13 mot(s) par phrase
+
+	91 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 2
+		était : 2
+		une : 2
+		fois : 2
+		Léon : 2
+		Chaque : 1
+		dimanche : 2
+		devait : 2
+		ce : 1
+		qu' : 2
+		il : 3
+		a : 3
+		fait : 1
+		Mais : 4
+		le : 5
+		problème : 1
+		c' : 1
+		ne : 1
+		se : 1
+		passe : 1
+		jamais : 1
+		rien : 1
+		un : 4
+		jour : 1
+		maman : 2
+		s' : 2
+		est : 5
+		coupé : 2
+		doigt : 2
+		Avant : 1
+		avait : 1
+		toujours : 1
+		vu : 1
+		que : 4
+		j' : 5
+		ai : 6
+		eu : 2
+		L' : 1
+		autre : 1
+		poussé : 1
+		ma : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 1
+		Et : 2
+		très : 1
+		bien : 1
+		J' : 2
+		étais : 1
+		tellement : 1
+		fier : 1
+		continué : 1
+		mis : 2
+		du : 2
+		poison : 2
+		papa : 1
+		failli : 1
+		mourir : 1
+		à : 2
+		la : 3
+		place : 1
+		allé : 1
+		aux : 1
+		urgences : 1
+		dernier : 1
+		pot : 1
+		de : 2
+		fleurs : 1
+		en : 2
+		équilibre : 1
+		espérant : 1
+		ça : 2
+		tombe : 1
+		sur : 1
+		tête : 1
+		quelqu'un : 1
+		et : 1
+		marché : 1
+		lendemain : 1
+		matin : 1
+		remplaçante : 1
+		arrivée : 1
+		pour : 2
+		dire : 1
+		maîtresse : 1
+		allée : 1
+		l' : 1
+		hôpital : 1
+		choc : 1
+		crâne : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 29)
+		('DET:ART', 17)
+		('PRO:PER', 16)
+		('VER:pres', 16)
+		('VER:pper', 14)
+		('SENT', 11)
+		('KON', 11)
+		('PRP', 10)
+		('VER:impf', 7)
+		('ADV', 6)
+		('PRO:DEM', 4)
+		('PUN', 4)
+		('PRO:IND', 3)
+		('ADJ', 3)
+		('VER:infi', 3)
+		('PRP:det', 3)
+		('NAM', 2)
+		('VER:ppre', 2)
+		('PRO:REL', 1)
+		('NUM', 1)
+		('DET:POS', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('SENT', '.'), 11)
+		(('DET:ART', 'le'), 11)
+		(('VER:pres', 'avoir'), 9)
+		(('PRO:PER', 'je'), 7)
+		(('DET:ART', 'un'), 6)
+		(('PRO:PER', 'il'), 5)
+		(('KON', 'que'), 5)
+		(('VER:pres', 'être'), 5)
+		(('VER:impf', 'être'), 3)
+		(('KON', 'mais'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('PUN', ','), 3)
+		(('KON', 'et'), 3)
+		(('NOM', 'foi|fois'), 2)
+		(('NAM', 'Léon'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:impf', 'devoir'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('NOM', 'maman'), 2)
+		(('VER:pper', 'couper'), 2)
+		(('NOM', 'doigt'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('VER:pper', 'mettre'), 2)
+		(('PRP:det', 'du'), 2)
+		(('NOM', 'poison'), 2)
+		(('PRP', 'à'), 2)
+		(('VER:pper', 'aller'), 2)
+		(('PRP', 'de'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('PRP', 'pour'), 2)
+		(('PRO:IND', 'chaque'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'problème'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('ADV', 'jamais'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'jour'), 1)
+		(('PRP', 'avant'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('ADV', 'toujours'), 1)
+		(('PRO:IND', '@ord@'), 1)
+		(('VER:impf', 'Mais'), 1)
+		(('VER:pper', 'voir'), 1)
+		(('NUM', '@card@'), 1)
+		(('PUN', '/'), 1)
+		(('VER:ppre', '@ord@'), 1)
+		(('ADJ', 'autre'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('DET:POS', 'mon'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('ADV', 'très'), 1)
+		(('ADJ', 'bien'), 1)
+		(('ADV', 'tellement'), 1)
+		(('VER:infi', 'fier'), 1)
+		(('VER:pper', 'continuer'), 1)
+		(('NOM', 'papa'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'mourir'), 1)
+		(('NOM', 'place'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'urgence'), 1)
+		(('ADJ', 'dernier'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('PRO:PER', 'en'), 1)
+		(('VER:ppre', 'espérer'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('PRO:IND', "quelqu'un"), 1)
+		(('NOM', 'marché'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('NOM', 'matin'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('VER:pper', 'arriver'), 1)
+		(('VER:infi', 'dire'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('NOM', 'choc'), 1)
+		(('NOM', 'crâne'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6232876712328768
+
+	Score BLEU : 0.11836782885922802
+
+	Précision : 0.5257731958762887
+
+	Rappel : 0.265625
+
+	F-mesure : 0.35294117647058826
+

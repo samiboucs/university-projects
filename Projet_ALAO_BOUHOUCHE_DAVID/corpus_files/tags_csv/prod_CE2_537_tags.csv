@@ -1,0 +1,90 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+matin	NOM	matin
+Léon	NAM	Léon
+a	VER:pres	avoir
+rédaction	NOM	rédaction
+<segmentation/>
+il	PRO:PER	il
+écrit	VER:pres	écrire
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+a	VER:pres	avoir
+fait	VER:pper	faire
+le	DET:ART	le
+week-end	NOM	week-end
+<segmentation/>
+il	PRO:PER	il
+raconte	VER:pres	raconter
+qu'	KON	que
+il	PRO:PER	il
+a	VER:pres	avoir
+bousculé	VER:pper	bousculer
+sa	DET:POS	son
+soeur	NOM	sœur
+dans	PRP	dans
+l'	DET:ART	le
+escalier	NOM	escalier
+et	KON	et
+il	PRO:PER	il
+a	VER:pres	avoir
+fallu	VER:pper	falloir
+aller	VER:infi	aller
+aux	PRP:det	au
+urgences	NOM	urgence
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+un	DET:ART	un
+9	NUM	@card@
+sur	PRP	sur
+10	NUM	@card@
+<segmentation/>
+après	KON	après
+il	PRO:PER	il
+racontait	VER:impf	raconter
+qu'	KON	que
+il	PRO:PER	il
+assommait	VER:impf	assommer
+sa	DET:POS	son
+maîtresse	NOM	maître|maîtresse
+et	KON	et
+à	PRP	à
+la	DET:ART	le
+place	NOM	place
+<suggestion>
+de	PRP	de
+la	DET:ART	le
+rédaction	NOM	rédaction
+</suggestion>
+ils	PRO:PER	il
+ont	VER:pres	avoir
+eu	VER:pper	avoir
+<suggestion>
+de	PRP	de
+la	DET:ART	le
+</suggestion>
+conjugaison	NOM	conjugaison
+.	SENT	.
+C'	PRO:DEM	ce
+était	VER:impf	être
+bien	ADV	bien
+plus	ADV	plus
+facile	ADJ	facile
+.	SENT	.
+La	DET:ART	le
+maîtresse	NOM	maître|maîtresse
+leur	PRO:PER	lui
+a	VER:pres	avoir
+dit	VER:pper	dire
+qu'	KON	que
+elle	PRO:PER	elle
+avait	VER:impf	avoir
+une	DET:ART	un
+fracture	NOM	fracture
+du	PRP:det	du
+crâne	NOM	crâne
+.	SENT	.

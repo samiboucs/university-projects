@@ -1,0 +1,1 @@
+C'est une histoire d'un garçon qui doit écrire une rédaction tous les lundis matin pour écrire ce qui s'est passé le dimanche. Mais le dimanche il ne se passe rien <segmentation/> il va manger chez ses grands-parents deux fois le matin et le soir.

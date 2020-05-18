@@ -1,0 +1,132 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_265
+
+Cette production contient : 
+
+	63 forme(s)/token(s)
+
+	56 mot(s)
+
+	33 hapax
+
+	212 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	7 phrase(s)
+
+	Une moyenne de 8 mot(s) par phrase
+
+	43 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 2
+		est : 2
+		l' : 1
+		histoire : 1
+		d' : 1
+		un : 3
+		petit : 1
+		garçon : 1
+		qui : 2
+		s' : 1
+		appelle : 1
+		Léon : 1
+		Il : 4
+		doit : 1
+		raconter : 1
+		tout : 1
+		ce : 1
+		se : 2
+		passe : 1
+		le : 2
+		dimanche : 2
+		embêtant : 1
+		pour : 1
+		lui : 1
+		mais : 1
+		arriva : 1
+		truc : 1
+		La : 1
+		maman : 1
+		coupa : 1
+		doigt : 1
+		raconta : 1
+		ça : 1
+		à : 1
+		toute : 1
+		la : 1
+		classe : 1
+		eut : 2
+		une : 1
+		très : 2
+		bonne : 1
+		note : 1
+		bien : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('DET:ART', 9)
+		('NOM', 9)
+		('PRO:PER', 8)
+		('SENT', 7)
+		('VER:pres', 5)
+		('VER:simp', 5)
+		('PRO:DEM', 4)
+		('PRP', 3)
+		('ADJ', 3)
+		('ADV', 3)
+		('PRO:REL', 2)
+		('PRO:IND', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+		('KON', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('SENT', '.'), 7)
+		(('DET:ART', 'le'), 5)
+		(('DET:ART', 'un'), 4)
+		(('PRO:PER', 'il'), 4)
+		(('PRO:DEM', 'ce'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('VER:pres', 'être'), 2)
+		(('PRO:REL', 'qui'), 2)
+		(('PRO:IND', 'tout'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:simp', 'avoir'), 2)
+		(('ADV', 'très'), 2)
+		(('NOM', 'histoire'), 1)
+		(('PRP', 'de'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('VER:pres', 'appeler'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('ADJ', 'embêtant'), 1)
+		(('PRP', 'pour'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('KON', 'mais'), 1)
+		(('VER:simp', 'arriver'), 1)
+		(('NOM', 'truc'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('VER:simp', 'raconter'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'classe'), 1)
+		(('ADJ', 'bon'), 1)
+		(('NOM', 'note'), 1)
+		(('ADV', 'bien'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7678571428571429
+
+	Score BLEU : 0.0028316899207389084
+
+	Précision : 0.6590909090909091
+
+	Rappel : 0.15104166666666666
+
+	F-mesure : 0.24576271186440674
+

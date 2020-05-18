@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+	xmlns="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#"
+	xmlns:longit="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_92">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_92</longit:name>
+	<longit:token>127</longit:token>
+	<longit:word>116</longit:word>
+	<longit:hapax>36</longit:hapax>
+	<longit:character>524</longit:character>
+	<longit:char_word>5</longit:char_word>
+	<longit:sent>2</longit:sent>
+	<longit:word_sent>58</longit:word_sent>
+	<longit:word_type>60</longit:word_type>
+	<longit:ttr>0.52</longit:ttr>
+	<longit:score_bleu>0.06</longit:score_bleu>
+	<longit:precision>0.51</longit:precision>
+	<longit:recall>0.17</longit:recall>
+	<longit:f_measure>0.26</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_93">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_93</longit:name>
+	<longit:token>60</longit:token>
+	<longit:word>56</longit:word>
+	<longit:hapax>30</longit:hapax>
+	<longit:character>225</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>3</longit:sent>
+	<longit:word_sent>19</longit:word_sent>
+	<longit:word_type>42</longit:word_type>
+	<longit:ttr>0.75</longit:ttr>
+	<longit:score_bleu>0.002</longit:score_bleu>
+	<longit:precision>0.50</longit:precision>
+	<longit:recall>0.12</longit:recall>
+	<longit:f_measure>0.19</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_95">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_95</longit:name>
+	<longit:token>78</longit:token>
+	<longit:word>76</longit:word>
+	<longit:hapax>32</longit:hapax>
+	<longit:character>285</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>2</longit:sent>
+	<longit:word_sent>38</longit:word_sent>
+	<longit:word_type>49</longit:word_type>
+	<longit:ttr>0.65</longit:ttr>
+	<longit:score_bleu>0.007</longit:score_bleu>
+	<longit:precision>0.56</longit:precision>
+	<longit:recall>0.15</longit:recall>
+	<longit:f_measure>0.23</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_97">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_97</longit:name>
+	<longit:token>84</longit:token>
+	<longit:word>81</longit:word>
+	<longit:hapax>34</longit:hapax>
+	<longit:character>313</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>3</longit:sent>
+	<longit:word_sent>27</longit:word_sent>
+	<longit:word_type>52</longit:word_type>
+	<longit:ttr>0.64</longit:ttr>
+	<longit:score_bleu>0.01</longit:score_bleu>
+	<longit:precision>0.64</longit:precision>
+	<longit:recall>0.18</longit:recall>
+	<longit:f_measure>0.28</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_98">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_98</longit:name>
+	<longit:token>164</longit:token>
+	<longit:word>146</longit:word>
+	<longit:hapax>58</longit:hapax>
+	<longit:character>559</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>11</longit:sent>
+	<longit:word_sent>13</longit:word_sent>
+	<longit:word_type>91</longit:word_type>
+	<longit:ttr>0.62</longit:ttr>
+	<longit:score_bleu>0.12</longit:score_bleu>
+	<longit:precision>0.53</longit:precision>
+	<longit:recall>0.27</longit:recall>
+	<longit:f_measure>0.35</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_99">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_99</longit:name>
+	<longit:token>254</longit:token>
+	<longit:word>214</longit:word>
+	<longit:hapax>64</longit:hapax>
+	<longit:character>879</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>23</longit:sent>
+	<longit:word_sent>9</longit:word_sent>
+	<longit:word_type>106</longit:word_type>
+	<longit:ttr>0.50</longit:ttr>
+	<longit:score_bleu>0.31</longit:score_bleu>
+	<longit:precision>0.60</longit:precision>
+	<longit:recall>0.36</longit:recall>
+	<longit:f_measure>0.45</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_100">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_100</longit:name>
+	<longit:token>111</longit:token>
+	<longit:word>104</longit:word>
+	<longit:hapax>42</longit:hapax>
+	<longit:character>411</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>7</longit:sent>
+	<longit:word_sent>15</longit:word_sent>
+	<longit:word_type>64</longit:word_type>
+	<longit:ttr>0.62</longit:ttr>
+	<longit:score_bleu>0.05</longit:score_bleu>
+	<longit:precision>0.60</longit:precision>
+	<longit:recall>0.20</longit:recall>
+	<longit:f_measure>0.30</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_105">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_105</longit:name>
+	<longit:token>130</longit:token>
+	<longit:word>129</longit:word>
+	<longit:hapax>33</longit:hapax>
+	<longit:character>504</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>0</longit:sent>
+	<longit:word_sent>na</longit:word_sent>
+	<longit:word_type>63</longit:word_type>
+	<longit:ttr>0.49</longit:ttr>
+	<longit:score_bleu>0.06</longit:score_bleu>
+	<longit:precision>0.49</longit:precision>
+	<longit:recall>0.16</longit:recall>
+	<longit:f_measure>0.24</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_249">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_249</longit:name>
+	<longit:token>68</longit:token>
+	<longit:word>67</longit:word>
+	<longit:hapax>28</longit:hapax>
+	<longit:character>240</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>1</longit:sent>
+	<longit:word_sent>67</longit:word_sent>
+	<longit:word_type>43</longit:word_type>
+	<longit:ttr>0.64</longit:ttr>
+	<longit:score_bleu>0.004</longit:score_bleu>
+	<longit:precision>0.64</longit:precision>
+	<longit:recall>0.15</longit:recall>
+	<longit:f_measure>0.24</longit:f_measure>	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#prod_CE1_253">
+	<rdf:type rdf:resource="http://www.semanticweb.org/corpuscol/ontologies/2019/1/longit#production"/>
+	<longit:name>prod_CE1_253</longit:name>
+	<longit:token>92</longit:token>
+	<longit:word>91</longit:word>
+	<longit:hapax>30</longit:hapax>
+	<longit:character>351</longit:character>
+	<longit:char_word>4</longit:char_word>
+	<longit:sent>1</longit:sent>
+	<longit:word_sent>91</longit:word_sent>
+	<longit:word_type>50</longit:word_type>
+	<longit:ttr>0.55</longit:ttr>
+	<longit:score_bleu>0.02</longit:score_bleu>
+	<longit:precision>0.65</longit:precision>
+	<longit:recall>0.17</longit:recall>
+	<longit:f_measure>0.27</longit:f_measure>	
+</rdf:Description>
+
+</rdf:RDF>

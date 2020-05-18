@@ -1,0 +1,1 @@
+Léon va à l'école et écrit ce qu'il a fait dimanche. Il ne fait rien ! Il mange et il ne fait rien. Il est chez ses papi et mamie <segmentation/> il ne fait rien et après <omission type=""segment""/>. Il croit que j'ai compris.

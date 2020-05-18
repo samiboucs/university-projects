@@ -1,0 +1,37 @@
+Le	DET:ART	le
+lundi	NOM	lundi
+Florentin	NAM	Florentin
+a	VER:pres	avoir
+une	DET:ART	un
+rédaction	NOM	rédaction
+<segmentation/>
+le	DET:ART	le
+premier	NUM	premier
+lundi	NOM	lundi
+Florentin	NAM	Florentin
+a	VER:pres	avoir
+insuffisant	ADJ	insuffisant
+<segmentation/>
+le	DET:ART	le
+deuxième	NUM	deuxième
+lundi	NOM	lundi
+il	PRO:PER	il
+a	VER:pres	avoir
+même	ADV	même
+eu	VER:pper	avoir
+un	DET:ART	un
+zéro	NOM	zéro
+<segmentation/>
+le	DET:ART	le
+dimanche	NOM	dimanche
+rien	ADV	rien
+encore	ADV	encore
+rien	ADV	rien
+il	PRO:PER	il
+mange	VER:pres	manger
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+remange	VER:pres	remanger
+rien	ADV	rien
+.	SENT	.

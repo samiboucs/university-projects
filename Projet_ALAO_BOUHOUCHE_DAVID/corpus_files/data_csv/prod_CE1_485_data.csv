@@ -1,0 +1,99 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_485
+
+Cette production contient : 
+
+	29 forme(s)/token(s)
+
+	28 mot(s)
+
+	21 hapax
+
+	109 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 28 mot(s) par phrase
+
+	24 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 1
+		l' : 2
+		histoire : 1
+		d' : 1
+		un : 1
+		petit : 1
+		garçon : 1
+		qui : 1
+		allait : 1
+		à : 1
+		école : 1
+		et : 1
+		sa : 3
+		maitresse : 1
+		lui : 1
+		disait : 1
+		tout : 1
+		le : 1
+		temps : 1
+		de : 1
+		dire : 1
+		journée : 2
+		toute : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 7)
+		('DET:ART', 4)
+		('PRP', 3)
+		('DET:POS', 3)
+		('VER:impf', 2)
+		('PRO:DEM', 1)
+		('VER:pres', 1)
+		('ADJ', 1)
+		('PRO:REL', 1)
+		('KON', 1)
+		('PRO:PER', 1)
+		('ADV', 1)
+		('VER:infi', 1)
+		('PRO:IND', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 3)
+		(('DET:POS', 'son'), 3)
+		(('PRP', 'de'), 2)
+		(('NOM', 'journée'), 2)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('NOM', 'histoire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'école'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('VER:impf', 'dire'), 1)
+		(('ADV', 'tout'), 1)
+		(('NOM', 'temps'), 1)
+		(('VER:infi', 'dire'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8571428571428571
+
+	Score BLEU : 9.506027927837523e-07
+
+	Précision : 0.48
+
+	Rappel : 0.0625
+
+	F-mesure : 0.11059907834101383
+

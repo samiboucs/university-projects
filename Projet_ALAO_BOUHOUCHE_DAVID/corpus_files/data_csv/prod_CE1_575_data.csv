@@ -1,0 +1,61 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_575
+
+Cette production contient : 
+
+	14 forme(s)/token(s)
+
+	14 mot(s)
+
+	8 hapax
+
+	72 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	0 phrase(s)
+
+	11 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		matins : 1
+		Léon : 1
+		fait : 1
+		la : 2
+		rédaction : 2
+		dans : 1
+		l' : 1
+		école : 1
+		maitresse : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 6)
+		('DET:ART', 4)
+		('PRO:IND', 1)
+		('NAM', 1)
+		('VER:pres', 1)
+		('PRP', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 4)
+		(('NOM', 'rédaction'), 2)
+		(('NOM', 'maitresse'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'matin'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'école'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7857142857142857
+
+	Score BLEU : 3.3402951486018627e-13
+
+	Précision : 0.6363636363636364
+
+	Rappel : 0.036458333333333336
+
+	F-mesure : 0.06896551724137931
+

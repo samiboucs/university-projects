@@ -1,0 +1,1 @@
+Tous les matins Léon fait une rédaction de ce qu'il a fait le dimanche. Mais Léon ne fait rien le dimanche <segmentation/> il va chez ses grands-parents <segmentation/> il ne fait rien <segmentation/> il mange <segmentation/> il ne fait rien. Et la maitresse lui dit <dialogue> « Léon tu dois faire quelque chose le week-end. » </dialogue> Léon <nonfini/>

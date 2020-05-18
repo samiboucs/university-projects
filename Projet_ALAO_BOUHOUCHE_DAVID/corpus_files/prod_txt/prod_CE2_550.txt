@@ -1,0 +1,1 @@
+Ça parle d'un garçon qui ne connaît pas sa rédaction et cette semaine sa mère s'était coupé un doigt <segmentation/> du coup il écrit ça pour sa rédaction <segmentation/> ensuite il a trouvé la solution <segmentation/> alors il inventa ses propres actions <segmentation/> il commença à pousser sa soeur dans les escaliers <segmentation/> elle finit à l'hôpital.

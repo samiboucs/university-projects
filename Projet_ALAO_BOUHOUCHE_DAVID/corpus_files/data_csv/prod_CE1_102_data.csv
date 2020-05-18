@@ -1,0 +1,85 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_102
+
+Cette production contient : 
+
+	24 forme(s)/token(s)
+
+	23 mot(s)
+
+	13 hapax
+
+	99 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 23 mot(s) par phrase
+
+	18 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Le : 1
+		lundi : 1
+		c' : 1
+		est : 1
+		la : 2
+		même : 1
+		chose : 2
+		on : 1
+		doit : 1
+		raconter : 1
+		le : 1
+		dimanche : 2
+		de : 1
+		Léon : 2
+		première : 1
+		fois : 2
+		expliqua : 1
+		son : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 7)
+		('DET:ART', 4)
+		('VER:pres', 2)
+		('NAM', 2)
+		('PRO:DEM', 1)
+		('ADJ', 1)
+		('PRO:PER', 1)
+		('VER:infi', 1)
+		('PRP', 1)
+		('NUM', 1)
+		('VER:simp', 1)
+		('DET:POS', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 4)
+		(('NOM', 'chose'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('NAM', 'Léon'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('NOM', 'lundi'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADJ', 'même'), 1)
+		(('PRO:PER', 'on'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PRP', 'de'), 1)
+		(('NUM', 'premier'), 1)
+		(('VER:simp', 'expliquer'), 1)
+		(('DET:POS', 'son'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.782608695652174
+
+	Score BLEU : 7.765301921234211e-08
+
+	Précision : 0.6842105263157895
+
+	Rappel : 0.06770833333333333
+
+	F-mesure : 0.12322274881516589
+

@@ -1,0 +1,222 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_1053
+
+Cette production contient : 
+
+	156 forme(s)/token(s)
+
+	148 mot(s)
+
+	50 hapax
+
+	622 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 37 mot(s) par phrase
+
+	85 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 2
+		petit : 1
+		garçon : 1
+		qui : 3
+		avait : 2
+		toujours : 1
+		faux : 1
+		à : 3
+		sa : 3
+		rédaction : 3
+		il : 10
+		en : 2
+		marre : 2
+		ne : 1
+		se : 1
+		passait : 1
+		jamais : 1
+		rien : 1
+		le : 6
+		dimanche : 1
+		pour : 2
+		qu' : 1
+		raconte : 1
+		sur : 3
+		fiche : 1
+		jour : 2
+		eut : 2
+		une : 4
+		idée : 1
+		Tous : 1
+		les : 3
+		dimanches : 1
+		faisait : 1
+		des : 1
+		accidents : 2
+		cassa : 1
+		la : 6
+		machine : 1
+		laver : 1
+		inonder : 1
+		voisins : 1
+		du : 2
+		dessous : 2
+		poussa : 1
+		soeur : 1
+		dans : 1
+		escaliers : 2
+		un : 2
+		mit : 1
+		pot : 3
+		de : 4
+		fleurs : 2
+		équilibre : 1
+		Il : 1
+		partit : 1
+		aux : 1
+		WC : 2
+		tomba : 1
+		tête : 1
+		d' : 1
+		dame : 2
+		lendemain : 1
+		remplaçante : 2
+		maîtresse : 3
+		a : 1
+		eu : 1
+		fracture : 2
+		C' : 1
+		est : 1
+		reçoit : 1
+		était : 2
+		posé : 1
+		bord : 1
+		fenêtre : 2
+		n' : 1
+		aurait : 1
+		pas : 2
+		dû : 1
+		faire : 1
+		ça : 2
+		coup : 1
+		l' : 1
+		hôpital : 2
+		mais : 1
+		conjugaison : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 44)
+		('DET:ART', 23)
+		('PRP', 15)
+		('PRO:PER', 14)
+		('ADV', 9)
+		('VER:simp', 7)
+		('VER:impf', 6)
+		('PRO:REL', 4)
+		('PUN:cit', 4)
+		('VER:pres', 4)
+		('SENT', 4)
+		('PRP:det', 4)
+		('DET:POS', 3)
+		('VER:infi', 3)
+		('VER:pper', 3)
+		('ADJ', 2)
+		('NAM', 2)
+		('PRO:DEM', 2)
+		('PRO:IND', 1)
+		('VER:cond', 1)
+		('KON', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 15)
+		(('PRO:PER', 'il'), 11)
+		(('DET:ART', 'un'), 8)
+		(('PRP', 'de'), 5)
+		(('PUN:cit', '"'), 4)
+		(('SENT', '.'), 4)
+		(('PRO:REL', 'qui'), 3)
+		(('PRP', 'à'), 3)
+		(('DET:POS', 'son'), 3)
+		(('NOM', 'rédaction'), 3)
+		(('PRP', 'sur'), 3)
+		(('PRP:det', 'du'), 3)
+		(('NOM', 'pot'), 3)
+		(('NOM', 'maître|maîtresse'), 3)
+		(('VER:impf', 'avoir'), 2)
+		(('ADV', 'marre'), 2)
+		(('ADV', 'ne'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('PRP', 'pour'), 2)
+		(('NOM', 'jour'), 2)
+		(('VER:simp', 'avoir'), 2)
+		(('NOM', 'accident'), 2)
+		(('NOM', 'dessous'), 2)
+		(('NOM', 'escalier'), 2)
+		(('NOM', 'fleur'), 2)
+		(('NAM', 'WC'), 2)
+		(('NOM', 'dame'), 2)
+		(('NOM', 'remplaçant'), 2)
+		(('NOM', 'fracture'), 2)
+		(('VER:impf', 'être'), 2)
+		(('NOM', 'fenêtre'), 2)
+		(('ADV', 'pas'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('NOM', 'hôpital'), 2)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('ADV', 'toujours'), 1)
+		(('NOM', 'fau|faux'), 1)
+		(('PRO:PER', 'en'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('ADV', 'jamais'), 1)
+		(('ADV', 'rien'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('VER:pres', 'raconter'), 1)
+		(('NOM', 'fiche'), 1)
+		(('NOM', 'idée'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('VER:simp', 'casser'), 1)
+		(('NOM', 'machine'), 1)
+		(('VER:infi', 'laver'), 1)
+		(('VER:infi', 'inonder'), 1)
+		(('NOM', 'voisin'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('PRP', 'en'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('VER:simp', 'partir'), 1)
+		(('PRP:det', 'au'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('ADJ', "C'"), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pres', 'recevoir'), 1)
+		(('VER:pper', 'poser'), 1)
+		(('NOM', 'bord'), 1)
+		(('VER:cond', 'avoir'), 1)
+		(('VER:pper', 'devoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('NOM', 'coup'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'conjugaison'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5743243243243243
+
+	Score BLEU : 0.12707972690123268
+
+	Précision : 0.6551724137931034
+
+	Rappel : 0.296875
+
+	F-mesure : 0.40860215053763443
+

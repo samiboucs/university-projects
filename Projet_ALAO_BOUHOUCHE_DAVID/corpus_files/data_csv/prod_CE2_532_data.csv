@@ -1,0 +1,151 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_532
+
+Cette production contient : 
+
+	95 forme(s)/token(s)
+
+	94 mot(s)
+
+	23 hapax
+
+	387 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 94 mot(s) par phrase
+
+	52 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		À : 1
+		l' : 2
+		école : 1
+		le : 3
+		petit : 2
+		garçon : 2
+		est : 2
+		très : 1
+		fort : 1
+		en : 1
+		mathématique : 2
+		il : 4
+		a : 3
+		fini : 1
+		les : 1
+		cours : 2
+		rentre : 1
+		chez : 1
+		lui : 2
+		met : 1
+		un : 2
+		pot : 2
+		de : 1
+		fleurs : 1
+		sur : 1
+		la : 6
+		fenêtre : 3
+		et : 2
+		une : 2
+		vieille : 2
+		dame : 1
+		passa : 1
+		sous : 1
+		d' : 1
+		coup : 2
+		paf : 2
+		tombe : 2
+		était : 1
+		aux : 2
+		toilettes : 2
+		n' : 2
+		pas : 3
+		pu : 1
+		entendre : 1
+		cela : 3
+		matin : 1
+		maitresse : 3
+		à : 3
+		hôpital : 2
+		remplaçante : 1
+		arrive : 2
+		maîtresse : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 24)
+		('DET:ART', 16)
+		('VER:pres', 11)
+		('PRP', 10)
+		('ADJ', 9)
+		('ADV', 6)
+		('PRO:PER', 6)
+		('PRO:DEM', 3)
+		('VER:pper', 2)
+		('KON', 2)
+		('PRP:det', 2)
+		('VER:simp', 1)
+		('VER:impf', 1)
+		('VER:infi', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 12)
+		(('PRP', 'à'), 4)
+		(('PRO:PER', 'il'), 4)
+		(('DET:ART', 'un'), 4)
+		(('VER:pres', 'avoir'), 3)
+		(('NOM', 'fenêtre'), 3)
+		(('ADV', 'pas'), 3)
+		(('PRO:DEM', 'cela'), 3)
+		(('NOM', 'maitresse'), 3)
+		(('ADJ', 'petit'), 2)
+		(('NOM', 'garçon'), 2)
+		(('VER:pres', 'être'), 2)
+		(('ADJ', 'mathématique'), 2)
+		(('NOM', 'cour|cours'), 2)
+		(('PRO:PER', 'lui'), 2)
+		(('NOM', 'pot'), 2)
+		(('PRP', 'de'), 2)
+		(('KON', 'et'), 2)
+		(('ADJ', 'vieux'), 2)
+		(('NOM', 'coup'), 2)
+		(('ADJ', 'paf'), 2)
+		(('VER:pres', 'tomber'), 2)
+		(('PRP:det', 'au'), 2)
+		(('NOM', 'toilette'), 2)
+		(('ADV', 'ne'), 2)
+		(('NOM', 'hôpital'), 2)
+		(('VER:pres', 'arriver'), 2)
+		(('NOM', 'école'), 1)
+		(('ADV', 'très'), 1)
+		(('ADJ', 'fort'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:pper', 'finir'), 1)
+		(('VER:pres', 'rentrer'), 1)
+		(('PRP', 'chez'), 1)
+		(('VER:pres', 'mettre'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'dame'), 1)
+		(('VER:simp', 'passer'), 1)
+		(('PRP', 'sous'), 1)
+		(('VER:impf', 'être'), 1)
+		(('VER:pper', 'pouvoir'), 1)
+		(('VER:infi', 'entendre'), 1)
+		(('NOM', 'matin'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5531914893617021
+
+	Score BLEU : 0.016815121109185843
+
+	Précision : 0.49056603773584906
+
+	Rappel : 0.13541666666666666
+
+	F-mesure : 0.21224489795918366
+

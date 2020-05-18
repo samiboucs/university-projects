@@ -1,0 +1,1 @@
+Léon est à l'école, tous les lundis il raconte son dimanche. Mais le dimanche rien ne se passait. Il était chez ses grands-parents <segmentation/> il mangeait <segmentation/> rien d'autre ne se passait. Et un jour sa mère se coupa le doigt <segmentation/> plein de sang était sur la nappe. Le lendemain arrivé à l'école il a eu 20 sur 20. Et la <nonfini/>

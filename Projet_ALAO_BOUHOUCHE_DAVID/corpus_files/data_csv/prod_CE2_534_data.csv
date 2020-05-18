@@ -1,0 +1,143 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_534
+
+Cette production contient : 
+
+	79 forme(s)/token(s)
+
+	72 mot(s)
+
+	28 hapax
+
+	333 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 36 mot(s) par phrase
+
+	44 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 2
+		petit : 2
+		garçon : 2
+		à : 1
+		l' : 1
+		école : 1
+		doit : 1
+		raconter : 1
+		son : 1
+		dimanche : 3
+		mais : 2
+		le : 1
+		il : 8
+		ne : 1
+		se : 1
+		passait : 1
+		rien : 2
+		du : 3
+		tout : 2
+		allait : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		s' : 2
+		ennuyait : 3
+		mangeait : 1
+		et : 4
+		remangeait : 1
+		voilà : 1
+		la : 3
+		journée : 2
+		lundi : 1
+		écrivait : 1
+		quand : 1
+		eut : 1
+		sa : 1
+		rédaction : 2
+		sur : 1
+		laquelle : 2
+		maîtresse : 1
+		a : 1
+		écrit : 1
+		insuffisant : 1
+		réfléchit : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 16)
+		('PRO:PER', 11)
+		('VER:impf', 8)
+		('DET:ART', 7)
+		('KON', 7)
+		('ADJ', 3)
+		('PRP', 3)
+		('VER:pres', 3)
+		('DET:POS', 3)
+		('ADV', 3)
+		('PUN', 3)
+		('PRP:det', 3)
+		('SENT', 2)
+		('PRO:REL', 2)
+		('PUN:cit', 2)
+		('VER:infi', 1)
+		('VER:simp', 1)
+		('VER:pper', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 8)
+		(('DET:ART', 'le'), 5)
+		(('KON', 'et'), 4)
+		(('DET:POS', 'son'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('PUN', ','), 3)
+		(('PRP:det', 'du'), 3)
+		(('VER:impf', 'ennuyer'), 3)
+		(('DET:ART', 'un'), 2)
+		(('ADJ', 'petit'), 2)
+		(('NOM', 'garçon'), 2)
+		(('KON', 'mais'), 2)
+		(('NOM', 'tout'), 2)
+		(('NOM', 'journée'), 2)
+		(('SENT', '.'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('PRO:REL', 'lequel'), 2)
+		(('PRP', 'à'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'rien'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('VER:impf', 'manger'), 1)
+		(('VER:impf', 'remanger'), 1)
+		(('ADV', 'voilà'), 1)
+		(('NOM', 'lundi'), 1)
+		(('VER:impf', 'écrire'), 1)
+		(('KON', 'quand'), 1)
+		(('VER:simp', 'avoir'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'écrire'), 1)
+		(('PUN:cit', '«'), 1)
+		(('ADJ', 'insuffisant'), 1)
+		(('PUN:cit', '»'), 1)
+		(('VER:pres', 'réfléchir'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6111111111111112
+
+	Score BLEU : 0.009779219171240385
+
+	Précision : 0.6458333333333334
+
+	Rappel : 0.16145833333333334
+
+	F-mesure : 0.2583333333333333
+

@@ -1,0 +1,106 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_263
+
+Cette production contient : 
+
+	34 forme(s)/token(s)
+
+	31 mot(s)
+
+	24 hapax
+
+	112 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 31 mot(s) par phrase
+
+	26 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Lundi : 1
+		Léon : 1
+		doit : 1
+		raconter : 1
+		son : 1
+		dimanche : 2
+		mais : 1
+		il : 5
+		ne : 1
+		fait : 1
+		rien : 1
+		Un : 1
+		sa : 1
+		maman : 1
+		s' : 1
+		était : 1
+		coupé : 1
+		le : 1
+		doigt : 1
+		et : 1
+		a : 1
+		eu : 1
+		sur : 1
+		Et : 1
+		comprit : 1
+		qu' : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 6)
+		('PRO:PER', 6)
+		('VER:pres', 3)
+		('DET:POS', 3)
+		('KON', 3)
+		('ADV', 2)
+		('DET:ART', 2)
+		('VER:pper', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+		('SENT', 1)
+		('VER:impf', 1)
+		('NUM', 1)
+		('PRP', 1)
+		('VER:simp', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 5)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('KON', 'mais'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('SENT', '.'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'doigt'), 1)
+		(('KON', 'et'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('NUM', '@card@'), 1)
+		(('PRP', 'sur'), 1)
+		(('DET:POS', '@ord@'), 1)
+		(('NOM', 'Et'), 1)
+		(('VER:simp', 'comprendre'), 1)
+		(('KON', 'que'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8387096774193549
+
+	Score BLEU : 1.0189613908826244e-05
+
+	Précision : 0.5862068965517241
+
+	Rappel : 0.08854166666666667
+
+	F-mesure : 0.15384615384615385
+

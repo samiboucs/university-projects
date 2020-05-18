@@ -1,0 +1,98 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_567
+
+Cette production contient : 
+
+	37 forme(s)/token(s)
+
+	34 mot(s)
+
+	16 hapax
+
+	126 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	2 phrase(s)
+
+	Une moyenne de 17 mot(s) par phrase
+
+	24 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Lundi : 1
+		Léon : 3
+		a : 2
+		rédaction : 2
+		dimanche : 1
+		ne : 2
+		fait : 2
+		rien : 3
+		il : 2
+		va : 1
+		manger : 1
+		chez : 1
+		son : 1
+		papi : 1
+		et : 1
+		sa : 1
+		mamie : 2
+		Un : 1
+		lundi : 1
+		à : 1
+		la : 1
+		zéro : 1
+		sur : 1
+		dix : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 9)
+		('VER:pres', 5)
+		('ADV', 5)
+		('NAM', 3)
+		('PRP', 3)
+		('PRO:PER', 2)
+		('DET:POS', 2)
+		('SENT', 2)
+		('DET:ART', 2)
+		('PUN', 1)
+		('VER:infi', 1)
+		('KON', 1)
+		('NUM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NAM', 'Léon'), 3)
+		(('ADV', 'rien'), 3)
+		(('NOM', 'lundi'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('ADV', 'ne'), 2)
+		(('VER:pres', 'faire'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'mamie'), 2)
+		(('SENT', '.'), 2)
+		(('PUN', ','), 1)
+		(('NOM', 'dimanche'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('VER:infi', 'manger'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'papi'), 1)
+		(('KON', 'et'), 1)
+		(('DET:ART', 'un'), 1)
+		(('PRP', 'à'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'zéro'), 1)
+		(('PRP', 'sur'), 1)
+		(('NUM', 'dix'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7058823529411765
+
+	Score BLEU : 2.7155114135423243e-05
+
+	Précision : 0.6538461538461539
+
+	Rappel : 0.08854166666666667
+
+	F-mesure : 0.1559633027522936
+

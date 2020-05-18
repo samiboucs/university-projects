@@ -1,0 +1,82 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_531
+
+Cette production contient : 
+
+	18 forme(s)/token(s)
+
+	15 mot(s)
+
+	15 hapax
+
+	63 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	15 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 1
+		garçon : 1
+		qui : 1
+		s' : 1
+		appelle : 1
+		Léon : 1
+		est : 1
+		allé : 1
+		chez : 1
+		sa : 1
+		grand-mère : 1
+		il : 1
+		ne : 1
+		mangeait : 1
+		rien : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 2)
+		('PRO:PER', 2)
+		('VER:pres', 2)
+		('PUN', 2)
+		('ADV', 2)
+		('DET:ART', 1)
+		('PRO:REL', 1)
+		('NAM', 1)
+		('VER:pper', 1)
+		('PRP', 1)
+		('DET:POS', 1)
+		('VER:impf', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PUN', ','), 2)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'appeler'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'grand-mère'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'manger'), 1)
+		(('ADV', 'rien'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 2.128881377880665e-10
+
+	Précision : 0.5882352941176471
+
+	Rappel : 0.052083333333333336
+
+	F-mesure : 0.09569377990430622
+

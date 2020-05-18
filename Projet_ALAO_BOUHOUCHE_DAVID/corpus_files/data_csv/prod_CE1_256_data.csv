@@ -1,0 +1,173 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_256
+
+Cette production contient : 
+
+	108 forme(s)/token(s)
+
+	104 mot(s)
+
+	39 hapax
+
+	410 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 104 mot(s) par phrase
+
+	59 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		était : 1
+		une : 2
+		fois : 1
+		un : 4
+		garçon : 1
+		qui : 1
+		s' : 1
+		appelle : 1
+		Léon : 4
+		ne : 1
+		faisait : 3
+		rien : 1
+		le : 4
+		dimanche : 4
+		et : 5
+		il : 9
+		devait : 1
+		raconter : 1
+		ce : 1
+		qu' : 2
+		mais : 1
+		avait : 4
+		tout : 1
+		temps : 1
+		des : 2
+		enfin : 1
+		quelque : 1
+		chose : 2
+		sa : 2
+		mère : 1
+		décidé : 1
+		ferait : 1
+		activité : 1
+		sportive : 1
+		eu : 2
+		dix : 5
+		sur : 2
+		d' : 2
+		après : 2
+		poussé : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 1
+		a : 3
+		fallu : 1
+		aller : 1
+		à : 1
+		l' : 1
+		hôpital : 1
+		neuf : 1
+		fait : 1
+		exprès : 1
+		de : 2
+		renverser : 1
+		la : 1
+		poudre : 1
+		empoisonnante : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 15)
+		('DET:ART', 12)
+		('PRO:PER', 11)
+		('VER:impf', 9)
+		('KON', 9)
+		('NUM', 9)
+		('PRP', 8)
+		('VER:pper', 6)
+		('ADV', 5)
+		('VER:pres', 4)
+		('NAM', 4)
+		('VER:infi', 3)
+		('ADJ', 3)
+		('PRO:REL', 2)
+		('PRP:det', 2)
+		('DET:POS', 2)
+		('PRO:DEM', 1)
+		('PRO:IND', 1)
+		('VER:cond', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 10)
+		(('DET:ART', 'le'), 7)
+		(('DET:ART', 'un'), 5)
+		(('KON', 'et'), 5)
+		(('NUM', 'dix'), 5)
+		(('NAM', 'Léon'), 4)
+		(('NOM', 'dimanche'), 4)
+		(('VER:impf', 'avoir'), 4)
+		(('PRP', 'de'), 4)
+		(('VER:impf', 'faire'), 3)
+		(('NUM', '@card@'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('PRP:det', 'du'), 2)
+		(('NOM', 'chose'), 2)
+		(('DET:POS', 'son'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('PRP', 'sur'), 2)
+		(('KON', 'après'), 2)
+		(('VER:impf', 'être'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'appeler'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'rien'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('KON', 'mais'), 1)
+		(('ADV', 'tout'), 1)
+		(('NOM', 'temps'), 1)
+		(('NUM', 'un'), 1)
+		(('ADV', 'enfin'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:pper', 'décider'), 1)
+		(('KON', 'que'), 1)
+		(('VER:cond', 'faire'), 1)
+		(('NOM', 'activité'), 1)
+		(('ADJ', 'sportif'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('VER:pper', 'falloir'), 1)
+		(('VER:infi', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('ADJ', 'neuf'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('ADV', 'exprès'), 1)
+		(('VER:infi', 'renverser'), 1)
+		(('NOM', 'poudre'), 1)
+		(('ADJ', 'empoisonnant'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5673076923076923
+
+	Score BLEU : 0.037299596078184775
+
+	Précision : 0.5901639344262295
+
+	Rappel : 0.1875
+
+	F-mesure : 0.2845849802371542
+

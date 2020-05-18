@@ -1,0 +1,107 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_559
+
+Cette production contient : 
+
+	50 forme(s)/token(s)
+
+	45 mot(s)
+
+	20 hapax
+
+	147 caractère(s)
+
+	Une moyenne de 3 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 9 mot(s) par phrase
+
+	28 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		va : 1
+		à : 1
+		l' : 1
+		école : 1
+		et : 4
+		écrit : 1
+		ce : 1
+		qu' : 1
+		il : 3
+		a : 1
+		fait : 4
+		dimanche : 1
+		Il : 4
+		ne : 3
+		rien : 3
+		mange : 1
+		est : 1
+		chez : 1
+		ses : 1
+		papi : 1
+		mamie : 2
+		après : 2
+		croit : 1
+		que : 1
+		j' : 1
+		ai : 1
+		compris : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:pres', 10)
+		('PRO:PER', 8)
+		('ADV', 8)
+		('NOM', 5)
+		('KON', 5)
+		('SENT', 5)
+		('PRP', 2)
+		('VER:pper', 2)
+		('NAM', 1)
+		('DET:ART', 1)
+		('PRO:DEM', 1)
+		('PRO:REL', 1)
+		('DET:POS', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 7)
+		(('KON', 'et'), 4)
+		(('SENT', '.'), 4)
+		(('ADV', 'ne'), 3)
+		(('VER:pres', 'faire'), 3)
+		(('ADV', 'rien'), 3)
+		(('VER:pres', 'avoir'), 2)
+		(('NOM', 'mamie'), 2)
+		(('ADV', 'après'), 2)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'écrire'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('SENT', '!'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'être'), 1)
+		(('PRP', 'chez'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'papi'), 1)
+		(('VER:pres', 'croire'), 1)
+		(('KON', 'que'), 1)
+		(('PRO:PER', 'je'), 1)
+		(('VER:pper', 'comprendre'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6222222222222222
+
+	Score BLEU : 0.0004479514850260079
+
+	Précision : 0.5
+
+	Rappel : 0.078125
+
+	F-mesure : 0.13513513513513511
+

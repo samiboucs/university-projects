@@ -1,0 +1,122 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_476
+
+Cette production contient : 
+
+	66 forme(s)/token(s)
+
+	66 mot(s)
+
+	17 hapax
+
+	247 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	0 phrase(s)
+
+	37 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		Léo : 2
+		a : 3
+		des : 2
+		rédactions : 2
+		il : 2
+		zéros : 1
+		tout : 1
+		le : 3
+		temps : 2
+		sa : 3
+		maman : 2
+		s' : 3
+		est : 3
+		coupé : 2
+		doigt : 4
+		écrit : 1
+		ça : 2
+		avait : 1
+		une : 3
+		note : 1
+		dix : 3
+		sur : 2
+		fois : 2
+		et : 1
+		dame : 2
+		la : 1
+		remplaçante : 1
+		parce : 1
+		que : 1
+		maîtresse : 1
+		fait : 1
+		mal : 1
+		au : 1
+		crâne : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 21)
+		('DET:ART', 8)
+		('VER:pres', 6)
+		('PRO:PER', 5)
+		('VER:pper', 4)
+		('PRP:det', 3)
+		('DET:POS', 3)
+		('NUM', 3)
+		('KON', 3)
+		('NAM', 2)
+		('ADV', 2)
+		('PRO:DEM', 2)
+		('PRP', 2)
+		('PRO:IND', 1)
+		('VER:impf', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 5)
+		(('NOM', 'doigt'), 4)
+		(('VER:pres', 'avoir'), 3)
+		(('DET:POS', 'son'), 3)
+		(('PRO:PER', 'se'), 3)
+		(('VER:pres', 'être'), 3)
+		(('DET:ART', 'un'), 3)
+		(('NUM', 'dix'), 3)
+		(('NAM', 'Léo'), 2)
+		(('PRP:det', 'du'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('NOM', 'temps'), 2)
+		(('NOM', 'maman'), 2)
+		(('VER:pper', 'couper'), 2)
+		(('PRO:DEM', 'cela'), 2)
+		(('PRP', 'sur'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('NOM', 'dame'), 2)
+		(('NOM', 'crâne'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NOM', 'zéro'), 1)
+		(('ADV', 'tout'), 1)
+		(('VER:pper', 'écrire'), 1)
+		(('VER:impf', 'avoir'), 1)
+		(('NOM', 'note'), 1)
+		(('KON', 'et'), 1)
+		(('NOM', 'remplaçant'), 1)
+		(('KON', 'parce'), 1)
+		(('KON', 'que'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('ADV', 'mal'), 1)
+		(('PRP:det', 'au'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5606060606060606
+
+	Score BLEU : 0.0027250502990204426
+
+	Précision : 0.6486486486486487
+
+	Rappel : 0.125
+
+	F-mesure : 0.20960698689956334
+

@@ -1,0 +1,221 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_305
+
+Cette production contient : 
+
+	171 forme(s)/token(s)
+
+	153 mot(s)
+
+	53 hapax
+
+	554 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	9 phrase(s)
+
+	Une moyenne de 17 mot(s) par phrase
+
+	84 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 5
+		y : 3
+		a : 6
+		un : 2
+		petit : 1
+		garçon : 1
+		et : 4
+		tous : 1
+		les : 1
+		lundis : 1
+		il : 10
+		devait : 1
+		raconter : 1
+		son : 1
+		dimanche : 1
+		n' : 4
+		aimait : 1
+		pas : 4
+		ça : 1
+		Un : 1
+		jour : 1
+		sa : 3
+		maman : 1
+		se : 2
+		coupa : 1
+		le : 6
+		doigt : 1
+		lundi : 2
+		raconta : 3
+		à : 2
+		classe : 1
+		eu : 4
+		une : 5
+		bonne : 2
+		note : 2
+		alors : 1
+		omission : 1
+		sujet : 1
+		avait : 3
+		compris : 1
+		qu' : 2
+		fallait : 1
+		que : 2
+		quelque : 1
+		chose : 1
+		arrive : 1
+		Alors : 1
+		poussé : 1
+		soeur : 1
+		elle : 1
+		est : 2
+		allée : 1
+		l' : 1
+		hôpital : 2
+		encore : 1
+		Après : 1
+		idée : 2
+		mis : 1
+		pot : 1
+		de : 5
+		fleurs : 1
+		sur : 2
+		rebord : 1
+		la : 3
+		fenêtre : 2
+		savait : 1
+		allait : 1
+		tomber : 1
+		tête : 1
+		quelqu'un : 1
+		c' : 2
+		ce : 2
+		qui : 1
+		passa : 1
+		temps : 1
+		voir : 1
+		était : 2
+		dame : 1
+		Le : 1
+		rédaction : 1
+		car : 1
+		maîtresse : 1
+		là : 1
+		remplaçante : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 30)
+		('PRO:PER', 23)
+		('DET:ART', 18)
+		('ADV', 12)
+		('KON', 10)
+		('VER:impf', 10)
+		('VER:pres', 9)
+		('SENT', 9)
+		('PRP', 9)
+		('VER:pper', 8)
+		('ADJ', 6)
+		('PRO:DEM', 5)
+		('VER:simp', 5)
+		('DET:POS', 4)
+		('PUN:cit', 4)
+		('PRO:IND', 3)
+		('VER:infi', 3)
+		('PUN', 2)
+		('PRO:REL', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 15)
+		(('DET:ART', 'le'), 10)
+		(('DET:ART', 'un'), 8)
+		(('SENT', '.'), 8)
+		(('VER:pres', 'avoir'), 6)
+		(('PRP', 'de'), 5)
+		(('KON', 'et'), 4)
+		(('DET:POS', 'son'), 4)
+		(('ADV', 'ne'), 4)
+		(('ADV', 'pas'), 4)
+		(('VER:pper', 'avoir'), 4)
+		(('PUN:cit', '"'), 4)
+		(('KON', 'que'), 4)
+		(('PRO:DEM', 'ce'), 4)
+		(('PRO:PER', 'y'), 3)
+		(('NOM', 'lundi'), 3)
+		(('VER:simp', 'raconter'), 3)
+		(('VER:impf', 'avoir'), 3)
+		(('PRO:PER', 'se'), 2)
+		(('PRO:PER', 'le'), 2)
+		(('PRP', 'à'), 2)
+		(('ADJ', 'bon'), 2)
+		(('NOM', 'note'), 2)
+		(('ADV', 'alors'), 2)
+		(('VER:pres', 'être'), 2)
+		(('NOM', 'hôpital'), 2)
+		(('NOM', 'idée'), 2)
+		(('PRP', 'sur'), 2)
+		(('NOM', 'fenêtre'), 2)
+		(('VER:impf', 'être'), 2)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('VER:impf', 'aimer'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('SENT', '!'), 1)
+		(('NOM', 'jour'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PUN', ','), 1)
+		(('NOM', 'classe'), 1)
+		(('ADJ', '<'), 1)
+		(('NOM', 'omission'), 1)
+		(('ADJ', '='), 1)
+		(('NOM', 'sujet'), 1)
+		(('PUN', '/'), 1)
+		(('ADJ', '>'), 1)
+		(('VER:pper', 'comprendre'), 1)
+		(('VER:impf', 'falloir'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('VER:pres', 'arriver'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pper', 'aller'), 1)
+		(('ADV', 'encore'), 1)
+		(('KON', 'après'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('NOM', 'rebord'), 1)
+		(('VER:impf', 'savoir'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('VER:infi', 'tomber'), 1)
+		(('NOM', 'tête'), 1)
+		(('PRO:IND', "quelqu'un"), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:simp', 'passer'), 1)
+		(('NOM', 'temps'), 1)
+		(('VER:infi', 'voir'), 1)
+		(('NOM', 'dame'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('KON', 'car'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('ADV', 'là'), 1)
+		(('NOM', 'remplaçant'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5490196078431373
+
+	Score BLEU : 0.14743740562269214
+
+	Précision : 0.5760869565217391
+
+	Rappel : 0.2760416666666667
+
+	F-mesure : 0.3732394366197183
+

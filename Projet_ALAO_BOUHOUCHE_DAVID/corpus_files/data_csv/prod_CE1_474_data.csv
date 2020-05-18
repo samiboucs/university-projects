@@ -1,0 +1,92 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_474
+
+Cette production contient : 
+
+	36 forme(s)/token(s)
+
+	31 mot(s)
+
+	12 hapax
+
+	143 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 31 mot(s) par phrase
+
+	19 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Georges : 1
+		devait : 1
+		raconter : 1
+		son : 1
+		dimanche : 2
+		il : 1
+		disait : 2
+		Je : 1
+		ne : 2
+		faisais : 1
+		rien : 4
+		après : 4
+		je : 3
+		mangeais : 2
+		fais : 1
+		mange : 1
+		c' : 1
+		est : 1
+		fini : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('VER:impf', 6)
+		('ADV', 6)
+		('PRO:PER', 5)
+		('KON', 4)
+		('PUN:cit', 3)
+		('VER:pres', 3)
+		('NOM', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+		('DET:POS', 1)
+		('PUN', 1)
+		('PRO:DEM', 1)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'je'), 4)
+		(('ADV', 'rien'), 4)
+		(('KON', 'après'), 4)
+		(('NOM', 'dimanche'), 2)
+		(('VER:impf', 'dire'), 2)
+		(('ADV', 'ne'), 2)
+		(('VER:impf', 'manger'), 2)
+		(('PUN:cit', '»'), 2)
+		(('NAM', 'Georges'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('DET:POS', 'son'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('PUN:cit', '«'), 1)
+		(('VER:impf', 'faire'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('PUN', ','), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'finir'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6129032258064516
+
+	Score BLEU : 1.4531461749288272e-05
+
+	Précision : 0.4782608695652174
+
+	Rappel : 0.057291666666666664
+
+	F-mesure : 0.10232558139534884
+

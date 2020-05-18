@@ -1,0 +1,92 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_103
+
+Cette production contient : 
+
+	32 forme(s)/token(s)
+
+	25 mot(s)
+
+	17 hapax
+
+	99 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 25 mot(s) par phrase
+
+	20 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		Léo : 1
+		a : 1
+		à : 2
+		sa : 1
+		rédaction : 3
+		il : 3
+		suffit : 1
+		que : 1
+		le : 1
+		dimanche : 1
+		fasse : 1
+		une : 1
+		bêtise : 1
+		pour : 1
+		qu' : 1
+		ait : 1
+		la : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 6)
+		('DET:ART', 4)
+		('NUM', 4)
+		('PRP', 3)
+		('PRO:PER', 3)
+		('VER:pres', 2)
+		('PUN', 2)
+		('VER:subp', 2)
+		('PRO:IND', 1)
+		('NAM', 1)
+		('DET:POS', 1)
+		('KON', 1)
+		('PRO:REL', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NUM', '@card@'), 4)
+		(('DET:ART', 'le'), 3)
+		(('NOM', 'rédaction'), 3)
+		(('PRO:PER', 'il'), 3)
+		(('PUN', '/'), 2)
+		(('PRP', 'à'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Léo'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('DET:POS', 'son'), 1)
+		(('VER:pres', 'suffire'), 1)
+		(('KON', 'que'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('VER:subp', 'faire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('PRP', 'pour'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:subp', 'avoir'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8
+
+	Score BLEU : 4.863688462139428e-06
+
+	Précision : 0.6
+
+	Rappel : 0.078125
+
+	F-mesure : 0.1382488479262673
+

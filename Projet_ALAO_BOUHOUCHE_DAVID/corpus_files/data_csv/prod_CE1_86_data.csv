@@ -1,0 +1,95 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_86
+
+Cette production contient : 
+
+	45 forme(s)/token(s)
+
+	44 mot(s)
+
+	14 hapax
+
+	174 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 44 mot(s) par phrase
+
+	25 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 2
+		a : 3
+		poussé : 1
+		la : 4
+		petite : 1
+		soeur : 1
+		dans : 1
+		les : 1
+		escaliers : 2
+		ramassé : 1
+		un : 1
+		pot : 2
+		de : 4
+		fleurs : 3
+		il : 2
+		l' : 1
+		mis : 1
+		à : 1
+		côté : 1
+		fenêtre : 4
+		le : 1
+		est : 2
+		tombé : 2
+		sur : 1
+		maitresse : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 14)
+		('DET:ART', 7)
+		('PRP', 7)
+		('VER:pres', 5)
+		('VER:pper', 5)
+		('PRO:PER', 3)
+		('NAM', 2)
+		('ADJ', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 6)
+		(('PRP', 'de'), 4)
+		(('NOM', 'fenêtre'), 4)
+		(('VER:pres', 'avoir'), 3)
+		(('NOM', 'fleur'), 3)
+		(('NAM', 'Léon'), 2)
+		(('NOM', 'escalier'), 2)
+		(('NOM', 'pot'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('VER:pres', 'être'), 2)
+		(('VER:pper', 'tomber'), 2)
+		(('VER:pper', 'pousser'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('VER:pper', 'ramasser'), 1)
+		(('DET:ART', 'un'), 1)
+		(('PRO:PER', 'la|le'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'côté'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5681818181818182
+
+	Score BLEU : 0.00016009874601015302
+
+	Précision : 0.5769230769230769
+
+	Rappel : 0.078125
+
+	F-mesure : 0.13761467889908255
+

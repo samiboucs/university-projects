@@ -1,0 +1,79 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_531
+
+Cette production contient : 
+
+	16 forme(s)/token(s)
+
+	15 mot(s)
+
+	15 hapax
+
+	70 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	15 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Chaque : 1
+		matin : 1
+		nous : 1
+		devons : 1
+		faire : 1
+		une : 1
+		rédaction : 1
+		sur : 1
+		le : 1
+		week-end : 1
+		mais : 1
+		rien : 1
+		ne : 1
+		se : 1
+		passait : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 4)
+		('PRO:PER', 2)
+		('DET:ART', 2)
+		('PRO:IND', 1)
+		('VER:pres', 1)
+		('VER:infi', 1)
+		('PRP', 1)
+		('KON', 1)
+		('ADV', 1)
+		('VER:impf', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:IND', 'chaque'), 1)
+		(('NOM', 'matin'), 1)
+		(('PRO:PER', 'nous'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('PRP', 'sur'), 1)
+		(('DET:ART', 'le'), 1)
+		(('NOM', 'week-end'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'rien'), 1)
+		(('ADV', 'ne'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 1.2629274431388857e-11
+
+	Précision : 0.625
+
+	Rappel : 0.052083333333333336
+
+	F-mesure : 0.09615384615384615
+

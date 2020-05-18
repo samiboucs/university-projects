@@ -1,0 +1,99 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_574
+
+Cette production contient : 
+
+	35 forme(s)/token(s)
+
+	34 mot(s)
+
+	18 hapax
+
+	125 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 34 mot(s) par phrase
+
+	26 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 1
+		l' : 2
+		histoire : 1
+		d' : 1
+		un : 1
+		garçon : 2
+		qui : 1
+		va : 1
+		à : 1
+		école : 2
+		le : 2
+		devait : 1
+		faire : 1
+		une : 1
+		rédaction : 1
+		de : 1
+		ce : 1
+		qu' : 2
+		il : 2
+		a : 1
+		fait : 2
+		dimanche : 2
+		sauf : 1
+		ne : 1
+		rien : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 8)
+		('DET:ART', 6)
+		('VER:pres', 4)
+		('PRP', 4)
+		('PRO:REL', 3)
+		('PRO:DEM', 2)
+		('PRO:PER', 2)
+		('ADV', 2)
+		('VER:impf', 1)
+		('VER:infi', 1)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 4)
+		(('PRO:DEM', 'ce'), 2)
+		(('PRP', 'de'), 2)
+		(('DET:ART', 'un'), 2)
+		(('NOM', 'garçon'), 2)
+		(('NOM', 'école'), 2)
+		(('PRO:REL', 'que'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:pres', 'être'), 1)
+		(('NOM', 'histoire'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('PRP', 'sauf'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('ADV', 'rien'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7647058823529411
+
+	Score BLEU : 1.079507623756661e-05
+
+	Précision : 0.5185185185185185
+
+	Rappel : 0.07291666666666667
+
+	F-mesure : 0.1278538812785388
+

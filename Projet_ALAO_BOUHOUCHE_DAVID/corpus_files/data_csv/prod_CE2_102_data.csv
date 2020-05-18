@@ -1,0 +1,174 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_102
+
+Cette production contient : 
+
+	105 forme(s)/token(s)
+
+	93 mot(s)
+
+	40 hapax
+
+	369 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 31 mot(s) par phrase
+
+	57 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Le : 2
+		lundi : 1
+		Théo : 1
+		a : 3
+		rédaction : 2
+		il : 13
+		doit : 1
+		raconter : 1
+		son : 2
+		dimanche : 5
+		le : 2
+		problème : 1
+		c' : 2
+		est : 4
+		qu' : 2
+		ne : 1
+		fait : 1
+		rien : 2
+		mange : 1
+		refait : 1
+		remange : 1
+		et : 1
+		fini : 1
+		La : 2
+		première : 1
+		fois : 2
+		où : 1
+		raconté : 2
+		ça : 1
+		eut : 4
+		insuffisant : 1
+		deuxième : 1
+		d' : 1
+		après : 1
+		sa : 1
+		mère : 1
+		s' : 1
+		en : 1
+		coupant : 1
+		bifteck : 2
+		y : 1
+		plein : 1
+		de : 1
+		sang : 1
+		sur : 1
+		la : 1
+		nappe : 2
+		du : 1
+		coup : 1
+		très : 1
+		bien : 1
+		alors : 1
+		comprit : 1
+		se : 1
+		passe : 1
+		quelque : 1
+		chose : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 19)
+		('PRO:PER', 16)
+		('VER:pres', 13)
+		('DET:ART', 7)
+		('ADV', 6)
+		('VER:simp', 5)
+		('PRP', 5)
+		('PUN:cit', 4)
+		('DET:POS', 3)
+		('PRO:DEM', 3)
+		('KON', 3)
+		('PUN', 3)
+		('VER:pper', 3)
+		('SENT', 3)
+		('NUM', 3)
+		('ADJ', 2)
+		('VER:ppre', 2)
+		('NAM', 1)
+		('VER:infi', 1)
+		('PRO:REL', 1)
+		('PRP:det', 1)
+		('PRO:IND', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 13)
+		(('DET:ART', 'le'), 7)
+		(('NOM', 'dimanche'), 5)
+		(('VER:pres', 'être'), 4)
+		(('VER:simp', 'avoir'), 4)
+		(('VER:pres', 'avoir'), 3)
+		(('DET:POS', 'son'), 3)
+		(('SENT', '.'), 3)
+		(('NOM', 'rédaction'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('KON', 'que'), 2)
+		(('ADV', 'rien'), 2)
+		(('PUN', ','), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('VER:pper', 'raconter'), 2)
+		(('PUN:cit', '«'), 2)
+		(('PUN:cit', '»'), 2)
+		(('PRP', 'de'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'bifteck'), 2)
+		(('NOM', 'nappe'), 2)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Théo'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('NOM', 'problème'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'refaire'), 1)
+		(('VER:pres', 'remanger'), 1)
+		(('KON', 'et'), 1)
+		(('VER:pper', 'finir'), 1)
+		(('NUM', 'premier'), 1)
+		(('PRO:REL', 'où'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('ADJ', 'insuffisant'), 1)
+		(('NUM', 'deuxième'), 1)
+		(('NUM', '@card@'), 1)
+		(('PUN', '/'), 1)
+		(('VER:ppre', '@ord@'), 1)
+		(('PRP', 'après'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('ADJ', 'plein'), 1)
+		(('NOM', 'sang'), 1)
+		(('PRP', 'sur'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'coup'), 1)
+		(('ADV', 'très'), 1)
+		(('ADV', 'bien'), 1)
+		(('ADV', 'alors'), 1)
+		(('VER:simp', 'comprendre'), 1)
+		(('VER:pres', 'passer'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6129032258064516
+
+	Score BLEU : 0.03702942626823463
+
+	Précision : 0.640625
+
+	Rappel : 0.21354166666666666
+
+	F-mesure : 0.3203125
+

@@ -1,0 +1,167 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_571
+
+Cette production contient : 
+
+	110 forme(s)/token(s)
+
+	98 mot(s)
+
+	35 hapax
+
+	392 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 20 mot(s) par phrase
+
+	56 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		lundis : 1
+		c' : 3
+		est : 2
+		la : 1
+		même : 2
+		chose : 2
+		Léon : 1
+		a : 1
+		rédaction : 1
+		Il : 1
+		doit : 1
+		raconter : 1
+		ce : 1
+		qu' : 5
+		il : 10
+		se : 2
+		passe : 2
+		chez : 2
+		lui : 1
+		mais : 1
+		le : 2
+		problème : 1
+		ne : 1
+		jamais : 1
+		rien : 3
+		La : 2
+		première : 1
+		fois : 3
+		avait : 7
+		écrit : 1
+		était : 3
+		ses : 1
+		grands-parents : 2
+		n' : 2
+		fait : 2
+		puis : 1
+		mangé : 3
+		ensuite : 1
+		et : 1
+		fini : 1
+		eu : 2
+		un : 2
+		incomplet : 1
+		deuxième : 1
+		zéro : 1
+		Puis : 1
+		cette : 1
+		sa : 1
+		maman : 1
+		s' : 1
+		coupée : 1
+		en : 1
+		coupant : 1
+		gigot : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PRO:PER', 15)
+		('NOM', 14)
+		('ADV', 11)
+		('VER:impf', 10)
+		('VER:pper', 9)
+		('DET:ART', 7)
+		('VER:pres', 7)
+		('KON', 6)
+		('PRO:DEM', 5)
+		('SENT', 5)
+		('PUN:cit', 4)
+		('PRP', 3)
+		('NUM', 3)
+		('PUN', 3)
+		('DET:POS', 2)
+		('PRO:IND', 1)
+		('ADJ', 1)
+		('NAM', 1)
+		('VER:infi', 1)
+		('PRO:REL', 1)
+		('VER:ppre', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 11)
+		(('VER:impf', 'avoir'), 7)
+		(('DET:ART', 'le'), 6)
+		(('PRO:DEM', 'ce'), 5)
+		(('SENT', '.'), 5)
+		(('KON', 'que'), 4)
+		(('PUN:cit', '"'), 4)
+		(('PRO:PER', 'se'), 3)
+		(('ADV', 'ne'), 3)
+		(('ADV', 'rien'), 3)
+		(('NOM', 'foi|fois'), 3)
+		(('PUN', ','), 3)
+		(('VER:impf', 'être'), 3)
+		(('VER:pper', 'manger'), 3)
+		(('VER:pres', 'être'), 2)
+		(('NOM', 'chose'), 2)
+		(('VER:pres', 'passer'), 2)
+		(('PRP', 'chez'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'grands-parents'), 2)
+		(('ADV', 'puis'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'lundi'), 1)
+		(('ADJ', 'même'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('PRO:PER', 'lui'), 1)
+		(('KON', 'mais'), 1)
+		(('NOM', 'problème'), 1)
+		(('ADV', 'jamais'), 1)
+		(('NUM', 'premier'), 1)
+		(('VER:pper', 'écrire'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('ADV', 'ensuite'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('KON', 'et'), 1)
+		(('VER:pper', 'finir'), 1)
+		(('NUM', 'un'), 1)
+		(('NOM', 'incomplet'), 1)
+		(('NUM', 'deuxième'), 1)
+		(('ADV', 'même'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'maman'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'gigot'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5714285714285714
+
+	Score BLEU : 0.0439946167182696
+
+	Précision : 0.6610169491525424
+
+	Rappel : 0.203125
+
+	F-mesure : 0.3107569721115538
+

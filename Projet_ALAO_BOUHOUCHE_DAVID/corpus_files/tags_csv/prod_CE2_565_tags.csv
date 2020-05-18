@@ -1,0 +1,64 @@
+Chaque	PRO:IND	chaque
+lundi	NOM	lundi
+Léon	NAM	Léon
+raconte	VER:pres	raconter
+leur	DET:POS	leur
+week-end	NOM	week-end
+mais	KON	mais
+le	DET:ART	le
+seul	ADJ	seul
+problème	NOM	problème
+c'	PRO:DEM	ce
+est	VER:pres	être
+que	KON	que
+chez	PRP	chez
+son	DET:POS	son
+papi	NOM	papi
+et	KON	et
+sa	DET:POS	son
+mamy	NOM	mamy
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passe	VER:pres	passer
+rien	ADV	rien
+du	PRP:det	du
+tout	NOM	tout
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+et	KON	et
+il	PRO:PER	il
+remange	VER:pres	remanger
+mais	KON	mais
+un	DET:ART	un
+jour	NOM	jour
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+est	VER:pres	être
+coupée	VER:pper	couper
+avec	PRP	avec
+un	DET:ART	un
+couteau	NOM	couteau
+<segmentation/>
+<unsure>
+ça	PRO:DEM	cela
+saigne	VER:pres	saigner
+</unsure>
+et	KON	et
+il	PRO:PER	il
+a	VER:pres	avoir
+raconté	VER:pper	raconter
+ça	PRO:DEM	cela
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+une	DET:ART	un
+bonne	ADJ	bon
+note	NOM	note
+.	SENT	.

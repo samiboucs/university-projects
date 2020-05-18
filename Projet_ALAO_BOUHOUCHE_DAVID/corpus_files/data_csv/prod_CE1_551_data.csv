@@ -1,0 +1,50 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_551
+
+Cette production contient : 
+
+	10 forme(s)/token(s)
+
+	10 mot(s)
+
+	2 hapax
+
+	38 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	0 phrase(s)
+
+	5 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Lundi : 1
+		Léon : 3
+		toujours : 1
+		des : 3
+		en : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NAM', 3)
+		('PRP:det', 3)
+		('PRO:PER', 2)
+		('NOM', 1)
+		('ADV', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NAM', 'Léon'), 3)
+		(('PRP:det', 'du'), 3)
+		(('PRO:PER', 'en'), 2)
+		(('NOM', 'lundi'), 1)
+		(('ADV', 'toujours'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5
+
+	Score BLEU : 2.1241771276457944e-18
+
+	Précision : 0.6
+
+	Rappel : 0.015625
+
+	F-mesure : 0.03045685279187817
+

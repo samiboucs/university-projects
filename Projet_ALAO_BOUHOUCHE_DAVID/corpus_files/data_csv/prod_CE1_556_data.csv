@@ -1,0 +1,174 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_556
+
+Cette production contient : 
+
+	128 forme(s)/token(s)
+
+	109 mot(s)
+
+	39 hapax
+
+	466 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	6 phrase(s)
+
+	Une moyenne de 18 mot(s) par phrase
+
+	62 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 3
+		devait : 1
+		raconter : 1
+		les : 2
+		dimanches : 2
+		Mais : 1
+		ne : 3
+		faisait : 2
+		rien : 5
+		Il : 1
+		allait : 1
+		chez : 1
+		ses : 1
+		grands-parents : 1
+		et : 3
+		il : 10
+		mange : 1
+		fait : 4
+		remange : 1
+		La : 1
+		première : 1
+		fois : 2
+		a : 5
+		eu : 4
+		faux : 1
+		la : 1
+		deuxième : 1
+		zéro : 1
+		Heureusement : 1
+		un : 2
+		dimanche : 3
+		sa : 2
+		mère : 1
+		se : 1
+		coupa : 1
+		le : 3
+		doigt : 1
+		en : 1
+		coupant : 1
+		rôti : 1
+		Le : 1
+		lendemain : 1
+		très : 1
+		bien : 1
+		comprit : 2
+		poussa : 1
+		petite : 1
+		soeur : 1
+		dans : 2
+		l' : 2
+		escalier : 2
+		autre : 1
+		mélangé : 1
+		produit : 1
+		de : 1
+		vaisselle : 1
+		lait : 2
+		heureusement : 1
+		son : 1
+		père : 2
+		| : 1
+		faillit : 3
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 24)
+		('VER:pres', 14)
+		('DET:ART', 12)
+		('ADV', 12)
+		('PRO:PER', 12)
+		('PUN:cit', 9)
+		('SENT', 6)
+		('PRP', 5)
+		('NUM', 5)
+		('VER:pper', 5)
+		('VER:impf', 4)
+		('KON', 4)
+		('DET:POS', 4)
+		('VER:simp', 4)
+		('NAM', 3)
+		('ADJ', 2)
+		('VER:infi', 1)
+		('VER:ppre', 1)
+		('PUN', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 11)
+		(('DET:ART', 'le'), 10)
+		(('PUN:cit', '"'), 9)
+		(('SENT', '.'), 6)
+		(('NOM', 'dimanche'), 5)
+		(('ADV', 'rien'), 5)
+		(('VER:pres', 'avoir'), 5)
+		(('DET:POS', 'son'), 4)
+		(('VER:pres', 'faire'), 4)
+		(('VER:pper', 'avoir'), 4)
+		(('NAM', 'Léon'), 3)
+		(('ADV', 'ne'), 3)
+		(('KON', 'et'), 3)
+		(('NUM', '@card@'), 3)
+		(('VER:pres', 'faillir'), 3)
+		(('VER:impf', 'faire'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('ADV', 'heureusement'), 2)
+		(('DET:ART', 'un'), 2)
+		(('VER:simp', 'comprendre'), 2)
+		(('PRP', 'dans'), 2)
+		(('NOM', 'escalier'), 2)
+		(('NOM', 'lait'), 2)
+		(('NOM', 'père'), 2)
+		(('VER:impf', 'devoir'), 1)
+		(('VER:infi', 'raconter'), 1)
+		(('KON', 'mais'), 1)
+		(('VER:impf', 'aller'), 1)
+		(('PRP', 'chez'), 1)
+		(('NOM', 'grands-parents'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'remanger'), 1)
+		(('NUM', 'premier'), 1)
+		(('NOM', 'fau|faux'), 1)
+		(('NUM', 'deuxième'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'mère'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:ppre', 'couper'), 1)
+		(('NOM', 'rôti'), 1)
+		(('NOM', 'lendemain'), 1)
+		(('ADV', 'très'), 1)
+		(('ADV', 'bien'), 1)
+		(('VER:simp', 'pousser'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PUN', '/'), 1)
+		(('ADJ', 'autre'), 1)
+		(('VER:pper', 'mélanger'), 1)
+		(('NOM', 'produit'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'vaisselle'), 1)
+		(('NOM', '|'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5688073394495413
+
+	Score BLEU : 0.06644705312459415
+
+	Précision : 0.6716417910447762
+
+	Rappel : 0.234375
+
+	F-mesure : 0.3474903474903475
+

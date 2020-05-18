@@ -1,0 +1,42 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_1052
+
+Cette production contient : 
+
+	4 forme(s)/token(s)
+
+	3 mot(s)
+
+	0 hapax
+
+	6 caractère(s)
+
+	Une moyenne de 2 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 3 mot(s) par phrase
+
+	1 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 3
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('PRO:PER', 3)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 3)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.3333333333333333
+
+	Score BLEU : 8.300611482938556e-45
+
+	Précision : 1.0
+
+	Rappel : 0.010416666666666666
+
+	F-mesure : 0.020618556701030927
+

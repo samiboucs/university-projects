@@ -1,0 +1,43 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_255
+
+Cette production contient : 
+
+	5 forme(s)/token(s)
+
+	5 mot(s)
+
+	1 hapax
+
+	33 caractère(s)
+
+	Une moyenne de 7 caractère(s) par mot
+
+	0 phrase(s)
+
+	3 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Lundi : 1
+		Léon : 2
+		rédactions : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 3)
+		('NAM', 2)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NAM', 'Léon'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('NOM', 'lundi'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6
+
+	Score BLEU : 2.655870879832294e-36
+
+	Précision : 0.3333333333333333
+
+	Rappel : 0.005208333333333333
+
+	F-mesure : 0.010256410256410256
+

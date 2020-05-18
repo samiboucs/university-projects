@@ -1,0 +1,69 @@
+Il	PRO:PER	il
+était	VER:impf	être
+une	DET:ART	un
+fois	NOM	foi|fois
+un	DET:ART	un
+enfant	NOM	enfant
+qui	PRO:REL	qui
+tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+devait	VER:impf	devoir
+raconter	VER:infi	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+mais	KON	mais
+tous	PRO:IND	tout
+les	DET:ART	le
+dimanches	NOM	dimanche
+il	PRO:PER	il
+ne	ADV	ne
+faisait	VER:impf	faire
+rien	ADV	rien
+.	SENT	.
+Mais	KON	mais
+un	DET:ART	un
+dimanche	NOM	dimanche
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+était	VER:impf	être
+coupé	VER:pper	couper
+un	DET:ART	un
+doigt	NOM	doigt
+<segmentation/>
+du	PRP:det	du
+coup	NOM	coup
+il	PRO:PER	il
+se	PRO:PER	se
+disait	VER:impf	dire
+<dialogue>
+-	PUN	-
+Mais	NAM	Mais
+s'	KON	si
+il	PRO:PER	il
+se	PRO:PER	se
+passe	VER:pres	passer
+tout	ADV	tout
+le	DET:ART	le
+<suggestion>
+temps	NOM	temps
+</suggestion>
+une	DET:ART	un
+chose	NOM	chose
+de	PRP	de
+grave	NOM	grave
+je	PRO:PER	je
+pourrai	VER:futu	pouvoir
+tout	ADV	tout
+le	DET:ART	le
+temps	NOM	temps
+<suggestion>
+avoir	VER:infi	avoir
+</suggestion>
+quelque	PRO:IND	quelque
+chose	NOM	chose
+à	PRP	à
+raconter	VER:infi	raconter
+.	SENT	.
+</dialogue>

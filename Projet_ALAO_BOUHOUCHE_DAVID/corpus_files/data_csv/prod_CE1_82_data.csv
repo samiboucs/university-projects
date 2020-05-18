@@ -1,0 +1,86 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_82
+
+Cette production contient : 
+
+	37 forme(s)/token(s)
+
+	36 mot(s)
+
+	11 hapax
+
+	170 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 36 mot(s) par phrase
+
+	20 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Le : 1
+		lundi : 3
+		Florentin : 2
+		a : 3
+		une : 1
+		rédaction : 2
+		le : 3
+		premier : 1
+		insuffisant : 2
+		deuxième : 1
+		il : 3
+		même : 1
+		eu : 1
+		un : 1
+		zéro : 2
+		dimanche : 1
+		rien : 5
+		encore : 1
+		mange : 1
+		remange : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 8)
+		('ADV', 7)
+		('DET:ART', 6)
+		('VER:pres', 5)
+		('PRO:PER', 3)
+		('NAM', 2)
+		('NUM', 2)
+		('ADJ', 2)
+		('VER:pper', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('ADV', 'rien'), 5)
+		(('DET:ART', 'le'), 4)
+		(('NOM', 'lundi'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('PRO:PER', 'il'), 3)
+		(('NAM', 'Florentin'), 2)
+		(('DET:ART', 'un'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('ADJ', 'insuffisant'), 2)
+		(('NOM', 'zéro'), 2)
+		(('NUM', 'premier'), 1)
+		(('NUM', 'deuxième'), 1)
+		(('ADV', 'même'), 1)
+		(('VER:pper', 'avoir'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('ADV', 'encore'), 1)
+		(('VER:pres', 'manger'), 1)
+		(('VER:pres', 'remanger'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5555555555555556
+
+	Score BLEU : 2.3760724868495336e-05
+
+	Précision : 0.6190476190476191
+
+	Rappel : 0.06770833333333333
+
+	F-mesure : 0.1220657276995305
+

@@ -1,0 +1,66 @@
+Lundi	NOM	lundi
+<omission type=""sujet""/>
+inonde	VER:pres	inonder
+l'	DET:ART	le
+appartement	NOM	appartement
+des	PRP:det	du
+voisins	NOM	voisin
+7	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+9	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+0	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+sur	PRP	sur
+le	DET:ART	le
+rebord	NOM	rebord
+de	PRP	de
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+en	PRP	en
+équilibre	NOM	équilibre
+<segmentation/>
+maman	NOM	maman
+s'	PRO:PER	se
+est	VER:pres	être
+coupé	VER:pper	couper
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+il	PRO:PER	il
+y	PRO:PER	y
+avait	VER:impf	avoir
+plein	ADJ	plein
+de	PRP	de
+sang	NOM	sang
+sur	PRP	sur
+la	DET:ART	le
+nappe	NOM	nappe
+.	SENT	.
+Dimanche	NOM	dimanche
+j'	PRO:PER	je
+ai	VER:pres	avoir
+poussé	VER:pper	pousser
+ma	DET:POS	mon
+soeur	NOM	sœur
+dans	PRP	dans
+l'	DET:ART	le
+escalier	NOM	escalier
+fracture	VER:pres	fracturer
+du	PRP:det	du
+crâne	NOM	crâne
+<omission type=""pronom""/>
+<omission type=""verbe""/>
+même	ADV	même
+eu	VER:pper	avoir
+9	NUM	@card@
+et	KON	et
+demi	ADJ	demi
+/	PUN	/
+10	NUM	@card@
+en	PRP	en
+rédaction	NOM	rédaction
+.	SENT	.

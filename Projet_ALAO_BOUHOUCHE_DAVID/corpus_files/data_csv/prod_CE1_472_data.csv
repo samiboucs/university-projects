@@ -1,0 +1,75 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_472
+
+Cette production contient : 
+
+	15 forme(s)/token(s)
+
+	14 mot(s)
+
+	14 hapax
+
+	60 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 14 mot(s) par phrase
+
+	14 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 1
+		l' : 1
+		histoire : 1
+		d' : 1
+		un : 1
+		petit : 1
+		garçon : 1
+		qui : 1
+		était : 1
+		tous : 1
+		les : 1
+		dimanches : 1
+		pauvre : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('DET:ART', 3)
+		('NOM', 3)
+		('ADJ', 2)
+		('PRO:DEM', 1)
+		('VER:pres', 1)
+		('PRP', 1)
+		('PRO:REL', 1)
+		('VER:impf', 1)
+		('PRO:IND', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 2)
+		(('PRO:DEM', 'ce'), 1)
+		(('VER:pres', 'être'), 1)
+		(('NOM', 'histoire'), 1)
+		(('PRP', 'de'), 1)
+		(('DET:ART', 'un'), 1)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:impf', 'être'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('ADJ', 'pauvre'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 1.0
+
+	Score BLEU : 1.220274085705462e-12
+
+	Précision : 0.3333333333333333
+
+	Rappel : 0.026041666666666668
+
+	F-mesure : 0.04830917874396135
+

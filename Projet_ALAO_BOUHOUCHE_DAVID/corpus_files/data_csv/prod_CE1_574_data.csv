@@ -1,0 +1,141 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_574
+
+Cette production contient : 
+
+	63 forme(s)/token(s)
+
+	59 mot(s)
+
+	34 hapax
+
+	237 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 15 mot(s) par phrase
+
+	46 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		était : 2
+		une : 2
+		fois : 2
+		un : 2
+		petit : 1
+		garçon : 2
+		qui : 1
+		avait : 2
+		fait : 3
+		tomber : 1
+		pot : 1
+		de : 1
+		fleurs : 1
+		sur : 1
+		sa : 1
+		maitresse : 1
+		Alors : 1
+		la : 2
+		remplaçante : 2
+		est : 1
+		venue : 1
+		à : 1
+		l' : 1
+		école : 1
+		Et : 2
+		a : 1
+		raconté : 1
+		pourquoi : 1
+		elle : 1
+		n' : 1
+		pas : 1
+		là : 1
+		après : 2
+		ils : 1
+		se : 1
+		mettent : 2
+		au : 1
+		travail : 1
+		et : 1
+		le : 1
+		il : 1
+		adore : 1
+		ce : 1
+		qu' : 1
+		on : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 11)
+		('DET:ART', 8)
+		('PRO:PER', 6)
+		('VER:pres', 6)
+		('ADV', 5)
+		('KON', 5)
+		('VER:impf', 4)
+		('VER:pper', 4)
+		('SENT', 4)
+		('PRP', 3)
+		('PRO:REL', 2)
+		('ADJ', 1)
+		('VER:infi', 1)
+		('DET:POS', 1)
+		('PRP:det', 1)
+		('PRO:DEM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'un'), 4)
+		(('SENT', '.'), 4)
+		(('DET:ART', 'le'), 4)
+		(('PRO:PER', 'il'), 3)
+		(('KON', 'et'), 3)
+		(('VER:impf', 'être'), 2)
+		(('NOM', 'foi|fois'), 2)
+		(('NOM', 'garçon'), 2)
+		(('VER:impf', 'avoir'), 2)
+		(('VER:pper', 'faire'), 2)
+		(('NOM', 'remplaçant'), 2)
+		(('KON', 'après'), 2)
+		(('VER:pres', 'mettre'), 2)
+		(('ADJ', 'petit'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('VER:infi', 'tomber'), 1)
+		(('NOM', 'pot'), 1)
+		(('PRP', 'de'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'sur'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('ADV', 'alors'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'venir'), 1)
+		(('PRP', 'à'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('VER:pper', 'raconter'), 1)
+		(('ADV', 'pourquoi'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'pas'), 1)
+		(('ADV', 'là'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('PRP:det', 'au'), 1)
+		(('NOM', 'travail'), 1)
+		(('VER:pres', 'adorer'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('PRO:PER', 'on'), 1)
+		(('VER:pres', 'faire'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7796610169491526
+
+	Score BLEU : 0.0022524806187695866
+
+	Précision : 0.5531914893617021
+
+	Rappel : 0.13541666666666666
+
+	F-mesure : 0.21757322175732216
+

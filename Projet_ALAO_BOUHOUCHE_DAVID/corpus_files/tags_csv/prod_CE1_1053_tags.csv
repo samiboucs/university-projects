@@ -1,0 +1,53 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+lundis	NOM	lundi
+c'	PRO:DEM	ce
+était	VER:impf	être
+pareil	ADV	pareil
+<segmentation/>
+c'	PRO:DEM	ce
+était	VER:impf	être
+énervant	VER:ppre	énerver
+pour	PRP	pour
+Léon	NAM	Léon
+<segmentation/>
+il	PRO:PER	il
+devait	VER:impf	devoir
+raconter	VER:infi	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+mais	KON	mais
+le	DET:ART	le
+problème	NOM	problème
+<suggestion>
+c'	PRO:DEM	ce
+est	VER:pres	être
+que	KON	que
+</suggestion>
+chez	PRP	chez
+Léon	NAM	Léon
+il	PRO:PER	il
+ne	ADV	ne
+se	PRO:PER	se
+passait	VER:impf	passer
+rien	ADV	rien
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+en	PRP	en
+coupant	VER:ppre	couper
+la	DET:ART	le
+dinde	NOM	dinde
+elle	PRO:PER	elle
+se	PRO:PER	se
+trancha	VER:simp	trancher
+le	DET:ART	le
+doigt	NOM	doigt
+puis	ADV	puis
+le	DET:ART	le
+lendemain	NOM	lendemain
+il	PRO:PER	il
+eut	VER:simp	avoir
+9	NUM	@card@
+/	PUN	/
+10.	INT	@ord@

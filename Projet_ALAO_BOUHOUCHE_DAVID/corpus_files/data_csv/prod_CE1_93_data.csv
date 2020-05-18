@@ -1,0 +1,134 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_93
+
+Cette production contient : 
+
+	60 forme(s)/token(s)
+
+	56 mot(s)
+
+	30 hapax
+
+	225 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	3 phrase(s)
+
+	Une moyenne de 19 mot(s) par phrase
+
+	42 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 2
+		l' : 1
+		histoire : 1
+		des : 2
+		enfants : 1
+		et : 2
+		d' : 1
+		une : 1
+		maitresse : 1
+		Il : 1
+		y : 1
+		a : 1
+		quelqu'un : 1
+		qui : 2
+		faisait : 2
+		plein : 1
+		de : 3
+		choses : 1
+		bêtises : 1
+		malheurs : 1
+		à : 2
+		tout : 1
+		le : 3
+		monde : 2
+		ça : 1
+		ne : 1
+		marchait : 1
+		jamais : 1
+		Ce : 1
+		dimanche : 1
+		elle : 1
+		s' : 1
+		coupé : 1
+		doigt : 2
+		sang : 1
+		coulait : 2
+		la : 2
+		fin : 1
+		il : 1
+		fait : 1
+		grammaire : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 14)
+		('DET:ART', 7)
+		('PRP', 6)
+		('PRO:PER', 5)
+		('VER:impf', 5)
+		('VER:pres', 4)
+		('PRO:DEM', 3)
+		('SENT', 3)
+		('PRP:det', 2)
+		('KON', 2)
+		('PRO:IND', 2)
+		('PRO:REL', 2)
+		('ADV', 2)
+		('ADJ', 1)
+		('PUN', 1)
+		('VER:pper', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 6)
+		(('PRP', 'de'), 4)
+		(('SENT', '.'), 3)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRP:det', 'du'), 2)
+		(('KON', 'et'), 2)
+		(('PRO:PER', 'il'), 2)
+		(('PRO:REL', 'qui'), 2)
+		(('VER:impf', 'faire'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'monde'), 2)
+		(('NOM', 'doigt'), 2)
+		(('VER:impf', 'couler'), 2)
+		(('NOM', 'histoire'), 1)
+		(('NOM', 'enfant'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('PRO:PER', 'y'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('PRO:IND', "quelqu'un"), 1)
+		(('ADJ', 'plein'), 1)
+		(('NOM', 'chose'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('PUN', ','), 1)
+		(('NOM', 'malheur'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('PRO:DEM', 'cela'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:impf', 'marcher'), 1)
+		(('ADV', 'jamais'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'sang'), 1)
+		(('NOM', 'fin'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('NOM', 'grammaire'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.75
+
+	Score BLEU : 0.001512954842322731
+
+	Précision : 0.5
+
+	Rappel : 0.11458333333333333
+
+	F-mesure : 0.18644067796610167
+

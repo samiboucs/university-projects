@@ -1,0 +1,177 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_105
+
+Cette production contient : 
+
+	130 forme(s)/token(s)
+
+	129 mot(s)
+
+	33 hapax
+
+	504 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	0 phrase(s)
+
+	63 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léo : 1
+		avait : 4
+		eu : 4
+		un : 5
+		zéro : 1
+		en : 2
+		rédaction : 2
+		sa : 2
+		maman : 1
+		s' : 1
+		était : 5
+		coupé : 1
+		le : 2
+		doigt : 1
+		et : 5
+		il : 16
+		a : 4
+		huit : 2
+		ensuite : 1
+		poussé : 1
+		soeur : 1
+		neuf : 2
+		elle : 1
+		mis : 1
+		de : 2
+		la : 3
+		poudre : 1
+		dans : 1
+		quelque : 3
+		chose : 5
+		demi : 2
+		pense : 1
+		à : 2
+		une : 2
+		bien : 2
+		trouvé : 2
+		va : 4
+		faire : 2
+		tenir : 1
+		équilibre : 1
+		pot : 1
+		fleurs : 2
+		est : 1
+		comme : 1
+		souhaitait : 1
+		mais : 1
+		malheureusement : 1
+		aux : 1
+		toilettes : 2
+		voir : 1
+		par : 1
+		fenêtre : 2
+		vu : 1
+		l' : 2
+		ambulance : 2
+		voit : 1
+		que : 1
+		victime : 1
+		femme : 2
+		demain : 1
+		école : 1
+		rentre : 1
+		c' : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 30)
+		('PRO:PER', 19)
+		('VER:pres', 12)
+		('DET:ART', 11)
+		('VER:impf', 10)
+		('VER:pper', 10)
+		('PRP', 8)
+		('ADV', 8)
+		('KON', 7)
+		('VER:infi', 4)
+		('NUM', 3)
+		('PRO:IND', 3)
+		('DET:POS', 2)
+		('NAM', 1)
+		('PRP:det', 1)
+		('PRO:DEM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 16)
+		(('DET:ART', 'le'), 6)
+		(('DET:ART', 'un'), 5)
+		(('VER:impf', 'être'), 5)
+		(('KON', 'et'), 5)
+		(('NOM', 'chose'), 5)
+		(('VER:impf', 'avoir'), 4)
+		(('VER:pper', 'avoir'), 4)
+		(('VER:pres', 'avoir'), 4)
+		(('VER:pres', 'aller'), 4)
+		(('PRO:IND', 'quelque'), 3)
+		(('PRP', 'en'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('NOM', 'un'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NUM', 'huit'), 2)
+		(('NOM', 'neuf'), 2)
+		(('PRP', 'de'), 2)
+		(('ADV', 'demi'), 2)
+		(('PRP', 'à'), 2)
+		(('ADV', 'bien'), 2)
+		(('VER:pper', 'trouver'), 2)
+		(('VER:infi', 'faire'), 2)
+		(('NOM', 'fleur'), 2)
+		(('NOM', 'toilette'), 2)
+		(('NOM', 'fenêtre'), 2)
+		(('NOM', 'ambulance'), 2)
+		(('NOM', 'femme'), 2)
+		(('NAM', 'Léo'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('ADV', 'ensuite'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pper', 'mettre'), 1)
+		(('NOM', 'poudre'), 1)
+		(('PRP', 'dans'), 1)
+		(('NUM', '@card@'), 1)
+		(('VER:pres', 'penser'), 1)
+		(('VER:infi', 'tenir'), 1)
+		(('NOM', 'équilibre'), 1)
+		(('NOM', 'pot'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADV', 'comme'), 1)
+		(('PRO:PER', 'le'), 1)
+		(('VER:impf', 'souhaiter'), 1)
+		(('KON', 'mais'), 1)
+		(('ADV', 'malheureusement'), 1)
+		(('PRP:det', 'au'), 1)
+		(('VER:infi', 'voir'), 1)
+		(('PRP', 'par'), 1)
+		(('VER:pper', 'voir'), 1)
+		(('VER:pres', 'voir'), 1)
+		(('KON', 'que'), 1)
+		(('NOM', 'victime'), 1)
+		(('ADV', 'demain'), 1)
+		(('NOM', 'école'), 1)
+		(('VER:pres', 'rentrer'), 1)
+		(('PRO:DEM', 'ce'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.4883720930232558
+
+	Score BLEU : 0.06337405507377666
+
+	Précision : 0.484375
+
+	Rappel : 0.16145833333333334
+
+	F-mesure : 0.2421875
+

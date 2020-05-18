@@ -1,0 +1,59 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_547
+
+Cette production contient : 
+
+	10 forme(s)/token(s)
+
+	9 mot(s)
+
+	6 hapax
+
+	41 caractère(s)
+
+	Une moyenne de 5 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 9 mot(s) par phrase
+
+	7 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Ce : 1
+		matin : 3
+		Léon : 1
+		raconte : 1
+		sa : 1
+		rédaction : 1
+		Du : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 4)
+		('PRO:DEM', 1)
+		('NAM', 1)
+		('VER:pres', 1)
+		('DET:POS', 1)
+		('SENT', 1)
+		('PRP:det', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('NOM', 'matin'), 3)
+		(('PRO:DEM', 'ce'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'raconter'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('SENT', '.'), 1)
+		(('PRP:det', 'du'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.7777777777777778
+
+	Score BLEU : 2.1241771276457944e-18
+
+	Précision : 0.625
+
+	Rappel : 0.026041666666666668
+
+	F-mesure : 0.05
+

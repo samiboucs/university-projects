@@ -1,0 +1,37 @@
+Lundi	NOM	lundi
+Léon	NAM	Léon
+a	VER:pres	avoir
+rédaction	NOM	rédaction
+,	PUN	,
+dimanche	NOM	dimanche
+Léon	NAM	Léon
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+va	VER:pres	aller
+manger	VER:infi	manger
+chez	PRP	chez
+son	DET:POS	son
+papi	NOM	papi
+et	KON	et
+sa	DET:POS	son
+mamie	NOM	mamie
+<segmentation/>
+Léon	NAM	Léon
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+.	SENT	.
+Un	DET:ART	un
+lundi	NOM	lundi
+à	PRP	à
+la	DET:ART	le
+rédaction	NOM	rédaction
+il	PRO:PER	il
+a	VER:pres	avoir
+zéro	NOM	zéro
+sur	PRP	sur
+dix	NUM	dix
+.	SENT	.

@@ -1,0 +1,126 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_1016
+
+Cette production contient : 
+
+	65 forme(s)/token(s)
+
+	51 mot(s)
+
+	24 hapax
+
+	185 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 51 mot(s) par phrase
+
+	35 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Chaque : 1
+		lundi : 1
+		Léon : 1
+		doit : 1
+		faire : 2
+		une : 1
+		rédaction : 1
+		il : 4
+		ne : 1
+		sait : 1
+		pas : 1
+		quoi : 1
+		un : 3
+		jour : 1
+		sa : 1
+		maman : 1
+		s' : 1
+		est : 1
+		coupé : 1
+		le : 3
+		doigt : 1
+		lendemain : 2
+		a : 2
+		eu : 2
+		et : 3
+		dimanche : 1
+		mit : 1
+		pot : 1
+		de : 2
+		fleurs : 2
+		tomba : 1
+		sur : 1
+		la : 2
+		tête : 1
+		maitresse : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 13)
+		('DET:ART', 9)
+		('PUN', 8)
+		('VER:pres', 5)
+		('PRO:PER', 5)
+		('NUM', 5)
+		('VER:pper', 3)
+		('KON', 3)
+		('PRP', 3)
+		('VER:infi', 2)
+		('ADV', 2)
+		('VER:simp', 2)
+		('PRO:IND', 1)
+		('NAM', 1)
+		('PRO:REL', 1)
+		('DET:POS', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PUN', ','), 6)
+		(('DET:ART', 'le'), 5)
+		(('NUM', '@card@'), 5)
+		(('DET:ART', 'un'), 4)
+		(('PRO:PER', 'il'), 4)
+		(('KON', 'et'), 3)
+		(('VER:infi', 'faire'), 2)
+		(('NOM', 'lendemain'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('PUN', '/'), 2)
+		(('PRP', 'de'), 2)
+		(('NOM', 'fleur'), 2)
+		(('PRO:IND', 'chaque'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NAM', 'Léon'), 1)
+		(('VER:pres', 'devoir'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('ADV', 'ne'), 1)
+		(('VER:pres', 'savoir'), 1)
+		(('ADV', 'pas'), 1)
+		(('PRO:REL', 'quoi'), 1)
+		(('NOM', 'jour'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'maman'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pres', 'être'), 1)
+		(('VER:pper', 'couper'), 1)
+		(('NOM', 'doigt'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'tête'), 1)
+		(('NOM', 'maitresse'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6862745098039216
+
+	Score BLEU : 0.003429238384423377
+
+	Précision : 0.6190476190476191
+
+	Rappel : 0.13541666666666666
+
+	F-mesure : 0.2222222222222222
+

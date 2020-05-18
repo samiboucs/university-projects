@@ -1,0 +1,64 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_81
+
+Cette production contient : 
+
+	12 forme(s)/token(s)
+
+	11 mot(s)
+
+	9 hapax
+
+	45 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 11 mot(s) par phrase
+
+	10 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Tous : 1
+		les : 1
+		dimanches : 1
+		il : 1
+		ne : 1
+		se : 1
+		passait : 1
+		rien : 1
+		Le : 1
+		lundi : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 3)
+		('DET:ART', 2)
+		('PRO:PER', 2)
+		('ADV', 2)
+		('PRO:IND', 1)
+		('VER:impf', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 2)
+		(('NOM', 'lundi'), 2)
+		(('PRO:IND', 'tout'), 1)
+		(('NOM', 'dimanche'), 1)
+		(('PRO:PER', 'il'), 1)
+		(('ADV', 'ne'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:impf', 'passer'), 1)
+		(('ADV', 'rien'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.9090909090909091
+
+	Score BLEU : 2.9577464851320875e-15
+
+	Précision : 0.8181818181818182
+
+	Rappel : 0.046875
+
+	F-mesure : 0.08866995073891626
+

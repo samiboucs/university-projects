@@ -1,0 +1,49 @@
+Un	DET:ART	un
+garçon	NOM	garçon
+,	PUN	,
+une	DET:ART	un
+maman	NOM	maman
+,	PUN	,
+un	DET:ART	un
+papa	NOM	papa
+et	KON	et
+une	DET:ART	un
+soeur	NOM	sœur
+<segmentation/>
+le	DET:ART	le
+garçon	NOM	garçon
+il	PRO:PER	il
+embêtait	VER:impf	embêter
+sa	DET:POS	son
+famille	NOM	famille
+<segmentation/>
+il	PRO:PER	il
+criait	VER:impf	crier
+pour	PRP	pour
+dire	VER:infi	dire
+que	KON	que
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+lui	PRO:PER	lui
+<segmentation/>
+il	PRO:PER	il
+dit	VER:pres	dire
+que	KON	que
+c'	PRO:DEM	ce
+est	VER:pres	être
+sa	DET:POS	son
+soeur	NOM	sœur
+.	SENT	.
+Et	KON	et
+le	DET:ART	le
+garçon	NOM	garçon
+va	VER:pres	aller
+faire	VER:infi	faire
+une	DET:ART	un
+bêtise	NOM	bêtise
+et	KON	et
+la	PRO:PER	la
+ma	DET:POS	mon
+<nonfini/>

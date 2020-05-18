@@ -1,0 +1,77 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_1052
+
+Cette production contient : 
+
+	21 forme(s)/token(s)
+
+	20 mot(s)
+
+	13 hapax
+
+	70 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 20 mot(s) par phrase
+
+	16 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Il : 1
+		a : 3
+		renversé : 1
+		le : 1
+		pot : 1
+		sur : 1
+		la : 1
+		maîtresse : 1
+		et : 2
+		il : 2
+		poussé : 1
+		son : 1
+		frère : 1
+		fait : 1
+		une : 1
+		rédaction : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 4)
+		('PRO:PER', 3)
+		('VER:pres', 3)
+		('VER:pper', 3)
+		('DET:ART', 3)
+		('KON', 2)
+		('PRP', 1)
+		('DET:POS', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('DET:ART', 'le'), 2)
+		(('KON', 'et'), 2)
+		(('VER:pper', 'renverser'), 1)
+		(('NOM', 'pot'), 1)
+		(('PRP', 'sur'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pper', 'pousser'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'frère'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('DET:ART', 'un'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.8
+
+	Score BLEU : 6.4429343227068605e-09
+
+	Précision : 0.7647058823529411
+
+	Rappel : 0.06770833333333333
+
+	F-mesure : 0.12440191387559808
+

@@ -1,0 +1,36 @@
+Georges	NAM	Georges
+devait	VER:impf	devoir
+raconter	VER:infi	raconter
+son	DET:POS	son
+dimanche	NOM	dimanche
+<segmentation/>
+il	PRO:PER	il
+disait	VER:impf	dire
+<dialogue>
+«	PUN:cit	«
+Je	PRO:PER	je
+ne	ADV	ne
+faisais	VER:impf	faire
+rien	ADV	rien
+<segmentation/>
+après	KON	après
+je	PRO:PER	je
+mangeais	VER:impf	manger
+<segmentation/>
+après	KON	après
+je	PRO:PER	je
+ne	ADV	ne
+fais	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+après	KON	après
+je	PRO:PER	je
+mange	VER:pres	manger
+,	PUN	,
+après	KON	après
+c'	PRO:DEM	ce
+est	VER:pres	être
+fini	VER:pper	finir
+.	SENT	.
+»	PUN:cit	»
+</dialogue>

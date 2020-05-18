@@ -1,0 +1,164 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_492
+
+Cette production contient : 
+
+	105 forme(s)/token(s)
+
+	90 mot(s)
+
+	36 hapax
+
+	352 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 90 mot(s) par phrase
+
+	55 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		C' : 1
+		est : 2
+		l' : 3
+		histoire : 2
+		d' : 1
+		un : 4
+		petit : 1
+		garçon : 1
+		qui : 1
+		tous : 1
+		les : 1
+		lundis : 1
+		fait : 2
+		de : 2
+		la : 2
+		rédaction : 1
+		il : 9
+		doit : 2
+		trouver : 1
+		une : 3
+		vraie : 1
+		qu' : 3
+		pendant : 1
+		le : 3
+		samedi : 1
+		et : 4
+		dimanche : 3
+		lundi : 1
+		écrire : 1
+		ce : 1
+		s' : 1
+		passé : 1
+		première : 1
+		fois : 1
+		a : 2
+		eu : 2
+		pousse : 1
+		sa : 1
+		soeur : 1
+		dans : 1
+		escalier : 1
+		elle : 1
+		va : 1
+		à : 1
+		hôpital : 2
+		met : 1
+		pot : 1
+		fleurs : 1
+		en : 1
+		équilibre : 2
+		espérait : 1
+		personne : 1
+		passe : 2
+		dessous : 1
+		dame : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 21)
+		('DET:ART', 16)
+		('VER:pres', 12)
+		('PRO:PER', 11)
+		('PUN', 10)
+		('PRP', 7)
+		('KON', 5)
+		('NUM', 5)
+		('VER:pper', 4)
+		('PRO:REL', 3)
+		('PRO:DEM', 2)
+		('ADJ', 2)
+		('VER:infi', 2)
+		('PRO:IND', 1)
+		('DET:POS', 1)
+		('VER:impf', 1)
+		('ADV', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 9)
+		(('PRO:PER', 'il'), 9)
+		(('PUN', ','), 8)
+		(('DET:ART', 'un'), 7)
+		(('KON', 'et'), 4)
+		(('NUM', '@card@'), 4)
+		(('PRP', 'de'), 3)
+		(('NOM', 'dimanche'), 3)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('NOM', 'histoire'), 2)
+		(('NOM', 'lundi'), 2)
+		(('VER:pres', 'devoir'), 2)
+		(('PRO:REL', 'que'), 2)
+		(('VER:pres', 'avoir'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('PUN', '/'), 2)
+		(('NOM', 'hôpital'), 2)
+		(('NOM', 'équilibre'), 2)
+		(('VER:pres', 'passer'), 2)
+		(('ADJ', 'petit'), 1)
+		(('NOM', 'garçon'), 1)
+		(('PRO:REL', 'qui'), 1)
+		(('PRO:IND', 'tout'), 1)
+		(('VER:pper', 'faire'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('VER:infi', 'trouver'), 1)
+		(('ADJ', 'vrai'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('PRP', 'pendant'), 1)
+		(('NOM', 'samedi'), 1)
+		(('VER:infi', 'écrire'), 1)
+		(('PRO:PER', 'se'), 1)
+		(('VER:pper', 'passer'), 1)
+		(('NUM', 'premier'), 1)
+		(('NOM', 'foi|fois'), 1)
+		(('VER:pres', 'pousser'), 1)
+		(('DET:POS', 'son'), 1)
+		(('NOM', 'sœur'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'escalier'), 1)
+		(('PRO:PER', 'elle'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('PRP', 'à'), 1)
+		(('VER:pres', 'mettre'), 1)
+		(('NOM', 'pot'), 1)
+		(('NOM', 'fleur'), 1)
+		(('PRP', 'en'), 1)
+		(('VER:impf', 'espérer'), 1)
+		(('KON', 'que'), 1)
+		(('NOM', 'personne'), 1)
+		(('ADV', 'dessous'), 1)
+		(('NOM', 'dame'), 1)
+		(('SENT', '.'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6111111111111112
+
+	Score BLEU : 0.03233555533282461
+
+	Précision : 0.5081967213114754
+
+	Rappel : 0.16145833333333334
+
+	F-mesure : 0.24505928853754944
+

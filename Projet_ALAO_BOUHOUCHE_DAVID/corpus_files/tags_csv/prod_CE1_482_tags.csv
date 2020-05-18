@@ -1,0 +1,118 @@
+C'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+histoire	NOM	histoire
+d'	PRP	de
+un	DET:ART	un
+petit	ADJ	petit
+garçon	NOM	garçon
+qui	PRO:REL	qui
+fait	VER:pres	faire
+sa	DET:POS	son
+rédaction	NOM	rédaction
+<segmentation/>
+dring	NOM	dring
+dring	NOM	dring
+<segmentation/>
+la	DET:ART	le
+cloche	NOM	cloche
+sonne	VER:pres	sonner
+<segmentation/>
+tous	PRO:IND	tout
+les	DET:ART	le
+enfants	NOM	enfant
+partent	VER:pres	partir
+dans	PRP	dans
+la	DET:ART	le
+cour	NOM	cour
+<segmentation/>
+dring	INT	dring
+dring	NOM	dring
+<segmentation/>
+l'	DET:ART	le
+autre	ADJ	autre
+cloche	NOM	cloche
+sonne	VER:pres	sonner
+<incomprehensible/>
+<segmentation/>
+<omission type=""sujet""/>
+<omission type=""verbe""/>
+0	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+<segmentation/>
+oh	INT	oh
+non	ADV	non
+<segmentation/>
+la	DET:ART	le
+cloche	NOM	cloche
+de	PRP	de
+la	DET:ART	le
+cantine	NOM	cantine
+sonne	VER:pres	sonner
+<segmentation/>
+ils	PRO:PER	il
+leur	PRO:PER	lui
+<omission type=""verbe""/>
+d'	PRP	de
+aller	VER:infi	aller
+manger	VER:infi	manger
+<segmentation/>
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+rentre	VER:pres	rentrer
+à	PRP	à
+la	DET:ART	le
+maison	NOM	maison
+et	KON	et
+voit	VER:pres	voir
+sa	DET:POS	son
+mère	NOM	mère
+avec	PRP	avec
+son	DET:POS	son
+doigt	NOM	doigt
+enlevé	VER:pper	enlever
+mais	KON	mais
+c'	PRO:DEM	ce
+est	VER:pres	être
+parfait	ADJ	parfait
+pour	PRP	pour
+ma	DET:POS	mon
+rédaction	NOM	rédaction
+<segmentation/>
+le	DET:ART	le
+lendemain	NOM	lendemain
+matin	NOM	matin
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+s'	PRO:PER	se
+assoit	VER:pres	asseoir
+sur	PRP	sur
+sa	DET:POS	son
+chaise	NOM	chaise
+et	KON	et
+la	DET:ART	le
+maitresse	NOM	maitresse
+distribue	VER:pres	distribuer
+la	DET:ART	le
+nouvelle	ADJ	nouveau
+rédaction	NOM	rédaction
+<segmentation/>
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+a	VER:pres	avoir
+10	NUM	@card@
+/	PUN	/
+10	NUM	@card@
+!	SENT	!
+Dit	VER:pres	dire
+le	DET:ART	le
+petit	ADJ	petit
+garçon	NOM	garçon
+en	PRP	en
+souriant	VER:ppre	sourire
+.	SENT	.
+FIN	NOM	fin

@@ -1,0 +1,215 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE2_545
+
+Cette production contient : 
+
+	156 forme(s)/token(s)
+
+	147 mot(s)
+
+	49 hapax
+
+	573 caractère(s)
+
+	Une moyenne de 4 caractère(s) par mot
+
+	4 phrase(s)
+
+	Une moyenne de 37 mot(s) par phrase
+
+	82 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		À : 2
+		l' : 5
+		école : 4
+		on : 1
+		ne : 1
+		fait : 1
+		que : 2
+		des : 2
+		rédactions : 2
+		Léon : 3
+		n' : 1
+		a : 1
+		zéros : 1
+		sur : 5
+		dix : 4
+		un : 5
+		jour : 2
+		sa : 2
+		mère : 1
+		se : 1
+		coupa : 1
+		le : 1
+		doigt : 2
+		il : 10
+		y : 2
+		avait : 3
+		du : 2
+		sang : 1
+		de : 2
+		partout : 1
+		la : 6
+		nappe : 2
+		arrivé : 4
+		à : 2
+		raconta : 1
+		son : 2
+		histoire : 2
+		eut : 3
+		bravo : 1
+		alors : 1
+		maison : 2
+		bouscula : 1
+		soeur : 2
+		hôpital : 1
+		est : 1
+		neuf : 1
+		Il : 1
+		sept : 1
+		quand : 1
+		failli : 1
+		empoisonner : 1
+		père : 1
+		en : 3
+		mettant : 1
+		sel : 1
+		dans : 1
+		boîte : 1
+		lait : 1
+		poudre : 1
+		Un : 1
+		mit : 1
+		vase : 1
+		fenêtre : 1
+		espérant : 1
+		qu' : 1
+		tombe : 1
+		et : 1
+		tomba : 1
+		mais : 1
+		était : 3
+		aux : 1
+		WC : 2
+		entendit : 1
+		ambulance : 2
+		c' : 1
+		une : 2
+		femme : 1
+		remplaçante : 2
+		maîtresse : 1
+		s' : 1
+		cassé : 1
+		tête : 1
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 36)
+		('DET:ART', 19)
+		('PRO:PER', 16)
+		('PRP', 15)
+		('VER:simp', 9)
+		('ADV', 6)
+		('NUM', 6)
+		('VER:impf', 6)
+		('VER:pper', 6)
+		('PRP:det', 5)
+		('NAM', 5)
+		('PUN:cit', 5)
+		('VER:pres', 4)
+		('DET:POS', 4)
+		('SENT', 4)
+		('KON', 4)
+		('VER:ppre', 2)
+		('INT', 1)
+		('ADJ', 1)
+		('VER:infi', 1)
+		('PRO:DEM', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'le'), 12)
+		(('PRO:PER', 'il'), 11)
+		(('DET:ART', 'un'), 7)
+		(('PRP', 'sur'), 5)
+		(('PUN:cit', '"'), 5)
+		(('PRP', 'à'), 4)
+		(('NOM', 'école'), 4)
+		(('PRP:det', 'du'), 4)
+		(('NUM', 'dix'), 4)
+		(('DET:POS', 'son'), 4)
+		(('VER:pper', 'arriver'), 4)
+		(('SENT', '.'), 4)
+		(('NAM', 'Léon'), 3)
+		(('VER:impf', 'avoir'), 3)
+		(('VER:simp', 'avoir'), 3)
+		(('PRP', 'en'), 3)
+		(('VER:impf', 'être'), 3)
+		(('ADV', 'ne'), 2)
+		(('ADV', 'que'), 2)
+		(('NOM', 'rédaction'), 2)
+		(('NOM', 'jour'), 2)
+		(('PRO:PER', 'se'), 2)
+		(('NOM', 'doigt'), 2)
+		(('PRO:PER', 'y'), 2)
+		(('PRP', 'de'), 2)
+		(('NOM', 'nappe'), 2)
+		(('NOM', 'histoire'), 2)
+		(('NOM', 'maison'), 2)
+		(('NOM', 'sœur'), 2)
+		(('NAM', 'WC'), 2)
+		(('NOM', 'ambulance'), 2)
+		(('NOM', 'remplaçant'), 2)
+		(('PRO:PER', 'on'), 1)
+		(('VER:pres', 'faire'), 1)
+		(('VER:pres', 'avoir'), 1)
+		(('NOM', 'zéro'), 1)
+		(('NOM', 'mère'), 1)
+		(('VER:simp', 'couper'), 1)
+		(('NOM', 'sang'), 1)
+		(('ADV', 'partout'), 1)
+		(('VER:simp', 'raconter'), 1)
+		(('NUM', 'un'), 1)
+		(('INT', 'bravo'), 1)
+		(('ADV', 'alors'), 1)
+		(('VER:simp', 'bousculer'), 1)
+		(('NOM', 'hôpital'), 1)
+		(('VER:pres', 'être'), 1)
+		(('ADJ', 'neuf'), 1)
+		(('NUM', 'sept'), 1)
+		(('KON', 'quand'), 1)
+		(('VER:pper', 'faillir'), 1)
+		(('VER:infi', 'empoisonner'), 1)
+		(('NOM', 'père'), 1)
+		(('VER:ppre', 'mettre'), 1)
+		(('NOM', 'sel'), 1)
+		(('PRP', 'dans'), 1)
+		(('NOM', 'boîte'), 1)
+		(('NOM', 'lait'), 1)
+		(('NOM', 'poudre'), 1)
+		(('VER:simp', 'mettre'), 1)
+		(('NOM', 'vase'), 1)
+		(('NOM', 'fenêtre'), 1)
+		(('VER:ppre', 'espérer'), 1)
+		(('KON', 'que'), 1)
+		(('VER:pres', 'tomber'), 1)
+		(('KON', 'et'), 1)
+		(('VER:simp', 'tomber'), 1)
+		(('KON', 'mais'), 1)
+		(('PRP:det', 'au'), 1)
+		(('VER:simp', 'entendre'), 1)
+		(('PRO:DEM', 'ce'), 1)
+		(('NOM', 'femme'), 1)
+		(('NOM', 'maître|maîtresse'), 1)
+		(('VER:pper', 'casser'), 1)
+		(('NOM', 'tête'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.5578231292517006
+
+	Score BLEU : 0.1119811454872248
+
+	Précision : 0.5952380952380952
+
+	Rappel : 0.2604166666666667
+
+	F-mesure : 0.3623188405797102
+

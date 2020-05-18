@@ -1,0 +1,85 @@
+Léon	NAM	Léon
+met	VER:pres	mettre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+et	KON	et
+le	PRO:PER	le
+fait	VER:pres	faire
+tomber	VER:infi	tomber
+<segmentation/>
+le	DET:ART	le
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+a	VER:pres	avoir
+atterri	VER:pper	atterrir
+sur	PRP	sur
+la	DET:ART	le
+maitresse	NOM	maitresse
+et	KON	et
+une	DET:ART	un
+nouvelle	ADJ	nouveau
+maitresse	NOM	maitresse
+<omission type=""segment""/>
+<segmentation/>
+Léon	NAM	Léon
+était	VER:impf	être
+aux	PRP:det	au
+toilettes	NOM	toilette
+et	KON	et
+le	DET:ART	le
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+est	VER:pres	être
+tombé	VER:pper	tomber
+sur	PRP	sur
+la	DET:ART	le
+maitresse	NOM	maitresse
+et	KON	et
+la	DET:ART	le
+maitresse	NOM	maitresse
+est	VER:pres	être
+à	PRP	à
+l'	DET:ART	le
+hôpital	NOM	hôpital
+et	KON	et
+Léon	NAM	Léon
+fait	VER:pres	faire
+tomber	VER:infi	tomber
+dans	PRP	dans
+l'	DET:ART	le
+escalier	NOM	escalier
+<omission type=""complément""/>
+et	KON	et
+Léon	NAM	Léon
+a	VER:pres	avoir
+fait	VER:pper	faire
+un	DET:ART	un
+<unsure>
+peu	ADV	peu
+de	PRP	de
+lait	NOM	lait
+</unsure>
+et	KON	et
+son	DET:POS	son
+père	NOM	père
+l'	PRO:PER	la|le
+a	VER:pres	avoir
+bu	VER:pper	boire
+<segmentation/>
+son	DET:POS	son
+père	NOM	père
+a	VER:pres	avoir
+failli	VER:pper	faillir
+mourir	VER:infi	mourir
+et	KON	et
+sa	DET:POS	son
+mère	NOM	mère
+est	VER:pres	être
+à	PRP	à
+l'	DET:ART	le
+hosto	NOM	hosto
+.	SENT	.

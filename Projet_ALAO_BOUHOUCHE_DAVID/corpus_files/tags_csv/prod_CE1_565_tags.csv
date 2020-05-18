@@ -1,0 +1,123 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+dimanches	NOM	dimanche
+c'	PRO:DEM	ce
+était	VER:impf	être
+pareil	ADV	pareil
+<segmentation/>
+il	PRO:PER	il
+<suggestion>
+n'	ADV	ne
+y	PRO:PER	y
+a	VER:pres	avoir
+|	ADJ	|
+ne	ADV	ne
+se	PRO:PER	se
+passe	VER:pres	passer
+</suggestion>
+rien	ADV	rien
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+il	PRO:PER	il
+raconte	VER:pres	raconter
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+s'	PRO:PER	se
+est	VER:pres	être
+passé	VER:pper	passer
+le	DET:ART	le
+dimanche	NOM	dimanche
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+raconté	VER:pper	raconter
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+<unsure>
+s'	PRO:PER	se
+est	VER:pres	être
+</unsure>
+passé	VER:pper	passer
+<segmentation/>
+la	DET:ART	le
+maitresse	NOM	maitresse
+a	VER:pres	avoir
+dit	VER:pper	dire
+<dialogue>
+«	PUN:cit	«
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+suffisant	ADJ	suffisant
+»	PUN:cit	»
+</dialogue>
+<segmentation/>
+alors	ADV	alors
+il	PRO:PER	il
+va	VER:pres	aller
+faire	VER:infi	faire
+des	PRP:det	du
+bêtises	NOM	bêtise
+<segmentation/>
+un	DET:ART	un
+jour	NOM	jour
+il	PRO:PER	il
+a	VER:pres	avoir
+mis	VER:pper	mettre
+un	DET:ART	un
+pot	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+en	PRP	en
+équilibre	NOM	équilibre
+et	KON	et
+pouf	NOM	pouf
+<segmentation/>
+<omission type=""segment""/>
+sur	PRP	sur
+la	DET:ART	le
+tête	NOM	tête
+de	PRP	de
+la	DET:ART	le
+maitresse	NOM	maitresse
+<segmentation/>
+Léon	NAM	Léon
+ne	ADV	ne
+savait	VER:impf	savoir
+pas	ADV	pas
+<segmentation/>
+alors	ADV	alors
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+une	DET:ART	un
+remplaçante	NOM	remplaçant
+.	SENT	.
+Ils	PRO:PER	il
+ont	VER:pres	avoir
+fait	VER:pper	faire
+de	PRP	de
+la	DET:ART	le
+conjugaison	NOM	conjugaison
+<segmentation/>
+Léon	NAM	Léon
+adore	VER:pres	adorer
+<incomprehensible/>
+.	SENT	.
+<omission type=""segment""/>
+que	KON	que
+<unsure>
+raconter	VER:infi	raconter
+</unsure>
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+se	PRO:PER	se
+passe	VER:pres	passer
+le	DET:ART	le
+dimanche	NOM	dimanche
+.	SENT	.

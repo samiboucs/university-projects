@@ -1,0 +1,69 @@
+Il	PRO:PER	il
+est	VER:pres	être
+lundi	NOM	lundi
+matin	NOM	matin
+.	SENT	.
+Léon	NAM	Léon
+ne	ADV	ne
+sait	VER:pres	savoir
+pas	ADV	pas
+quoi	PRO:REL	quoi
+écrire	VER:infi	écrire
+sur	PRP	sur
+son	DET:POS	son
+cahier	NOM	cahier
+<segmentation/>
+alors	ADV	alors
+il	PRO:PER	il
+invente	VER:pres	inventer
+une	DET:ART	un
+histoire	NOM	histoire
+<segmentation/>
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+"	PUN:cit	"
+"	PUN:cit	"
+inacceptable	ADJ	inacceptable
+"	PUN:cit	"
+"	PUN:cit	"
+et	KON	et
+il	PRO:PER	il
+recommence	VER:pres	recommencer
+<segmentation/>
+cette	PRO:DEM	ce
+fois	NOM	foi|fois
+il	PRO:PER	il
+eut	VER:simp	avoir
+0	NUM	@card@
+/	PUN	/
+11	NUM	@card@
+<segmentation/>
+alors	KON	alors
+ce	PRO:DEM	ce
+<unsure>
+week-end	NOM	week-end
+</unsure>
+-là	ADV	là
+sa	DET:POS	son
+maman	NOM	maman
+se	PRO:PER	se
+coupe	VER:pres	couper
+le	DET:ART	le
+doigt	NOM	doigt
+en	PRP	en
+coupant	VER:ppre	couper
+le	DET:ART	le
+gigot	NOM	gigot
+<segmentation/>
+alors	ADV	alors
+le	DET:ART	le
+lundi	NOM	lundi
+matin	NOM	matin
+il	PRO:PER	il
+a	VER:pres	avoir
+raconté	VER:pper	raconter
+sur	PRP	sur
+son	DET:POS	son
+cahier	NOM	cahier
+<nonfini/>

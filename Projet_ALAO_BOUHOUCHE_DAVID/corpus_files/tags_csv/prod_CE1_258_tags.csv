@@ -1,0 +1,110 @@
+Tous	PRO:IND	tout
+les	DET:ART	le
+jours	NOM	jour
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+Simon	NAM	Simon
+doit	VER:pres	devoir
+raconter	VER:infi	raconter
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+fait	VER:pres	faire
+les	DET:ART	le
+dimanches	NOM	dimanche
+mais	KON	mais
+tous	PRO:IND	tout
+les	DET:ART	le
+dimanches	NOM	dimanche
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+d'	PRP	de
+intéressant	VER:ppre	intéresser
+<segmentation/>
+tout	ADV	tout
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+fait	VER:pres	faire
+c'	PRO:DEM	ce
+est	VER:pres	être
+manger	VER:infi	manger
+le	DET:ART	le
+matin	NOM	matin
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+après	KON	après
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+<segmentation/>
+il	PRO:PER	il
+mange	VER:pres	manger
+<segmentation/>
+il	PRO:PER	il
+ne	ADV	ne
+fait	VER:pres	faire
+rien	ADV	rien
+et	KON	et
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+fin	NOM	fin
+de	PRP	de
+la	DET:ART	le
+journée	NOM	journée
+mais	KON	mais
+un	DET:ART	un
+dimanche	NOM	dimanche
+sa	DET:POS	son
+mère	NOM	mère
+s'	PRO:PER	se
+ouvre	VER:pres	ouvrer|ouvrir
+le	DET:ART	le
+doigt	NOM	doigt
+<segmentation/>
+le	DET:ART	le
+sang	NOM	sang
+coulait	VER:impf	couler
+de	PRP	de
+partout	ADV	partout
+<segmentation/>
+c'	PRO:DEM	ce
+était	VER:impf	être
+dégoûtant	ADJ	dégoûtant
+<segmentation/>
+il	PRO:PER	il
+marqua	VER:simp	marquer
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+s'	PRO:PER	se
+était	VER:impf	être
+passé	VER:pper	passer
+à	PRP	à
+l'	DET:ART	le
+école	NOM	école
+<segmentation/>
+il	PRO:PER	il
+lut	VER:simp	lire
+son	DET:POS	son
+texte	NOM	texte
+et	KON	et
+<omission type=""segment"">
+très	ADV	très
+bien	ADV	bien
+8	NUM	@card@
+sur	PRP	sur
+10.	NAM	@ord@

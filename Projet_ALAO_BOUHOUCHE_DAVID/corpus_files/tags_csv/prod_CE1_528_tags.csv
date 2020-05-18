@@ -1,0 +1,33 @@
+Ce	PRO:DEM	ce
+lundi	NOM	lundi
+matin	NOM	matin
+Léon	NAM	Léon
+a	VER:pres	avoir
+eu	VER:pper	avoir
+une	DET:ART	un
+rédaction	NOM	rédaction
+sur	PRP	sur
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+a	VER:pres	avoir
+fait	VER:pper	faire
+dimanche	NOM	dimanche
+<segmentation/>
+la	DET:ART	le
+première	NUM	premier
+fois	NOM	foi|fois
+il	PRO:PER	il
+n'	ADV	ne
+avait	VER:impf	avoir
+pas	ADV	pas
+réussi	VER:pper	réussir
+<segmentation/>
+la	DET:ART	le
+deuxième	NUM	deuxième
+fois	NOM	foi|fois
+il	PRO:PER	il
+a	VER:pres	avoir
+eu	VER:pper	avoir
+zéro	NOM	zéro
+.	SENT	.

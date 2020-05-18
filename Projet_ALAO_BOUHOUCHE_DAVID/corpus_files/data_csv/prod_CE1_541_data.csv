@@ -1,0 +1,119 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_541
+
+Cette production contient : 
+
+	67 forme(s)/token(s)
+
+	62 mot(s)
+
+	19 hapax
+
+	210 caractère(s)
+
+	Une moyenne de 3 caractère(s) par mot
+
+	5 phrase(s)
+
+	Une moyenne de 12 mot(s) par phrase
+
+	33 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Léon : 1
+		fait : 2
+		des : 1
+		rédactions : 1
+		à : 2
+		l' : 2
+		école : 2
+		Les : 1
+		dimanches : 1
+		il : 7
+		ne : 1
+		rien : 1
+		Un : 3
+		lundi : 1
+		a : 3
+		eu : 2
+		un : 4
+		zéro : 1
+		sur : 4
+		dix : 5
+		dimanche : 1
+		compris : 1
+		qu' : 3
+		fallait : 1
+		fasse : 1
+		quelque : 1
+		chose : 1
+		pour : 1
+		ait : 1
+		jour : 2
+		et : 1
+		autre : 1
+		vingt : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 10)
+		('DET:ART', 10)
+		('PRO:PER', 7)
+		('NUM', 7)
+		('PRP', 6)
+		('VER:pres', 5)
+		('SENT', 5)
+		('KON', 4)
+		('VER:pper', 3)
+		('ADV', 2)
+		('VER:subp', 2)
+		('NAM', 1)
+		('PRP:det', 1)
+		('VER:impf', 1)
+		('PRO:IND', 1)
+		('PRO:REL', 1)
+		('ADJ', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('PRO:PER', 'il'), 7)
+		(('DET:ART', 'un'), 7)
+		(('SENT', '.'), 5)
+		(('NUM', 'dix'), 5)
+		(('PRP', 'sur'), 4)
+		(('DET:ART', 'le'), 3)
+		(('VER:pres', 'avoir'), 3)
+		(('VER:pres', 'faire'), 2)
+		(('PRP', 'à'), 2)
+		(('NOM', 'école'), 2)
+		(('NOM', 'dimanche'), 2)
+		(('VER:pper', 'avoir'), 2)
+		(('KON', 'que'), 2)
+		(('NOM', 'jour'), 2)
+		(('NUM', 'vingt'), 2)
+		(('NAM', 'Léon'), 1)
+		(('PRP:det', 'du'), 1)
+		(('NOM', 'rédaction'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'rien'), 1)
+		(('NOM', 'lundi'), 1)
+		(('NOM', 'zéro'), 1)
+		(('VER:pper', 'comprendre'), 1)
+		(('VER:impf', 'falloir'), 1)
+		(('VER:subp', 'faire'), 1)
+		(('PRO:IND', 'quelque'), 1)
+		(('NOM', 'chose'), 1)
+		(('KON', 'pour'), 1)
+		(('PRO:REL', 'que'), 1)
+		(('VER:subp', 'avoir'), 1)
+		(('KON', 'et'), 1)
+		(('ADJ', 'autre'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.532258064516129
+
+	Score BLEU : 0.003302162599973985
+
+	Précision : 0.5882352941176471
+
+	Rappel : 0.10416666666666667
+
+	F-mesure : 0.1769911504424779
+

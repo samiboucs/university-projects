@@ -1,0 +1,108 @@
+Les données suivantes sont issues de l'analyse de la production : prod_CE1_476
+
+Cette production contient : 
+
+	49 forme(s)/token(s)
+
+	46 mot(s)
+
+	18 hapax
+
+	160 caractère(s)
+
+	Une moyenne de 3 caractère(s) par mot
+
+	1 phrase(s)
+
+	Une moyenne de 46 mot(s) par phrase
+
+	30 type(s) de mots dont la distribution fréquentielle est la suivante :
+
+		Un : 1
+		garçon : 3
+		une : 3
+		maman : 1
+		un : 1
+		papa : 1
+		et : 2
+		soeur : 3
+		le : 2
+		il : 3
+		embêtait : 1
+		sa : 2
+		famille : 2
+		criait : 1
+		pour : 1
+		dire : 1
+		que : 2
+		ce : 1
+		n' : 1
+		est : 2
+		pas : 1
+		lui : 2
+		dit : 1
+		c' : 1
+		Et : 1
+		va : 1
+		faire : 1
+		bêtise : 1
+		la : 1
+		ma : 2
+
+	Liste (triée par fréquence décroissante) du nombre d'occurrences de chaque catégorie : 
+
+		('NOM', 11)
+		('DET:ART', 7)
+		('PRO:PER', 6)
+		('KON', 5)
+		('DET:POS', 4)
+		('VER:pres', 4)
+		('PUN', 2)
+		('VER:impf', 2)
+		('VER:infi', 2)
+		('PRO:DEM', 2)
+		('ADV', 2)
+		('PRP', 1)
+		('SENT', 1)
+
+	Liste (triée par fréquence décroissante) des lemmes et de leurs catégories : 
+
+		(('DET:ART', 'un'), 5)
+		(('NOM', 'garçon'), 3)
+		(('KON', 'et'), 3)
+		(('NOM', 'sœur'), 3)
+		(('PRO:PER', 'il'), 3)
+		(('PUN', ','), 2)
+		(('DET:ART', 'le'), 2)
+		(('DET:POS', 'son'), 2)
+		(('NOM', 'famille'), 2)
+		(('KON', 'que'), 2)
+		(('PRO:DEM', 'ce'), 2)
+		(('VER:pres', 'être'), 2)
+		(('PRO:PER', 'lui'), 2)
+		(('DET:POS', 'mon'), 2)
+		(('NOM', 'maman'), 1)
+		(('NOM', 'papa'), 1)
+		(('VER:impf', 'embêter'), 1)
+		(('VER:impf', 'crier'), 1)
+		(('PRP', 'pour'), 1)
+		(('VER:infi', 'dire'), 1)
+		(('ADV', 'ne'), 1)
+		(('ADV', 'pas'), 1)
+		(('VER:pres', 'dire'), 1)
+		(('SENT', '.'), 1)
+		(('VER:pres', 'aller'), 1)
+		(('VER:infi', 'faire'), 1)
+		(('NOM', 'bêtise'), 1)
+		(('PRO:PER', 'la'), 1)
+
+	Richesse lexicale (Type-Token Ratio) : 0.6521739130434783
+
+	Score BLEU : 0.00032221503910152995
+
+	Précision : 0.5
+
+	Rappel : 0.08333333333333333
+
+	F-mesure : 0.14285714285714285
+
